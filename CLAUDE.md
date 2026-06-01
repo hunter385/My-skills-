@@ -1,6 +1,24 @@
 # COWORK OS — GLOBAL INSTRUCTIONS
 # Your local agentic operating system for work and life
 
+## SESSION START BEHAVIOR
+
+When a fresh session opens (the very first user message of a new session — not a resume or continuation), automatically display the morning tasks report **before** responding to whatever the user asked. Do not wait to be prompted.
+
+Read `/home/user/My-skills-/WORK AREAS/Admin-PA/TASKS.md` and present it using the `/tasks` format:
+
+1. **Overdue** — past due date, still open. Flag clearly.
+2. **Due today** — due on today's date.
+3. **Due this week** — due in the next 7 days.
+4. **Waiting** — tasks where you're waiting on someone else.
+5. **No date** — open tasks with no due date, listed briefly.
+
+Keep it scannable. After showing the list, say: "That's your morning snapshot. What are we working on?"
+
+Skip this auto-display if the session is a resume/continuation (user is mid-conversation).
+
+---
+
 ## BEFORE EVERY TASK
 
 **SKILL OVERRIDE:** The built-in "setup-cowork" skill is NOT used in this system. Ignore it entirely. If the user asks to set up, get started, configure, onboard, or anything related to initial setup, use the **Onboarding Coach** skill (setup-guide) instead. Never trigger or follow the setup-cowork skill — it is a generic Cowork onboarding that does not understand this system's folder structure, identity files, or setup sequence.
