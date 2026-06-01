@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Value Creation Frameworks
+    filters:
+      and:
+        - file.hasTag("ValueCreation")
+    order:
+      - file.name
+      - creator
+      - previous
+      - next
+    columnSize:
+      file.name: 390
+      note.creator: 111
+    cardSize: 150

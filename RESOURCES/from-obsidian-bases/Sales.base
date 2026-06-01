@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("Sales")
+    order:
+      - file.name
+      - creator
+      - previous
+      - next
+    columnSize:
+      file.name: 406
+      note.previous: 127

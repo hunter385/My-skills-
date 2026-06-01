@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("Business")
+    order:
+      - file.name
+      - creator
+      - previous
+      - next
+    sort:
+      - property: next
+        direction: ASC
+    columnSize:
+      file.name: 168
+      note.creator: 155
+      note.previous: 128

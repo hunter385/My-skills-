@@ -1,0 +1,510 @@
+---
+title: Know What You're For
+author: Jeff Henderson and John C. Maxwell
+source_url: https://www.notion.so/6a47d97087784688b7b1f0ae3f8f6fe7
+date_added: 2026-05-30
+date_published: unknown
+type: Book-highlights
+tags: ["topic-vault", "readwise-vault"]
+referenced_by_topics: ["business", "marketing"]
+---
+
+Here is the result of "view" for the Page with URL https://www.notion.so/6a47d97087784688b7b1f0ae3f8f6fe7 as of 2023-06-16T16:03:15.472Z:
+<page url="https://www.notion.so/6a47d97087784688b7b1f0ae3f8f6fe7" icon="https://images-na.ssl-images-amazon.com/images/I/51%2B7nBjnnGL._SL200_.jpg">
+<ancestor-path>
+<parent-data-source url="collection://5b54c90e-5328-4c1a-8679-469de2932b1b" name="Library"/>
+<ancestor-2-database url="https://www.notion.so/13ad939f560c414b825d45ac8c2a2118" title=""/>
+<ancestor-3-page url="https://www.notion.so/92bfa9ac85f3481ab886518cb4f96498" title="readwise"/>
+<ancestor-4-page url="https://www.notion.so/32330c00cb5580cab9f0c5a37ff8f1c6" title=""/>
+<ancestor-5-page url="https://www.notion.so/32330c00cb5580809ca5cafcb22c1274" title=""/>
+<ancestor-6-page url="https://www.notion.so/32330c00cb55809c8e5fd66f56d28031" title="Hunter Wilson"/>
+</ancestor-path>
+<properties>
+{"Author":"Jeff Henderson and John C. Maxwell","Category":"Books","Document Notes":"","Full Title":"Know What You're For","Highlights":222,"Summary":"","Title":"Know What You're For","date:Last Highlighted:is_datetime":1,"date:Last Highlighted:start":"2020-01-18T04:56:00.000Z","date:Last Synced:is_datetime":1,"date:Last Synced:start":"2023-06-16T16:03:00.000Z","topic vault":["https://www.notion.so/2b630c00cb55803db297c62115781b25","https://www.notion.so/2b630c00cb5580249721e81c521f01bf"],"url":"https://www.notion.so/6a47d97087784688b7b1f0ae3f8f6fe7","userDefined:URL":"https://www.amazon.com/gp/product/B07PQ4YYD1"}
+</properties>
+<content>
+Turns out that being FOR people is a great way to build success. ([Location 304](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=304))
+<empty-block/>
+That’s my life’s purpose too. In fact, I know I exist to add value to leaders who multiply value to people. ([Location 310](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=310))
+<empty-block/>
+Everything that you and I do as leaders in business or in the community is about people, and the people we serve are constantly asking three questions of us and our organizations:         1.    Do you like me?         2.    Can you help me?         3.    Can I trust you? If you look closely, you’ll see that the first two questions have nothing to do with you or me and everything to do with the people we desire to serve. ([Location 313](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=313))
+<empty-block/>
+People want to know we are FOR them. ([Location 319](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=319))
+<empty-block/>
+Businesses\] have to understand the greatest source of their credibility isn’t the brand—it’s the customers of the brand.           •    Before we can build a business, we must build a community.           •    The larger you can draw your circle of influence, the wider your potential impact spreads.           •    We don’t do business with people we don’t trust. At least not for long.           •    Information is important. But inspiration is always better. ([Location 323](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=323))
+<empty-block/>
+A way that doesn’t want to take but strives to add. A way that benefits both Wall Street and Main Street. A way that is less concerned about creating fans and more about becoming a fan. ([Location 348](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=348))
+<empty-block/>
+It’s about treating customers not as algorithms but as people. ([Location 351](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=351))
+<empty-block/>
+It’s no longer telling people how great our products are and why we’re better than our competitors. ([Location 352](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=352))
+<empty-block/>
+When customers realize an organization is truly for them, they return the favor. ([Location 356](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=356))
+<empty-block/>
+It’s what happens when you build an organization around who you’re FOR. ([Location 361](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=361))
+<empty-block/>
+I realized that Truett was FOR me. He was more interested in what he could do FOR me than in what I could do FOR him. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=391))
+<empty-block/>
+Truett was more interested in the business growing people than he was in people growing the business. And that’s exactly how his business grew. When you are FOR the people in and around your business, the people in and around your business become FOR you. ([Location 394](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=394))
+<empty-block/>
+If you are currently experiencing a decline in sales or momentum, this book is written for you. If you ever fear a decline in sales or momentum, this book is written for you. If you are experiencing a decline in participation in a nonprofit organization, this book is written for you as well. And if you’re experiencing a decline in momentum or growth personally, this book is for you too. FOR is about growing the business and the people in the business—and that, of course, includes you. What we’re going to discover is that growing, improving organizations are full of growing, improving people. Growth is a nonnegotiable. Without it, bad things happen. Healthy things grow. Unhealthy things die. ([Location 398](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=398))
+<empty-block/>
+Instead of shouting about how great the business is, we need to start talking about how great our customers are and engage with them about their life. Thriving businesses will practice less monologue and more dialogue. ([Location 416](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=416))
+<empty-block/>
+The thriving businesses of tomorrow will take a different approach. Instead of talking about the business, the CEO will ask different questions. Far less about the business. Far more about the customer. “How are you?” “What are your dreams, your hopes?” “How can we help?” ([Location 421](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=421))
+<empty-block/>
+You do this by being FOR people. You do this by helping people move closer to their potential. To be more FOR them than you are FOR yourself. ([Location 431](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=431))
+<empty-block/>
+For an organization to grow there are four groups to be FOR:           •    the customer           •    the team           •    the community           •    and you ([Location 439](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=439))
+<empty-block/>
+FOR the Customer One of the primary ways a business grows is by creating a sales force for free. Everyone understands the value of positive word-of-mouth advertising. The problem is that it seems so elusive, even mysterious. We’re going to take the mystery out of it by giving you a very practical strategy for engaging with your customers. In this section, we’ll introduce a relatively new form of customer engagement that very few brands, businesses, and organizations are leveraging. If you are interested in creating positive word-of-mouth advertising, this section will lead you there. ([Location 448](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=448))
+<empty-block/>
+A customer is treated like the team is treated. For example, when I walk into a business, I can instantly tell how the team is being treated. It is flowing to me and the other customers. ([Location 456](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=456))
+<empty-block/>
+It’s no longer enough to be the best company IN the world. It’s about being the best company FOR the world. ([Location 470](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=470))
+<empty-block/>
+Most social media posts of a business are 99.9 percent about the business. Most advertising is as well. And the same could be said of churches and nonprofits. “Look at our products.” “New sermon series starting Sunday!” “Buy one, get one free!” The focus is clearly on the business, by the business, for the business. This has been the case for so long that it’s sometimes hard to see the danger in this. But the danger’s there, and it’s only growing. ([Location 514](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=514))
+<empty-block/>
+Here’s why: If a business was a person, many businesses would be considered narcissists. And narcissism is bad for business. The definition of a narcissist is “a person who has an excessive interest in or admiration of themselves.” And to pile on, Google drives home the point further: “Narcissists are those who think the world revolves around them.” If a business was a person, many businesses would be considered narcissists. And narcissism is bad for business. ([Location 519](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=519))
+<empty-block/>
+I’m suggesting we’ve been taught to shine the spotlight on the organization and not the customer. ([Location 529](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=529))
+<empty-block/>
+Before I’m kicked out of the building, we do a quick exercise by visiting the Instagram page of their church. I ask them to count how many of the last ten posts are about the church and how many are about the community or people outside the four walls of the church. Usually, it’s nine to one in favor of the church. Honestly, more often than not, it’s ten to zero. In other words, the spotlight is clearly on the church and not the community. The business world is no different. ([Location 532](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=532))
+<empty-block/>
+“A brand is no longer what it tells consumers it is—it is what consumers tell each other it is.”1 ([Location 545](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=545))
+<empty-block/>
+“The number one question customers are asking about a business is, ‘Do they care about me?’” ([Location 552](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=552))
+<empty-block/>
+Typically, you’ll find a queue line, and then when it’s your turn, the branch employee will say, “Next.” “How many of you,” Mr. Schulze will ask his audiences, “are named ‘Next’?” One of the greatest sounds we like to hear is when someone says our name. “Hey, buddy” often sounds like, “You don’t know my name.” “Hey, Jeff” creates a much better feeling and emotion when I hear it. I bet the same is true with you. It’s why the Ritz-Carlton built a system around getting to know your name and spreading it to the rest of their team during your stay. When they say your name, it shows they care. ([Location 558](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=558))
+<empty-block/>
+Jesse was eight years old at the time. When we arrived, the Ritz-Carlton team helped us get our bags out of the car. The first thing they did, though, was to introduce themselves and ask for our names. (Note: this is a system.) They asked us to proceed to the registration desk, where they would meet us with our bags. As we were walking in, I glanced back to see the bellman whispering into his shirtsleeve, like he was in the Secret Service. (Note: this is another system.) Quick question—what was he doing? Why was he whispering into his sleeve? It all goes back to a question that customers ask: “Does this business really care about me?” And nothing quite communicates care than when a customer hears a business say their name. As Jesse and I walked into the beautiful Ritz-Carlton Buckhead and approached the registration desk, we were greeted with, “Good evening, Mr. Henderson and Jesse. We are so glad you’re here.” I wish you could have seen Jesse’s eyes. ([Location 567](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=567))
+<empty-block/>
+Let’s rewind the tape and reveal what happened. As Jesse and I drove up, the bellman knew his most important job wasn’t just helping us with our bags; his most important job was discovering our names. Once he had our names, he went Secret Service on us by radioing to the front desk. “Mr. Henderson and his daughter, Jesse.” ([Location 581](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=581))
+<empty-block/>
+What’s most impressive to me about this is that it required planning. It required thinking through a system that could be replicated throughout the entire Ritz-Carlton chain. Somewhere at some time, a team of people sat down and said, “How can we capture the names of our guests and repeat it back to them within thirty seconds of their arrival?” ([Location 588](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=588))
+<empty-block/>
+Learning and saying their names is a Wow. When this happens, we show customers we care. And this is great for business growth because every customer is asking a question about your organization: “Do they care about me?” ([Location 593](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=593))
+<empty-block/>
+We must learn to care more for the customer than we care for the business. We must learn to care more about people than about the organization. This isn’t bad for business because customers are the business. Caring for the customer creates an emotional bond that allows them to care more about the business. Now, more than ever, we have an extraordinary opportunity to show customers we care. ([Location 602](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=602))
+<empty-block/>
+Truett was more interested in the business growing people than he was in people growing the business. And that’s exactly how his business grew. ([Location 646](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=646))
+<empty-block/>
+This is exactly how Jan grew her business as well. She is more interested in growing her clients than growing her client base. There’s a significant difference between the two. This is what it means to be FOR your clients and customers. ([Location 647](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=647))
+<empty-block/>
+What causes a business or organization to grow? Well, here are the three causes:         1.    When our focus is on growing people, people grow the business.         2.    When we think more about how the business can help and serve people, the more people we will eventually help and serve.         3.    When we think more about the customer than we do the business, it is the best way we can think about the business. When we’re thinking about our customer, we ARE thinking about the business. ([Location 651](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=651))
+<empty-block/>
+What Causes a Business to Grow? This leads to our two questions that will follow us throughout the rest of the book:         1.    What do we want to be known FOR?         2.    What are we known FOR? ([Location 692](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=692))
+<empty-block/>
+“What do we want to be known FOR?” is our vision. It’s our big idea. It’s our niche, our foothold, in the marketplace. The first question is the one we answer. Here lies the purpose, the vision, the why. “What are we known FOR?” is the customers’ experience of our vision. It’s their reflection of whether they are experiencing the purpose and vision of the organization. The first question is what we say; the second question is what customers say. ([Location 696](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=696))
+<empty-block/>
+Within these two questions is the secret to growth. When the answers to these two questions match, growth happens. It’s that simple. And it’s that hard. ([Location 701](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=701))
+<empty-block/>
+When what you want to be known FOR is actually what you are known FOR, customers become a sales force for free by telling others about you. When you have a compelling vision, product, and purpose, and customers experience it, they gladly become a source of positive word-of-mouth advertising. When what you want to be known FOR is actually what you are known FOR, customers become a sales force for free by telling others about you. ([Location 702](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=702))
+<empty-block/>
+The goal isn’t perfection; the goal is progress. It’s why the goal of every organization should be to shrink the gap between the answers to these two questions and make sure they match as consistently as possible. ([Location 710](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=710))
+<empty-block/>
+The challenge is that many organizations aren’t clear about what they want to be known FOR. And if the organization is confused about this, the customers most certainly will be. ([Location 715](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=715))
+<empty-block/>
+Joey Reiman, author of The Story of Purpose: The Path to Creating a Brighter Brand, a Greater Company, and a Lasting Legacy, says, “Purpose is where your company’s distinctive gifts intersect with the needs of the world.”5 ([Location 735](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=735))
+<empty-block/>
+And that’s when it started. Everyone started talking about what we’re FOR. More importantly, WHOM we are FOR.           •    “We’re FOR Gwinnett kids.”           •    “We’re FOR Gwinnett businesses.”           •    “We’re FOR Gwinnett adults.”           •    “We’re FOR Gwinnett students.”           •    “We are FOR Gwinnett.”           •    “It’s about THEM; it’s not about US.” That was eight years ago. Our aim has been to stay on message from then until now. It’s what we want to be known FOR. This has been a huge rallying cry for us, providing clarity of the why behind the what for the who. Okay, we can relax. Church talk is over. Here’s my point. “What do you want your organization to be known FOR?” And before we go to the file drawer to pull out our four-paragraph mission statement, we must remind ourselves that the walk to the file drawer means no one knows what the purpose statement is that’s in the file drawer. ([Location 770](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=770))
+<empty-block/>
+“What do we want to be known FOR?” Tony wanted Zappos to be known for delivering happiness more than delivering shoes. ([Location 792](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=792))
+<empty-block/>
+The team at Zappos is crystal clear about their answer to the question, “What do we want to be known FOR?” They sell shoes and apparel, but they want to be known for delivering happiness, and it’s working. How about you? What does your organization want to be known FOR? ([Location 811](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=811))
+<empty-block/>
+Once you have a clear, concise, and compelling answer to this question, your next step is to connect it with the second question. ([Location 814](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=814))
+<empty-block/>
+“What do we want to be known FOR?” is the brand promise. “What are we known FOR?” reveals how well we are delivering on the promise. ([Location 817](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=817))
+<empty-block/>
+All of that leads me to this: In order to ensure consistent growth, the goal of everyone in the organization should be to make the answers to “What do we want to be known FOR?” and “What are we known FOR?” match. This is also the most important challenge for any leader. When there is a gap between these two questions, symptoms of decline will appear. It may look like a disengaged staff, inconsistent customer ratings, and declining sales. That’s not the real problem though. It’s deeper than that. ([Location 828](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=828))
+<empty-block/>
+Along those lines, another idea is to informally ask people on your team and your customers, “What are we known FOR?” This won’t be as scientific as the survey will be, but it may give you a quick, intuitive feel for what’s really happening. ([Location 844](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=844))
+<empty-block/>
+But before a business leaps toward ambition, they must ask the more grounded question: “What are we known FOR?” The answer in this case is . . . pancakes. When you are known for one thing but talk about being known for something else, you lose an important value to your brand: CREDIBILITY. ([Location 862](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=862))
+<empty-block/>
+1.    Ask each team member to identify one of their favorite companies, and why it’s one of their favorites.                 2.    Then ask them what’s the one thing that company is known FOR.                 3.    How are they delivering on their brand promise?                 4.    Transition the conversation to your organization by asking, “What are we known FOR?”                 5.    Follow this by asking, “What do we want to be known FOR?”                 6.    Finish the meeting by identifying gaps between these two questions. ([Location 889](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=889))
+**Note:** Pastoral Staff
+<empty-block/>
+If we’re not careful, though, we can find ourselves behind the counter all the time. This is dangerous because we see the business from a place the customer never sees it. As a result, we make decisions that are logical to us but perhaps not logical to the customer. ([Location 910](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=910))
+**Note:** Visit churches
+<empty-block/>
+What’s the cure to insider-itis? Seeing things from the customer’s perspective. When you see the business from the customer’s perspective, the logical decisions we make from our perspective aren’t so logical sometimes. Not responding to or engaging customers on social media seems logical to a big brand or organization. ([Location 915](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=915))
+<empty-block/>
+Consumer Logic versus Producer Logic Let me give you an example of producer logic in the quick-service restaurant industry. Producer logic says we need to get the food out as quickly as possible, which is true. As a result, there is a temptation to produce as many fries and food as possible and have it waiting in the chutes. That way, it’s ready to go when the orders come in. This makes perfect sense from a producer’s standpoint. When you look at this with consumer logic, it’s a really bad strategy if the quality of the food is jeopardized. The consumer doesn’t care if everyone gets their food on time. They’re interested in getting their food on time AND getting it hot and fresh. There’s nothing wrong with food in the chutes; there’s something very wrong with food in the chutes if there’s too much of it and the quality suffers. ([Location 922](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=922))
+<empty-block/>
+Granted, you could argue that the chutes help serve the consumer because it improves speed of service. Good point. The larger point, however, is to make sure you’re basing that decision on consumer logic versus producer logic. When a consumer is ordering “fresh popcorn” over the popcorn in the chute, there may be a problem. The challenge is to make sure you are seeing your business from the front side of the counter. If not, we tend to see the business only from behind the counter. This is where stale popcorn lives and businesses go to die. ([Location 936](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=936))
+<empty-block/>
+As a result, I have to be their advocate. I have to see the church from their perspective. Not only that, I have to see the church from the perspective of someone who is not on staff. For example, on Sundays I arrive at the church a couple of hours before our first worship gathering. At this time, there are no parking problems, no check-in lines, and all is wonderfully quiet. I have perfectly created a system where I see no problems. ([Location 948](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=948))
+<empty-block/>
+Creativity, Inc. “What makes Pixar special is that we acknowledge we will always have problems, many of them hidden from our view; that we work hard to uncover these problems, even if doing so means making ourselves uncomfortable; and that, when we come across a problem, we marshal all of our energies to solve it.”6 You shouldn’t be discouraged if you find or notice a problem in your business. Nor should you discourage someone on the team when they bring up a problem, especially if they are seeing it from a consumer logic standpoint. You are seeing the business from their perspective. This is a huge win because it allows everyone to remember the main thing. Part of the challenge is making sure everyone knows what the main thing really is. Most organizations assume clarity on this issue when that’s not actually the case. But let’s assume there is clarity. That’s only half the battle. ([Location 952](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=952))
+<empty-block/>
+These four strategies will help you keep the main thing the main thing:         1.    What you see         2.    What you celebrate         3.    Where you meet         4.    What you talk about ([Location 963](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=963))
+<empty-block/>
+1. What You See Don’t just say it. Show it. Words are powerful, but research tells us over and over again that words plus images are more powerful. The walls of your organization should be dripping visually with vision. And yes, this can happen for virtual organizations as well. ([Location 968](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=968))
+<empty-block/>
+It’s why we created signs at strategic places for our Guest Services volunteers to see. We picked up this idea from the Notre Dame football team. On the way out to the stadium before the game, the players tap a sign that reads, “Play Like a Champion Today.” Our team does the same thing by tapping this sign—“Every Sunday Is Someone’s First Sunday”—before they go out to serve. Visually showing the vision and creating a literal touchpoint is a powerful way to keep the main thing the main thing. ([Location 975](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=975))
+<empty-block/>
+Bottom line—keep the vision visible. ([Location 981](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=981))
+<empty-block/>
+I learned so much from Jimmy, but one of the top lessons was “catch people doing right.” For many employees, they hear more from their boss about what’s going wrong than what’s going right. In fact, the first thing many employees think when the boss is calling is, Oh no. What did I do? ([Location 983](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=983))
+<empty-block/>
+Another classic Jimmy story: He’d walk back to the kitchen and ask, “Who made this pie?” He’d say it in a rather demanding tone. After a few moments of silence, someone in the kitchen timidly raised their hand, realizing perhaps that they had messed up in front of the boss. Jimmy walked over, put his hand on their shoulder, and announced to everyone in the kitchen, “This is an excellent pie. Exactly how it should be made!” Do you think that employee remembered that day? Do you think it enhanced their passion for making the best pie possible, day in and day out? ([Location 992](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=992))
+<empty-block/>
+It’s why stories are so important. Sure, I believe in data. Data helps us make better decisions. But data alone rarely inspires. It’s stories, celebration stories to be exact, that remind people of the main thing. (We’ll talk more about this in section 2—FOR the Team.) ([Location 998](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=998))
+<empty-block/>
+What does your organization celebrate? What are the stories you can tell? What is your system to find stories to celebrate? Remember, when purpose lives in an organization, an organization lives in purpose. ([Location 1018](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1018))
+**Note:** What stories are we looking for? How are we empowering our team and creating systems to get them
+<empty-block/>
+That’s the good news. The challenging news is why did it take Disney from 1955 to 1999 to figure out a solution to the problem? Often it’s because we aren’t up close and personal enough with our guests to hear and see real-time problems. ([Location 1034](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1034))
+<empty-block/>
+It’s why I believe one of the most important mantras to increase innovation and creativity is “get out of the office.” ([Location 1036](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1036))
+<empty-block/>
+Most meetings deal with the sustainability of the organization—sales, data, and projections, which are all very important and worthwhile. It’s also why many organizations eventually fail. The sustainability of the organization unknowingly becomes the goal, and customers are a means to that end. ([Location 1038](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1038))
+<empty-block/>
+Ask this question: “How is this helping the person we are trying to serve?” This will help you stay focused on the ones who will ultimately bring about your success—the customers. ([Location 1041](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1041))
+<empty-block/>
+The challenge with many organizations is how to close the gap between our two questions:           •    What do you want to be known FOR?           •    What are you known FOR? Remember, customers tell customers where the gaps are between our marketing and their experience. Are we really FOR them? Or honestly, are we just trying to get them to be more FOR us? ([Location 1044](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1044))
+<empty-block/>
+it’s not at the heart of your business to do this, it won’t happen. But if the heart and soul are there, you will give your customers something positive to tell others. When this happens, it’s priceless. When customers build a business, it is the healthiest form of growth there is. ([Location 1050](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1050))
+<empty-block/>
+Here’s one of my favorite definitions of a raving fan from Chick-fil-A. A raving fan from their perspective is someone who does three things:           •    pays full price           •    visits more often           •    tells others about the business ([Location 1068](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1068))
+<empty-block/>
+Winning organizations of tomorrow will be more concerned with becoming fans of their customers instead of convincing customers to become fans of the organization. ([Location 1078](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1078))
+<empty-block/>
+Ultimately, customers aren’t a means to an end. Instead, the business is a means to an end. ([Location 1080](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1080))
+<empty-block/>
+Much of it has to do with where the spotlight is. Chubbies features their customers, while Home Depot and Lowe’s feature products. Products don’t engage on social media; people do. ([Location 1105](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1105))
+<empty-block/>
+This will require a proactive strategy we call “FOR the Customer.” Very, very few brands are actually doing this. The spotlight is still shining brightly on the business. ([Location 1132](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1132))
+<empty-block/>
+Most businesses forget the social in social media. The reason for this is that social media is usually housed under the advertising department and is treated along the same lines as billboard advertising. There’s nothing wrong with billboard advertising. It’s just hard to have a conversation with a billboard. Therein lies the power of social media—the potential to have a conversation with your customers in real time. ([Location 1141](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1141))
+<empty-block/>
+Customer engagement is the new customer service. What’s the difference between the two? Customer service is reactive; customer engagement is proactive. Reactive customer service is:         Customer: “My fries were cold.”         Company: “We are so sorry. Here’s a coupon for your next visit.” ([Location 1150](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1150))
+<empty-block/>
+Now before I explain it, let me challenge you to be open-minded about this phrase “customer engagement.” For those of you in the nonprofit world, the word customer could be replaced with member, volunteer, donor, etc. For those in the start-up phase, simply think of these as potential customers. Proactively engaging with people online who are either customers or potential ones is where the game is going, at least if you want to let them know you are FOR them. ([Location 1168](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1168))
+<empty-block/>
+fun—just like print advertising should be. The problem is that it’s social media—and there is no social happening. And as a fan of Home Depot, I want to quickly point out that most brands are in the same boat. ([Location 1194](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1194))
+<empty-block/>
+The invisible barrier is when companies stay exclusively on their own social media platforms, never venturing onto the platforms of their customers. Home Depot, for example, has the potential of 725,000 possible customer engagement opportunities. Let’s take Dana, one of Home Depot’s Instagram followers, who recently got engaged. A simple like of her engagement post and a comment—“Congratulations, Dana, from your friends at Home Depot”—would create a compelling, memorable moment for her. ([Location 1202](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1202))
+<empty-block/>
+Remember, customer service is reactive; customer engagement is proactive. ([Location 1215](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1215))
+<empty-block/>
+When we shift the spotlight from the business to the customer and have a “FOR the customer” mind-set, it changes the way we view our marketing and messaging. Instead of shouting, “Look how great we are,” thriving organizations will instead celebrate their customers and say, “Congratulations! You just got engaged.” Instead of saying, “Follow us on Facebook,” thriving organizations will say, “We want to follow you on Facebook.” Instead of shouting, “Choose us,” thriving organizations of the future will say to their customers, “We choose you.” ([Location 1216](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1216))
+<empty-block/>
+For example, go to your Instagram page, click on the followers section, and break through the invisible barrier by visiting their Instagram page. Like a photo. Comment on it. Show them you’re paying attention to them. Don’t forget. They’re already following you and interested in you. Returning the favor is small, scrappy, and smart. ([Location 1229](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1229))
+<empty-block/>
+And that’s when the idea of a company was born. Eryn quit her full-time job and decided to launch So Worth Loving on Black Friday in November 2011. But before there was an online sale, there was an online community. Too often, entrepreneurs can rush to market by building the product, but then they realize they haven’t built a community. And that means there’s no one to buy the product. Before we can build a business, we must build a community. ([Location 1250](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1250))
+<empty-block/>
+She isn’t treating her customers like an algorithm; she’s treating them like people. ([Location 1262](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1262))
+<empty-block/>
+It goes back to the question Horst Schulze says customers are asking: “Do they really care about me?” It’s why it’s even more incumbent on large organizations to figure out ways to scale meaningful, personable interactions. It’s why start-ups need to figure out how to do it from the very beginning. It’s why churches, struggling to figure out the digital space, must leverage this new frontier in personable ways. ([Location 1264](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1264))
+<empty-block/>
+At the core of the FOR strategy is a theory suggesting that brands and organizations, churches included, need to stop talking about themselves so much. Instead, they need to start talking more about the customers and the community. Shift the focus from the business to the customer. ([Location 1277](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1277))
+<empty-block/>
+respond. A “Meaningful Brand,” the term Havas uses, is defined by its impact on our personal and collective well-being, plus its functional benefits. In other words, the question isn’t, “Is this a good product?” The question is, “Does this brand care about us and me?” ([Location 1280](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1280))
+<empty-block/>
+portions of the data. First, why does being meaningful matter?           •    People wouldn’t care if 74 percent of the brands they use disappeared.           •    Only 27 percent think the brands they use make life better. (In other words, they don’t think most brands care.)           •    75 percent expect brands to make a contribution to our well-being and quality of life . . . yet only 40 percent believe brands are doing this. Second, the question of whether or not meaningful, personal interactions impact the bottom line should be retired now. Between 2006 and 2016, meaningful brands have outperformed the stock market by a whopping 206 percent.11 ([Location 1284](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1284))
+<empty-block/>
+Customers are savvy enough to know if we are focused on their well-being or simply focused on the well-being of the business. They can tell the difference and will reward the businesses that do. The more personable organizations become, the more meaningful they will be. Organizations that figure this out will win. ([Location 1292](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1292))
+<empty-block/>
+Customer service will get you there; customer engagement will keep you there. ([Location 1296](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1296))
+<empty-block/>
+Customer engagement proactively tells your customers something we all want to hear.           •    “We see you.”           •    “We celebrate you.”           •    “We are here for you.” ([Location 1297](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1297))
+<empty-block/>
+Havas points out that 77 percent of millennials expect this kind of meaningful interaction from brands.12 And indications are that the expectations of Generation Z will be even higher. This is why structuring your organization around the FOR strategy is not just good business; it’s vital for the long-term well-being of your organization to be concerned about the well-being of your customer and community. ([Location 1302](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1302))
+<empty-block/>
+“The international sign to know if someone needs encouraging,” Truett said, “is if they are breathing. If they’re breathing, they need encouraging.” ([Location 1326](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1326))
+<empty-block/>
+But what if you created a culture that saw each day as an opportunity to encourage your customers? What if no moment was “too small” in your company culture? ([Location 1330](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1330))
+<empty-block/>
+I’m convinced we need more CEOs—chief encouragement officers, and here’s why: encouragement is never small when you’re on the receiving end of it. ([Location 1335](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1335))
+<empty-block/>
+At some point, most business leaders give in to the reality of growing big. Before you know it, personal touches are replaced with efficiency. We scale the business by putting distance between human beings, and the heart of the organization is replaced with a machine. Since we can’t provide encouraging personal touches for everyone, we stop providing encouraging personal touches for anyone. Is it any wonder then why many large organizations drift off purpose? What got them there fades away. Is this the plight of growing businesses and organizations? ([Location 1351](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1351))
+<empty-block/>
+It’s why one of my favorite insights from Andy Stanley is this: “Do for one what you wish you could do for everyone.”13 This isn’t just a great thought; it’s a great system. ([Location 1368](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1368))
+<empty-block/>
+“Since we can’t do this for everyone, we can’t do this for someone. Since we can’t encourage and wow every customer, we won’t encourage and wow any customer.” ([Location 1370](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1370))
+<empty-block/>
+Andy’s insight takes the pressure off of trying to interact with everyone while maintaining the power of personal interactions by serving someone. This is a counterintuitive approach to growth because it scales the small memorable moments into the business. Don’t forget. One of the goals of this book is to help you harness the power of positive word-of-mouth advertising for your organization. For this to happen, you must give them something positive to say. ([Location 1376](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1376))
+<empty-block/>
+You can fake great customer service with a television commercial; you can’t fake great customer service in real life. ([Location 1385](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1385))
+<empty-block/>
+Thriving businesses of the future will start seeing customers as friends. The better a friend you are to your customers, the better a friend your customers will be to you. This is why small is the new big. ([Location 1423](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1423))
+<empty-block/>
+The core values of fab’rik are: ([Location 1436](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1436))
+<empty-block/>
+Wow ([Location 1440](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1440))
+<empty-block/>
+Every day, when the franchise owners of fab’rik open their doors, they know one of their goals is to deliver at least one Wow to a customer. ([Location 1446](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1446))
+<empty-block/>
+One of our Guest Services values is to deliver Wow—to serve our guests so well that they literally say, “Wow!” To do that, we remind everyone that our goal every Sunday is for each of us to Wow one person. If each of us will commit to doing this individually, we will collectively Wow hundreds of our guests every Sunday. ([Location 1455](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1455))
+<empty-block/>
+We all know word-of-mouth advertising is the greatest form of advertising there is. ([Location 1514](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1514))
+<empty-block/>
+Again, this isn’t as much about social media as it is about creating a business that engages with customers on their turf. ([Location 1516](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1516))
+<empty-block/>
+To fully harness the power of social media, organizations must consistently walk on what I call the social loop. Whenever an organization posts something, the loop begins. Customers and followers may start responding, and a conversation loop has begun. Here’s how it normally works:           •    The organization posts.           •    A follower responds.           •    The organization does nothing. Well, at least nothing from the organization’s side. The followers start talking to one another, but the organization has stopped engaging on this post because they’re working on the next post. As a result, the conversation loop is rarely, if ever, closed. Here’s the ironic part. The better the post, ([Location 1533](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1533))
+<empty-block/>
+Think of it this way. You’re having coffee with a friend. You start the conversation. They respond. You say nothing. Or worse yet, you get up and leave and go to another table. How would that make your friend feel? This is exactly how a customer feels when they comment on a post and a business doesn’t respond. I’ve shared this with small and large organizations. Everyone usually agrees, but then they respond with a systems question: “But how do we do this with limited staff? We’re just trying to be consistent with content, much less respond to the comments.” ([Location 1543](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1543))
+<empty-block/>
+Mistake #1: Treating Social Media as a Megaphone and not a Telephone A megaphone approach highlights the business where the primary emphasis is promotion. Instead, think of social media as a telephone—an opportunity to have a conversation with your customers. Sure, that doesn’t mean you don’t post about products or services. But all of that is secondary to creating a real connection with your customers, one in which they feel noticed and appreciated. ([Location 1555](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1555))
+<empty-block/>
+Mistake #2: Believing That Content Management \> Customer Engagement In most organizations the emphasis is on posting about the organization and then moving on. This shows the organization is more interested in “looking good” than in being personal and engaging with their customers. If you work for a large organization, this can be a frustrating comment. For example, in one of Coca-Cola’s Instagram posts, they received more than a thousand comments. How could they possibly respond to every one of those comments? Great question. ([Location 1559](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1559))
+<empty-block/>
+The point isn’t to try to comment or respond to everything. The point is to create a game plan to comment and interact more. ([Location 1564](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1564))
+<empty-block/>
+Here’s why this is important. For companies to truly leverage social media, they are going to have to up their game with personal interaction. The more personable the interaction is, the more remarkable the experience will be. And customers will notice. To use the old but still true analogy from hockey star Wayne Gretzky, “I don’t skate to where the puck is. I skate to where the puck is going.” ([Location 1566](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1566))
+<empty-block/>
+When it comes to social media, personal engagement is where the puck is going. ([Location 1570](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1570))
+<empty-block/>
+Most organizations outsource their content management. ([Location 1571](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1571))
+<empty-block/>
+Why not do the same with customer engagement? ([Location 1572](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1572))
+<empty-block/>
+Here’s a great exercise for you and your team. Find the last email your organization sent and read it. Did it add value or just provide information? The answer dictates the open rate of emails. ([Location 1581](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1581))
+<empty-block/>
+It goes back to having a FOR mind-set for your audience. ([Location 1600](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1600))
+<empty-block/>
+Mistake #4: Never Visiting Customers’ Social Media Platforms and Interacting with Them There ([Location 1602](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1602))
+<empty-block/>
+When’s the last time your organization liked an Instagram post, a Facebook post, or a tweet from one of your followers?           •    When’s the last time your organization commented on a customer’s social media platform?           •    What is an example of your organization reaching beyond its social media platform and engaging with a customer? ([Location 1618](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1618))
+<empty-block/>
+What systems do you have in place to ensure that your organization interacts with customers on their social media platforms? ([Location 1623](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1623))
+<empty-block/>
+The goal is to show them that we truly are FOR them. ([Location 1626](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1626))
+<empty-block/>
+Strategy #1: Follow Your Followers ([Location 1628](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1628))
+<empty-block/>
+Along those lines, instead of asking customers to “follow us on Twitter,” we should let them know we want to follow them. ([Location 1633](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1633))
+<empty-block/>
+It’s a better, more personable approach to say, “We want to follow you.” ([Location 1634](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1634))
+<empty-block/>
+Strategy #2: More Dialogue, Less Monologue ([Location 1642](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1642))
+<empty-block/>
+I believe if you aren’t going to dialogue with customers on social media, you should probably just stop posting. When a customer speaks and you don’t dialogue, it’s rude. It’s better just to be quiet on social media than to stir up comments that are left in cyberspace for the rest of us to see. ([Location 1646](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1646))
+<empty-block/>
+However, there’s a better way. More dialogue. Create a system where you can leverage the feedback and customer interaction your social media is creating. If not, you end up marketing to your own detriment. ([Location 1649](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1649))
+<empty-block/>
+Strategy #3: More Likes, Fewer Posts ([Location 1651](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1651))
+<empty-block/>
+Your competitors are too busy talking about themselves, while you can be focused on talking with your customers. It’s personable, which makes it both memorable and remarkable to your customers. ([Location 1654](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1654))
+<empty-block/>
+Simply click on their page and then on a post, and like it. You can comment on it as well. But the comment isn’t about you. It’s certainly not “check out our latest offer.” That’s about you. That’s not what we’re going for. Your new strategy is to like customers’ posts more than you post yourself. A goal would be fifty customer engagements each day. This may seem like a small thing, but it’s not when you’re on the receiving end. ([Location 1656](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1656))
+<empty-block/>
+At Gwinnett Church, we begin our staff meetings by going to Instagram and searching the hashtag #ForGwinnett. Our goal is for each of us to like ten posts and comment on two. ([Location 1660](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1660))
+<empty-block/>
+But I can’t comment or like everyone’s post. Remember what Andy Stanley said: “Do for one what you wish you could do for everyone.” ([Location 1663](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1663))
+<empty-block/>
+What we need here isn’t an excuse; what we need is a system. ([Location 1664](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1664))
+<empty-block/>
+But we can’t let this truth be the final word. I believe there are ways to outsource this work while at the same time being true to the personality of your brand and creating a personal human touch online. For example, I can remember when there was a day that companies didn’t have social media departments. We’ve since figured that out. We can figure this out as well. If you don’t, your competitors just might. ([Location 1674](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1674))
+**Note:** Everliker and a system for commenting
+<empty-block/>
+Strategy #4: Talk More about the Customer, Less about the Business ([Location 1680](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1680))
+<empty-block/>
+The goal isn’t to stop talking about the business or organization; the goal is to achieve a better balance in order to be consistent with the purpose of the organization. Too often, the messaging implies that the goal is to “keep the business alive.” While that’s important, it’s not the purpose of thriving organizations. It’s not how you close the gap between the two questions. ([Location 1683](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1683))
+<empty-block/>
+What would this look like for you? How can you shift the spotlight from the business and start highlighting the people in and around your business? This is where thriving businesses are moving to—less transactional and more relational. ([Location 1701](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1701))
+<empty-block/>
+When you focus on the relational over the transactional, more transactions happen because you’ve earned a customer for life. ([Location 1704](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1704))
+<empty-block/>
+The true value is in keeping customers. But the pathway to getting there is changing. You must show your customers the heart you have for them—consistently. You must be more personable, more engaging, and more focused on them and FOR them. To help with this, check out the link in the bonus ([Location 1706](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1706))
+<empty-block/>
+It’s all about purpose. And that purpose is no longer about us. It’s all about them. It’s all FOR them. In turn, it’s how they become FOR us. ([Location 1713](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1713))
+<empty-block/>
+Here’s why: how the team is treated is eventually how the customer is treated. ([Location 1734](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1734))
+<empty-block/>
+“The first two words that came to mind were hopefulness and helpfulness,” Sid said. “If our team doesn’t experience hopefulness and helpfulness working here, our customers will never experience it shopping here. “It’s very important that the people who work here realize their role isn’t just selling clothes; their role is taking care of people. “Another question we ask ourselves is, ‘How do we enhance someone’s life?’ We believe hopefulness and helpfulness is the way. “This isn’t a business philosophy; it’s a life philosophy.”15 ([Location 1750](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1750))
+<empty-block/>
+Going out of your way is often better than pointing the way. ([Location 1769](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1769))
+<empty-block/>
+Here’s what it looks like: Obviously, this isn’t an exhaustive list. And yet these soft skills provide an energy, a feeling, a passion, that hard data in and of itself just can’t.           •    Believe abundantly.           •    Appreciate consistently.           •    Develop intentionally.           •    Listen actively. ([Location 1792](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1792))
+<empty-block/>
+Live repeatedly. ([Location 1800](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1800))
+<empty-block/>
+Here’s why: people who are believed in work harder than those who aren’t. ([Location 1827](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1827))
+<empty-block/>
+It was also highly manipulative, with a short time frame. Most coaches coach specific players for a very limited time. Once the eligibility of the player is done, a new group appears. A new group to doubt. Over time, though, this approach wears thin. People leave. It may work at four-year schools, but at work, people just leave. And not only is a high turnover rate financially costly; it burns the culture at an even faster rate. It doesn’t mean you don’t challenge. It doesn’t mean you don’t confront. The exact opposite happens. Belief allows you the platform to call everyone to a higher standard. ([Location 1831](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1831))
+<empty-block/>
+My experience is that team members want this kind of feedback. The most harmful feedback isn’t negative; the most harmful feedback is none at all. Belief is instilled by design, not by default. Therefore the question isn’t, “Do you believe in your team?” The question is, “When is the last time you’ve told them?” Believing abundantly allows you to fight off one of the greatest dangers within any organization: fear. Thriving organizations deeply desire to have a spirit of innovation. Without it, the pace of change outside the organization will quickly outpace the change inside the organization. When this happens, the end is near. ([Location 1839](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1839))
+<empty-block/>
+Organizations don’t stop innovating. People do. ([Location 1846](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1846))
+<empty-block/>
+The reason people stop innovating is because of fear. They are afraid of failing. The problem with this is you can’t have innovation without mistakes. Just ask Thomas Edison. Innovation is fueled more by belief in the team than criticism of the team. Belief sparks innovation. Criticism sparks fear. The question then is how do you balance belief and challenge? ([Location 1848](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1848))
+<empty-block/>
+Dr. Irwin describes a different approach, which he calls “Alliance Feedback.”20 Constructive criticism is top down. “You are not meeting my expectations.” Alliance Feedback is peer-to-peer. “You are not meeting your expectations.” See the difference? In this case, we take the time to get to know the person and their aspirations, hopes, and personal standards. We create an alliance with the people we lead and serve. Alliance Feedback is where a manager aligns herself with the employee, helping them live out who they truly want to become. When the personal and corporate standards aren’t being met, the manager reminds them of their own personal expectations. ([Location 1862](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1862))
+<empty-block/>
+One of the observations I’ve made about thriving organizations is they have a culture of deep appreciation. There is a genuine and active gratitude for the team and the work everyone does. The word active is important. Just because you’re grateful for someone doesn’t necessarily mean they know it. Years ago, I learned one of the greatest principles I’ve ever heard about gratitude from Andy Stanley. According to Andy, feeling grateful isn’t enough. You have to express it. “Unexpressed gratitude,” he said, “communicates ingratitude.” Thriving organizations take gratitude and appreciation seriously. It’s why one of the core practices of being FOR the team is appreciate consistently. As William James once pointed out, “The deepest principle of human nature is the craving to be appreciated.”21 ([Location 1881](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1881))
+<empty-block/>
+The Power of the Handwritten Note ([Location 1890](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1890))
+<empty-block/>
+My challenge to you is to write three thank-you notes a day, five days a week. I’m not very good at math but I’m told that’s fifteen notes a week. If I give you two weeks off for vacation, that’s fifteen notes a week times fifty weeks, which again I’m told is 750 handwritten notes a year. ([Location 1927](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1927))
+<empty-block/>
+“When you exceed the expectations of the team, they exceed the expectations of the customer.” ([Location 1947](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1947))
+<empty-block/>
+“There is a common saying in business that ‘you get what you measure,’” Frank said. “You also get what you celebrate. This is why handwritten notes are so important because one of your jobs is to let people working in your organization understand what you want. The most powerful way to do that is to celebrate them and what they did.”25 ([Location 1954](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1954))
+<empty-block/>
+why isn’t it happening more often in organizations? The answer is simple. We don’t have a system to turn good intentions into reality. Thanks to Frank Blake, now you do. ([Location 1959](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1959))
+<empty-block/>
+The more specific the better. A general thank-you isn’t good enough. This is why collecting specific stories are helpful. Stories provide opportunities for you to specifically point out what the team member did and why it connects to the vision and mission of your organization. Highlight who they are, not just what they did. There is no way to grow a healthy organization with unhealthy people. I know this may make us a bit uncomfortable in the business world, but I firmly believe one of our tasks as leaders is to grow the character and integrity of the teams we serve. While highlighting what a team member did, you can simply add, “This shows your heart, humility, and character. It shows the kind of person you are, and I am honored to be on this team with you.”26 ([Location 1992](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=1992))
+<empty-block/>
+There was no specified goal for the meeting. The team showed up because I asked them to put it on their calendar. ([Location 2048](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2048))
+<empty-block/>
+The Big L Leader has three components:           •    Thought Leader           •    People Leader           •    Project Leader One of the ways David shows his team he’s for them is to help them grow in each of these areas. His theory is that as an individual grows in each area, they grow into a Big L Leader, moving closer to their potential. I think he’s right. When I saw this, I immediately wondered if it could be a framework for the meetings I led. Since it applies to individuals, could it also apply to teams? If a team grows in each of these areas, could the team move closer to its collective potential? ([Location 2053](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2053))
+<empty-block/>
+Thought Leadership: How can we see and shape the future?           •    People Leadership: Am I growing? Are we growing?           •    Project Leadership: How can we be more effective and efficient at the same time? ([Location 2065](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2065))
+<empty-block/>
+Under each section would be the pertinent information related to the three. For example, under Thought Leadership, I usually bring an insight from the current book I’m reading. Under People Leadership, we talk about our culture, what it feels like to work around here, and other issues related to staffing. And then we save the last for Project Leadership, which is usually a list of items we need to make decisions on and become aware of as a leadership team. ([Location 2069](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2069))
+<empty-block/>
+Believe abundantly.           •    Appreciate consistently.           •    Develop intentionally. ([Location 2085](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2085))
+<empty-block/>
+“The listening tour gave me a guide to know how to best build trust with the team,” Cheryl said. “There were many things I heard that I had already suspected, but there was also quite a lot that was new to me. It was the foundation of what was to come.” One of the ways she did this was by asking the team questions and then following up with these three powerful words: “Tell me more.” “Tell me more” is so powerful because it shows humility, curiosity, and value. This simple approach led to several innovations. Here are two of them. ([Location 2103](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2103))
+<empty-block/>
+“Oh, that’s easy to answer,” one franchisee said. “It’s when you don’t bring a PowerPoint presentation to the meeting.” “Tell me more,” Cheryl said. “The very fact that you have a PowerPoint presentation shows you already have the answer,” the franchisee continued. “All we are there for is to tell you we like your answer. That’s not a great way to collaborate.” ([Location 2117](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2117))
+<empty-block/>
+“What would it look like if we eliminated the PowerPoint approach and worked differently?” “You would show up with an empty flip chart and two markers,” he said. “Then we would solve the problem together.” Cheryl said she learned a powerful lesson from the franchisees. “They were teaching us what listening looked like in real life. It looks like a blank piece of paper and an open mind to hear what others have to say. You simply can’t hear a great new idea or the solution to a problem if you’re busy talking. When you collaborate on the answer ([Location 2122](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2122))
+<empty-block/>
+This is one of the best gifts you can give people on the team—a vision worth working for. It is something that is bigger than you and me. It requires us. ([Location 2162](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2162))
+<empty-block/>
+In other words, the vision is so much bigger than Chris. It’s so much bigger than a few people. It needs an us. ([Location 2173](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2173))
+<empty-block/>
+Once you have that kind of vision, it leads to a simple, powerful recruiting question: “Do you want to become a part of us, because we need you?” ([Location 2174](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2174))
+<empty-block/>
+Maybe the reality about millennials isn’t that they are lazy. Maybe the reality is that they are bored. They aren’t in it to sell stuff. They want to know that what they’re selling is leading to something good. Selling stuff is fine, but once you’ve tasted purpose, it’s hard to just sell stuff. Sure, Boosterthon sells fun runs. But in actuality, what they’re selling is purpose, not just to their clients but to their team. And when you sell purpose to your team, a compelling purpose that requires a committed, bought-in us, well, the energy is palpable. You can feel ([Location 2175](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2175))
+<empty-block/>
+“What does it feel like to work here?” “Culture is what I love the most,” Chris said. “I want an environment that is fun and memorable. Most of all, we want our culture to reinforce our mission and vision.” ([Location 2182](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2182))
+<empty-block/>
+When initiatives like this aren’t going as fast as the CEO would like, they are often tempted to power up. Eventually you hear that dreaded word mandate. There’s a better approach. Granted, it takes more time, but instead of mandating, you put the vision on repeat. You live repeatedly. ([Location 2218](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2218))
+<empty-block/>
+Vision rarely repeated is quickly forgotten. ([Location 2226](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2226))
+<empty-block/>
+The reason you’ve heard “my pleasure” at Chick-fil-A is because Truett put the message on repeat. ([Location 2228](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2228))
+<empty-block/>
+Whenever I hear “my pleasure” at Chick-fil-A, I ask myself this question: “Am I repeating the vision as much as Truett did?” Whenever you hear this from now on, I’m asking you to ask yourself the same question. Living the vision repeatedly elevates the team. It breathes life and encouragement into the culture of the organizations we serve. Chris Carneal is right. There is something in all of us that wants to work for something bigger than ourselves. By repeating the vision, you’re giving those you work with an amazing gift—the gift of purpose. ([Location 2232](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2232))
+<empty-block/>
+“The main thing is keeping the main thing the main thing.” The challenge for many organizations and teams is confusion over what the main thing actually is. ([Location 2236](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2236))
+<empty-block/>
+Eventually we no longer work for a purpose. We work at a job. People easily leave jobs. It’s hard to walk away from purpose. ([Location 2239](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2239))
+<empty-block/>
+After spending some time with the operator and hearing about their business, David would ask a simple question: “What did you do today to build your business?” ([Location 2249](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2249))
+<empty-block/>
+When I learned this question from David, I thought it could apply to vision casting as well. After all, one of the best ways to build your business daily is to remind everyone daily of the vision behind the business. Here’s what I know about the people you work with and what I know about you. Each of you is on a pursuit toward meaning. I am too. We want our days to matter. We are searching for meaningful, purposeful work. This is why vision needs to be on repeat. With this in mind, I modified David’s question slightly and began asking it of myself and our team at Gwinnett Church. “What did we do today to cast vision for our church?” The vision question is like an alarm clock. It nudges us and says, “Welcome to today, another opportunity to live repeatedly what’s most important. What will you do today to keep the main thing the main thing? What will you do today to cast vision for the organization?” ([Location 2256](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2256))
+<empty-block/>
+When a team answers this question repeatedly, the vision lives repeatedly. ([Location 2268](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2268))
+<empty-block/>
+Designing a FOR Culture Let’s do a brief recap: this section is about the opportunity we all have to be FOR the people we work with or report to or those who report to us. Being FOR the team isn’t touchy-feely, unless you think a healthy bottom line is touchy-feely. ([Location 2269](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2269))
+<empty-block/>
+The reason for this is simple: customers experience your culture. An organization can fake it for a while, but eventually if the team doesn’t feel cared for, they won’t take care of the customer. How the team is treated is eventually how the customer is treated. ([Location 2271](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2271))
+<empty-block/>
+It’s why the overall principle about being FOR the team is one about your culture: culture is created by default or by design. Here’s the road map on how to design a FOR culture:           •    Believe abundantly.           •    Appreciate consistently.           •    Develop intentionally.           •    Listen actively.           •    Live repeatedly. ([Location 2278](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2278))
+<empty-block/>
+“If our church closed down, would the community even notice?” ([Location 2299](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2299))
+**Tags:** orange
+<empty-block/>
+I wanted us to add so much value to the community that if someday we decided to close the church, the community would protest and try to keep us open. I would want the mayor, school ([Location 2301](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2301))
+<empty-block/>
+I would want the mayor, school principals and teachers, business owners, and parents and students to call and say, “You can’t close! Our community needs this church to stay open.” ([Location 2302](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2302))
+**Tags:** orange
+<empty-block/>
+Here’s how this works: When people who aren’t your customers speak positively about your organization to people who are your customers, it increases loyalty on the part of the customers. People want to feel good about the companies and organizations they support. One of the ways to do this is to do good for goodness’ sake, no strings attached. ([Location 2351](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2351))
+**Tags:** orange
+<empty-block/>
+Creating a sense of belonging \> getting someone to buy something. ([Location 2398](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2398))
+**Tags:** orange
+<empty-block/>
+What problem is our organization trying to solve for the community?           •    How are we making the community better?           •    Why should the community care if our organization starts to struggle?           •    What larger purpose do customers or participants belong to when they support our organization?           •    What would we like to be known FOR in the community?           •    What are we known FOR in the community?           •    Where are we doing good for goodness’ sake, no strings attached? Searching for a Community to Belong ([Location 2407](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2407))
+**Tags:** orange
+<empty-block/>
+“People come because they want to lose weight or gain muscle strength, but they stay for the community,” ter Kuile said. “It’s really the relationships that keep them coming back.” ([Location 2451](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2451))
+**Tags:** orange
+<empty-block/>
+What is it that your organization offers that could create FOMO and belonging? Remember, belonging and FOMO are two sides of the same coin. ([Location 2487](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2487))
+**Tags:** orange
+<empty-block/>
+Do you see the contrast in those last two sentences? “We’re here FOR you. Come join us.” It’s not about us. It’s about you. So come join us. The question, then, is, “Do I have something to offer that’s worth belonging to? Will people experience FOMO if they aren’t a part of what we’re doing?” ([Location 2495](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2495))
+**Tags:** orange
+<empty-block/>
+Thriving organizations understand how to transition people from benefiting from the mission to participating in the mission. ([Location 2500](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2500))
+**Tags:** orange
+<empty-block/>
+We fulfill dreams of personal freedom—it’s our purpose, and we take it seriously. And while freedom means different things to different people, it’s a bond that brings Harley-Davidson customers, employees, dealers, suppliers and enthusiasts together. ([Location 2531](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2531))
+**Tags:** orange
+<empty-block/>
+If you’re a business leader, how are you leveraging the before, during, and after movements of the purchase? If you’re a nonprofit leader, how can people belong before they believe or before they donate? How is your purpose baked into the purchase? And what feeling or emotion are you providing in the process? ([Location 2560](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2560))
+**Tags:** orange
+<empty-block/>
+Listen to the community. Listening is quickly becoming a source of great insight for companies. ([Location 2599](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2599))
+**Tags:** orange
+<empty-block/>
+Talk with your community. It’s important to talk with your community more than at your community. ([Location 2606](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2606))
+**Tags:** orange
+<empty-block/>
+How’s your day going?           •    What’s the best tip on parenting you’ve ever heard?           •    If you could only go to one concert, what would it be?           •    What’s the best book you’ve read in the past six months?           •    Who in our community deserves encouragement and recognition?           •    Who was your biggest influence before you turned twenty, and why?           •    What’s the best vacation spot you visited in the last two years? What may be confusing about these questions is that they have ([Location 2609](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2609))
+**Tags:** orange
+<empty-block/>
+3. Celebrate the community. One of the best ways to build your digital community is celebrating the people in it. Remember what we said at the beginning of the book—winning brands of the future will be more concerned with becoming fans of the customer instead of trying to get the customer to become fans of the brand. ([Location 2626](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2626))
+**Tags:** orange
+<empty-block/>
+The social media guide we provide offers a plan for each day of the week. Five days a week, fifty-two weeks a year adds up to 260 celebratory moments from you to the community at large. Trust me. Few organizations are doing this because they’re too busy talking about themselves. A bank executive recently questioned this approach by saying, “I don’t see other organizations doing this, so I’m not sure we need to be doing this.” “This is precisely why you need to be doing this,” I replied. Ironically, this bank’s marketing proudly features the word local. It’s easy to put the word local in our advertising and make local media ad buys. But remember, customers are too savvy for what we say about ourselves. They are watching to see if we truly are local. The way we prove this is to show we actually do care. Taking a moment to structure a celebratory system on your social media feed is a simple way to show you care. Remember what Truett said: “If a person is breathing, they need encouraging.” When a business becomes a source of encouragement and support, the community no longer sees it just as a business but as a friend. And when you are FOR your community, your community will be FOR you. As the bank executive pointed out, other organizations aren’t doing this. The door is wide open. ([Location 2634](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2634))
+**Tags:** orange
+<empty-block/>
+In a world that wants to make a quick buck or go viral on social media, Zim provides a huge lesson for all of us: community first; sell second. ([Location 2662](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2662))
+**Tags:** orange
+<empty-block/>
+This is the power of being FOR your community. When a community sees you as a trusted source, your credibility grows. This leads to a very important process. Credibility leads to influence. Influence leads to community. Community leads to belonging. Belonging leads to FOMO. ([Location 2668](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2668))
+**Tags:** orange
+<empty-block/>
+As you can see, Zim built a business based on authenticity, credibility, and community. This leads us to another series of questions—influence questions—to ask ourselves and the organization:           •    What kind of expertise do I have that I can freely share with others?           •    What kind of experience do I have that would be valuable for others to learn from?           •    How can our organization become a leading voice of influence in our category? ([Location 2683](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2683))
+**Tags:** orange
+<empty-block/>
+The point is that our impact must flow well beyond the walls, physical and virtual, of our business and organization. For example, churches can too often focus on what happens inside the four walls while rarely looking out into the community. It’s why we must move beyond the boundaries of our organizations and interact with our communities by asking a simple but powerful question: How can we help? ([Location 2705](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2705))
+**Tags:** orange
+<empty-block/>
+the better you know the community surrounding your business, the better your business can serve the surrounding community. One of the best practices you can implement for your business is to ask the mayor or city officials of your community this question. Be curious. Search for problems that your business or organization can solve. It certainly doesn’t obligate you in any way, but what you will find often helps both the community and the organization. ([Location 2712](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2712))
+**Tags:** orange
+<empty-block/>
+“Success is measuring yourself against other people. Excellence is measuring yourself against your own potential. When you choose excellence, you move closer to your potential. You’ve got a lot of potential, Jeff. The question isn’t about success; the question is, ‘Will you move closer to your potential?’” That question isn’t just for me. The burrito at lunch was just for me, but the question Tim asked is for both of us. Will we move closer to our potential? ([Location 2769](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2769))
+**Tags:** orange
+<empty-block/>
+“It’s not enough to be the best company in the world; we must be the best company FOR the world.” ([Location 2793](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2793))
+**Tags:** orange
+<empty-block/>
+If you were a corporation, we would begin with the two FOR questions:           •    What do you want to be known FOR?           •    What are you known FOR? One of the reasons many people feel a disconnect at work and in their personal life is that the answers to these two questions are different. ([Location 2841](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2841))
+**Tags:** orange
+<empty-block/>
+1. Your Life Moves to a Better Place When You Move at a Sustainable Pace Fatigue makes cowards of us all,” the legendary football coach Vince Lombardi taught his team.40 It also makes bad decisions, is cranky, and chooses short-term over long-term almost every time. ([Location 2882](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2882))
+**Tags:** orange
+<empty-block/>
+Quarterly recharge. Try to build in a getaway or reflection day each quarter. The goal of that day is exercise, solitude, reading, reflecting on the last quarter, and looking ahead to the next quarter. ([Location 2911](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2911))
+**Tags:** orange
+<empty-block/>
+Several years ago, I came up with a personal challenge called Think 30. The challenge was to think for thirty minutes a day. It could be about something at work or something personal; sometimes I just stared at a blank page. Some days were frustrating. But sometimes it happened. I got an idea I never would have gotten otherwise. I never knew when it would happen, and that’s the point. Thinking is like fishing. Some days are better than others, but you never catch something unless you show up. What does a Think 30 day look like? Good question. I’ve discovered it’s usually better when I’m rested. (See point #1.) For me, I do my best thinking in the morning. Once you’ve carved out the time, here’s how to leverage thirty minutes of thinking: ([Location 2928](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2928))
+**Tags:** orange
+<empty-block/>
+Before you start, read something for at least five minutes. It may be a meditation or the current book you’re reading—anything to get your mind going in the right direction.           •    Set a timer for ten minutes. This will help you avoid the urge to check your phone, email, Facebook, and the like. The hardest ten minutes of the Think 30 is the first ten because your brain is screaming to do something else. The brain tries to conserve energy, and thinking expends a lot of energy. No wonder we end up watching cat videos on YouTube when we try to think. Don’t let your brain trick you. Trick your brain instead with three ten-minute increments.           •    Write at the top of the page the goal for this particular Think 30 session. It may be thinking about a problem at work that needs a solution, planning out your dream vacation, pondering how to increase your income or how to be a better spouse, etc. My experience is that it’s usually better to have a specific goal, although there are times when I just sit down with a blank page and a cup of coffee and see what happens. ([Location 2934](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2934))
+**Tags:** orange
+<empty-block/>
+Once your first ten-minute session is over, set your timer for the second ten-minute session. During this time, write down any thought that comes to mind. Even if you can’t think of anything to write down, just write, “I can’t think of anything to write down.” The goal here is quantity, not quality. At the end of the ten minutes, put your pen down and go on to the last ten-minute session.           •    In this ten-minute session, you look for connections in what you just wrote down. Is there a sentence, phrase, or word that connects and can be built on? Steve Jobs said, “Creativity is just connecting things.”43 In this final ten-minute session, you’re becoming more creative by simply making connections with what you just thought about and wrote down. ([Location 2944](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2944))
+**Tags:** orange
+<empty-block/>
+Distance mentoring. Some of the best mentors in my life are people who have never met me. Mentoring in real time and in person is great, but it doesn’t have to be limited to that. This is why reading is so important. It allows you to be mentored by the very people you admire from a distance. It’s why Truett Cathy said, “The two ways a person improves is the books they read and the people they interact with.” Real-time mentoring. One of the best ways to determine who should be a sharpener in your life is to look around and ask, “Which of the people I admire is further along in life than me?” This doesn’t have to be limited to business. For example, when Wendy and I were expecting our first child, I made a list of men with teenage or young adult children whom I respected and admired. I asked if I could take them to breakfast and learn from them as dads. They sharpened me as a father, and I still implement the advice I heard from them to this day. In fact, now that my kids are teenagers, I’m sharing that invaluable advice with younger dads. ([Location 2970](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2970))
+**Tags:** orange
+<empty-block/>
+My responsibility is not the answer; my responsibility is the ask. I should never stop asking big because I presuppose how someone will answer. My responsibility is to ask big. I need to be faithful to the ask and see what happens. ([Location 2987](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=2987))
+**Tags:** orange
+<empty-block/>
+THE TEACHER                 •     The voice of the teacher is instructional, with explanation as the goal.                 •     The weakness of this voice can potentially be a lack of connection with the crowd.                 •     The question the teacher must answer for the audience is, “Why is this content important?” ([Location 3018](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=3018))
+**Tags:** orange
+<empty-block/>
+THE MOTIVATOR                 •     The voice of the motivator is action-oriented, with personal change as the goal.                 •     The weakness of this voice is that it can lean more on inspiration and less on content and clarity.                 •     The question the motivator must answer for the audience is, “What do I want you to do with this information?” ([Location 3023](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=3023))
+**Tags:** orange
+<empty-block/>
+THE STORYTELLER                 •     The voice of the storyteller is engaging, with an emotional connection with the crowd as the goal.                 •     The weakness of this voice can be a lack of direction and clarity regarding the purpose of the presentation.                 •     The question the storyteller must answer is, “Where am I taking the audience?” ([Location 3029](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=3029))
+**Tags:** orange
+<empty-block/>
+THE VISIONARY                 •     The voice of the visionary is inspiring, with organizational/world change as the goal.                 •     The weakness of this voice is clearly articulating the how behind the why of the change.                 •     The question the visionary must answer is, “How are we going to accomplish this?” ([Location 3035](https://readwise.io/to_kindle?action=open&asin=B07PQ4YYD1&location=3035))
+**Tags:** orange
+<empty-block/>
+</content>
+</page>

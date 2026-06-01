@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("ValueDelivery")
+    order:
+      - file.name
+      - creator
+      - previous
+      - next
+    columnSize:
+      file.name: 394
+      note.creator: 125
+      note.previous: 258

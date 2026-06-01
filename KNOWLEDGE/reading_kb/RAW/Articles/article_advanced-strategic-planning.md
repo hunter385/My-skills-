@@ -1,0 +1,633 @@
+---
+title: Advanced Strategic Planning
+author: Aubrey Malphurs
+source_url: https://www.notion.so/aa69d103075c4c348b205617d9a81be2
+date_added: 2026-05-30
+date_published: unknown
+type: Book-highlights
+tags: ["topic-vault", "readwise-vault"]
+referenced_by_topics: ["business"]
+---
+
+Here is the result of "view" for the Page with URL https://www.notion.so/aa69d103075c4c348b205617d9a81be2 as of 2023-08-07T03:09:13.380Z:
+<page url="https://www.notion.so/aa69d103075c4c348b205617d9a81be2" icon="https://images-na.ssl-images-amazon.com/images/I/51Y0RCgJwWL._SL200_.jpg">
+<ancestor-path>
+<parent-data-source url="collection://5b54c90e-5328-4c1a-8679-469de2932b1b" name="Library"/>
+<ancestor-2-database url="https://www.notion.so/13ad939f560c414b825d45ac8c2a2118" title=""/>
+<ancestor-3-page url="https://www.notion.so/92bfa9ac85f3481ab886518cb4f96498" title="readwise"/>
+<ancestor-4-page url="https://www.notion.so/32330c00cb5580cab9f0c5a37ff8f1c6" title=""/>
+<ancestor-5-page url="https://www.notion.so/32330c00cb5580809ca5cafcb22c1274" title=""/>
+<ancestor-6-page url="https://www.notion.so/32330c00cb55809c8e5fd66f56d28031" title="Hunter Wilson"/>
+</ancestor-path>
+<properties>
+{"Author":"Aubrey Malphurs","Category":"Books","Document Notes":"","Full Title":"Advanced Strategic Planning","Highlights":244,"Summary":"","Title":"Advanced Strategic Planning","date:Last Highlighted:is_datetime":1,"date:Last Highlighted:start":"2018-10-04T04:56:00.000Z","date:Last Synced:is_datetime":1,"date:Last Synced:start":"2023-08-07T03:09:00.000Z","topic vault":["https://www.notion.so/2b630c00cb55803db297c62115781b25"],"url":"https://www.notion.so/aa69d103075c4c348b205617d9a81be2","userDefined:URL":"https://www.amazon.com/gp/product/B00B85M4MS"}
+</properties>
+<content>
+Every few hundred years throughout Western history, a sharp transformation has occurred. In a matter of decades, society altogether rearranges itself—its world view, its basic values, its social and political structures, its arts, its key institutions. Fifty years later a new world exists. And the people born into that world cannot even imagine the world in which grandparents lived and into which their own parents were born.\[1\] Drucker’s point is that we are living at one of those rare points in time when an old worldview (modernism) and many of its trappings are dying and another (postmodernism) has been born. The consequence is a massive shift in our culture, science, society, and institutions. This change is enormously greater than the world has ever experienced, and we are caught in the middle of it. We are living at a frightening point of absolute, chaotic discontinuity, watching the old die off and the new rush in to fill the vacuum. Where is the church in all this? How is it doing? The Problem The answer is, not well. In an earlier book, I noted that in 1988 between 80 and 85 percent of churches in North America had either plateaued or were in decline (dying).\[2\] Now in the twenty-first century, that figure has not changed appreciably despite a valiant surge in church planting. The number of unchurched people across America continues to be high, possibly as high as 70 to 80 percent. Penny Marler comments that if the Gallup surveys over the past thirty years that estimate the unchurched to be only 57 percent of the population were accurate, then people would be flocking to our churches. But this is not happening.\[3\] Based on my research and consulting ministry with churches, I am convinced that the typical church does not understand the full implications of megachange. Even when a church has some understanding of the implications, it doesn’t know how to respond in effective ministry to those becoming immersed in the postmodern paradigm. I believe that the majority of seminaries that prepare people for ministry sit in the same boat with the churches. They are still preparing future pastors for ministry to a modern—not a postmodern—world. Most training equips pastors for one hour on Sunday morning but ignores the other forty-plus hours of the week that demand such things as leadership gifts and abilities, people skills, and strategic thinking and doing. My research, pastoral experience, and church consulting indicate that pastoring a church is a leadership-intensive enterprise. It is imperative that a pastor be able not only to preach to a congregation but also to lead and relate well to that congregation.\[4\] ([Location 115](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=115))
+**Tags:** blue
+<empty-block/>
+As someone once said, a problem well defined is a problem half solved. ([Location 140](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=140))
+**Tags:** blue
+<empty-block/>
+My view is that the problem is not what evangelical seminaries teach but what they do not teach. Many evangelical seminaries teach the Bible and theology, and it is imperative that they do so. However, they often do not provide strong training in leadership, people skills, and strategic thinking skills, and this is poor preparation for ministry in today’s shrinking world, which is undergoing intense, convoluted change. ([Location 147](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=147))
+**Tags:** pink
+<empty-block/>
+The S-curve depicts how virtually everything in life begins, grows, plateaus, and then ultimately dies. It is true of human beings. It also may be true of relationships such as marriage. It is true of one’s leadership and it is true of civilizations, as proved by the Greek and Roman empires in the past and the Russian empire today. The Fortune 500 companies demonstrate that it is true of businesses, as a number of companies who made the list one, two, or more years ago are not on that list today. In physics it is the second law of thermodynamics. In biology it is extinction. In terms of worldview it is the shift from theism to deism and then to naturalism or modernism. And today it is the shift from modernism to postmodernism. Not even the church is an exception to the pattern. In short, the world and everything in it are all somewhere on the S-curve. As it relates to the church, the S-curve represents essentially its life-cycle pattern. Like people, churches have a life cycle. In general, a church is born and over time it grows. Eventually it reaches a plateau, and if nothing is done to move it off that plateau, it begins to decline. If nothing interrupts the decline, it will die. Each stage represents a growth challenge for the church. Growing, plateaued, and declining churches all face growth challenges. Some are alike, but most are unique to the church’s particular situation and where it is on the S-curve. The Message The message or lesson of the sigmoid curve is that all good things (and even some bad things) end. In a world of constant, turbulent change, many relationships and most organizations do not last. The pattern is that they wax and eventually wane. Even brand-new institutions and organizations such as a church will, in time, plateau and then die. No matter what institution it is, organizational “dry rot” sets in. The institution becomes brittle, ceases to function, and expires. ([Location 156](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=156))
+**Tags:** pink
+<empty-block/>
+While it does prove helpful to examine specific reasons for the decline of churches, the lesson is that it will happen anyway. ([Location 177](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=177))
+**Tags:** pink
+<empty-block/>
+The answer to the problem of church decline is to start new S-curves. This should occur in several contexts: church planting, church growth, and church revitalization. You would be wise to pay close attention to the context that describes your ministry situation. ([Location 185](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=185))
+**Tags:** pink
+<empty-block/>
+A proactive response. Like church planting, this is a proactive response. The church starts the second curve while it is still virile and growing. It is at this stage that the ministry has the time, resources (people and finances), energy, spirit, and drive to launch the new curve. ([Location 202](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=202))
+**Tags:** pink
+<empty-block/>
+A reactive response. Most leaders wait until the church has plateaued or is in decline before they seek renewal. This is the crisis or reactive mode. But people do not lead and respond well in a crisis context for several reasons. One is that the leaders are discredited. They are the very ones who led the organization into its state of decline, so they are not considered competent as leaders or worthy of trust. People will also respond poorly because of lack of resources. Declining ministries are like sinking ships. Some people are quick to abandon them and take their money with them. There will also be poor esprit de corps. People are down emotionally, which drains them of the energy needed to be involved in renewal. ([Location 211](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=211))
+**Tags:** pink
+<empty-block/>
+Another way to initiate a second curve is to implement some or all of the concepts in this book—discovering your core values; developing a mission, a vision, and a strategy; and so forth. For those who have already discovered and developed these concepts, begin a second curve by revisiting and updating or rethinking them. Other second-curve events are the addition of a more contemporary worship service, transitioning the traditional church service to a contemporary service, adding a service to attract and win seekers, redesigning the traditional Christian education program, launching a vibrant small group ministry, and challenging all the people to go through a process of discovering their divine design and then investing their lives in some aspect of church ministry.\[8\] ([Location 237](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=237))
+**Tags:** pink
+<empty-block/>
+vision statements. Values Mission Vision Strategy Church Lost people matter to God Adults Lost adults matter to God Youth Lost youth matter to God Children Lost children matter to God ([Location 300](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=300))
+**Tags:** pink
+<empty-block/>
+General Ministry Troubleshooting Guide Problems Solutions Spiritual problems (complaining, negativity, grudges) Preparing the Crew—chapter 2 Ministry balance/identity problems (wrong direction) Discovering Core Values—chapter 6  Direction problems (unclear or lack of direction) Developing a Biblical Mission—chapter 4  Direction problems (little passion for direction) Developing a Compelling Vision—chapter 5  Community problems (culturally irrelevant to the community) Reaching the Church’s Community—chapter 8 Disciple-making problems (few if any disciples) Making Mature Disciples—chapter 9 Board problems (power issues and need for clear policies) Building a Ministry Team—chapter 10 Staff problems (general pastor and staff issues) Building a Ministry Team—chapter 10 Congregational problems (few people mobilized for ministry) Building a Ministry Team—chapter 10 Leadership problems (lack of developed leaders) Building a Ministry Team—chapter 10 Location problems (questionable ministry location) Assessing the Ministry Setting—chapter 11 Facilities problems (inadequate facilities and grounds) Assessing the Ministry Setting—chapter 11 Financial problems (barely meeting or not meeting the budget) Raising and Managing Finances—chapter 12 Implementation problems (failure to accomplish strategy) Launching the Boat—chapter 13 Evaluation problems (resistance to change and need for improvement) Evaluating the Course—chapter 14 ([Location 326](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=326))
+**Tags:** pink
+<empty-block/>
+This chapter serves as the leader-navigator’s twelve-item prelaunch checklist. ([Location 362](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=362))
+**Tags:** pink
+<empty-block/>
+“Does a planning process which involves evaluation and a long-range plan correlate with church growth? The answer is yes. Survey results show that 85 percent of churches which have grown off the plateau have reevaluated their programs and priorities during the past five years, as compared to 59 percent of churches which have remained on the plateau. Similarly, 40 percent of ‘breakout churches’ have developed a long-range plan, as compared to only 18 percent of continued plateau churches.”\[11\] ([Location 419](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=419))
+**Tags:** pink
+<empty-block/>
+Strategic Planning Addresses Three Organizational Questions Another reason for strategic planning is that it enables leaders to answer three basic organizational questions. The first is the identity question, Who are we? This gets at the church’s core values, or DNA. The second is the direction question, Where are we going? This identifies the church’s mission and vision. A third is the ministry strategy question, How will we get there? This addresses how the church will accomplish its mission and vision. Clearly weighing and articulating answers to these questions will have a more profound impact on your ministry’s future than attempting any long-range plan. ([Location 429](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=429))
+**Tags:** pink
+<empty-block/>
+A third reason for strategic planning is that it is the key to the long-term survival of the church, where ministry circumstances are constantly changing. To survive, churches must change and adapt their ministry methods, using strategic planning as their vehicle. ([Location 435](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=435))
+**Tags:** pink
+<empty-block/>
+The church is a ship that attempts to cross a body of water, destined for some port. Just as a ship encounters numerous navigational hazards along the way (tides, currents, wind, flotsam, low water levels, false buoys, and so on), so a church encounters its own navigational hazards (difficult people, a changing community, lack of leadership, poor congregational mobilization, and so on). Church leaders, like a ship’s navigators, must have a process (compass) to plan strategically (chart a course) to reach the church’s destination (port). Though a limited few can do this intuitively (they are natural born navigators), most cannot. They need training to be navigators. ([Location 437](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=437))
+**Tags:** pink
+<empty-block/>
+Leaders need a map to find the way for the church. If you are trying to drive to a particular location in your town or city and you do not know the way, you need an up-to-date map or you may get hopelessly lost. Lots of leaders in our churches are navigating their terrain with outdated maps (those drawn up in the 1940s and 1950s), and they are totally lost. Some of the people in their churches advise that they simply need to redouble their efforts—to work harder. The result, however, is that they get hopelessly lost faster. Others advise that they simply need to sit back and give it a little time because eventually everything will return to the way it was. The result is that things change even more and waiting merely increases the odds against survival. Strategic planning is the map that directs the church into the future. ([Location 442](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=442))
+**Tags:** pink
+<empty-block/>
+Before taking out their wallets, people need to know who they are, where they are going, why they are going there, and what that looks like. ([Location 455](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=455))
+**Tags:** pink
+<empty-block/>
+Defining Strategic Planning What is strategic planning? I have argued that it is important but I have not defined the concept. Strategic planning is the fourfold process that a point leader, such as a pastor, works through regularly with a team of leaders to envision or reenvision and revitalize his church by developing a biblical mission and a compelling vision, discovering its core values, and crafting a strategy that implements a unique, authentic church model. The following addresses several of the key ingredients that make up this definition. ([Location 460](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=460))
+**Tags:** pink
+<empty-block/>
+Defining Strategic Planning What is strategic planning? I have argued that it is important but I have not defined the concept. Strategic planning is the fourfold process that a point leader, such as a pastor, works through regularly with a team of leaders to envision or reenvision and revitalize his church by developing a biblical mission and a compelling vision, discovering its core values, and crafting a strategy that implements a unique, authentic church model. The following addresses several of the key ingredients that make up this definition. ([Location 460](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=460))
+**Tags:** pink
+<empty-block/>
+A Process First, strategic planning is a process. It is not an event that a team works through and finishes. Instead, it is ongoing. (That is why I use the term regularly in the definition.) The team will come up with an initial model that will forever be critiqued throughout the life of the church if it is to stay relevant to and have an impact on its culture. Note that it is a fourfold process the pastor leads his team through that involves developing a biblical mission and a compelling vision, discovering its core values, and crafting a strategy that implements a unique, authentic church model. The Point Leader Strategic planning requires a strategic point leader, a lead navigator. Someone has to take charge, to captain the ship. This does not mean that the captain attempts to do all the work or tells everyone what to do. He works closely with and through a team. However, someone has to be in charge and responsible for the process, its day-to-day implementation, and the ultimate outcome. A group of people cannot do this. Should the ship hit an iceberg, the captain does not have time to make a conference call or have a meeting to debate the issues and decide what to do. There will be times when this person must act quickly and wisely on behalf of all, making the critical decisions that result in survival. This person will challenge the team to dream and contribute to what could be, as well as to what is. He will influence them, not attempt to control or dominate them. The Leadership Team Vital to strategic planning is the leadership team. I refer to them as the strategic leadership team (SLT). The new leadership paradigm is the same as the old leadership paradigm, but it accomplishes ministry through a team approach. Gone are the days when everyone expected the pastor to come up with all the good ideas and then pass them on to the congregation for implementation. Excellent leaders understand that they can accomplish far more through the wisdom of a gifted and committed strategic team of staff and lay leaders. Moses certainly understood this as he wisely followed the counsel of Jethro and formed a team to work with him in his wilderness ministry (Exod. 18:24–26). Jesus understood this as he recruited a team of disciples to be with and minister alongside him (Mark 3:13–14). And Paul understood the significance of a team as he led and ministered through… ([Location 464](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=464))
+**Tags:** pink
+<empty-block/>
+Note that it is a fourfold process the pastor leads his team through that involves developing a biblical mission and a compelling vision, discovering its core values, and crafting a strategy that implements a unique, authentic church model. ([Location 467](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=467))
+**Tags:** pink
+<empty-block/>
+Strategic planning is an envisioning process that results in the revitalization of plateaued and dying churches. Rather than start with the present and work forward incrementally toward a mission and vision, you start with a clearly articulated, compelling mission and vision and work backward to where you are (see the introduction to chapter 7). You envision the future and then ask, How will we get there? ([Location 485](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=485))
+**Tags:** pink
+<empty-block/>
+Four Core Concepts Just as a navigator cannot guide a ship from port to port without a compass, so strategic leaders cannot guide their ministry ships toward their desired destination without a ministry compass. This compass consists of four core concepts: the ministry’s mission, vision, values, and strategy that make up the strategic planning process, resulting in a revitalized church. The Savior determined the church’s mission more than two thousand years ago. It is found in the Bible in Matthew 28:19 and other places, where he commands his church to “make disciples!” ([Location 497](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=497))
+**Tags:** pink
+<empty-block/>
+The church’s vision is what the church will look like in the next five to ten years of its life as it accomplishes the mission. It should excite and attract people to want to be a part of the church as it pursues this vision. ([Location 502](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=502))
+**Tags:** pink
+<empty-block/>
+The church’s core values function much like the engine and rudder of a boat. They empower and guide the church as it… ([Location 503](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=503))
+**Tags:** pink
+<empty-block/>
+The strategy accomplishes the church’s mission and vision and includes five key elements or steps: reaching out to the community, making mature disciples, building a ministry team (congregation, staff, and possibly a board), assessing the ministry’s setting (location and facilities),… ([Location 505](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=505))
+<empty-block/>
+6. Addressing the Purpose of Strategic Planning ([Location 592](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=592))
+**Tags:** pink
+<empty-block/>
+1. To discover the church’s strengths, limitations, and weaknesses. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=596))
+**Tags:** pink
+<empty-block/>
+2. To build on a ministry’s strengths and minimize its weaknesses. ([Location 601](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=601))
+**Tags:** pink
+<empty-block/>
+3. To facilitate congregational communication and build the congregation’s trust. ([Location 603](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=603))
+**Tags:** pink
+<empty-block/>
+4. To understand and implement spiritually healthy,… ([Location 607](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=607))
+**Tags:** pink
+<empty-block/>
+5. To get your people—leadership team and congregation—on… ([Location 609](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=609))
+**Tags:** pink
+<empty-block/>
+6. To encourage and promote… ([Location 611](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=611))
+**Tags:** pink
+<empty-block/>
+7. To discover and articulate your ministry core values. This gets at your core identity, your DNA, or who you are as a church. The importance of core values is that you act on the basis of who you are. All the decisions you make are values-driven. Values are the key to knowing why you do what you do or do not do what you should do. 8. To develop and communicate your God-given mission. In addition to knowing who you are—your identity as a church—you need to know where you are going. This is a directional issue. Navigators use their compasses to get them to a port. Do you know your Christ-given direction? Do you have a ministry port? 9. To develop and articulate an inspiring, compelling vision. A dream—like a mission—addresses a ministry’s direction and… ([Location 614](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=614))
+**Tags:** pink
+<empty-block/>
+10. To understand and relate more effectively to… ([Location 621](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=621))
+**Tags:** pink
+<empty-block/>
+11. To develop a disciple-making process for the entire church. The mission of the church is to “make disciples” (Matt. 28:19–20). The question is, How will your church accomplish this? The answer is to design a unique disciple-making process, using the maturity matrix in… ([Location 624](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=624))
+**Tags:** pink
+<empty-block/>
+12. To assess, recruit, and develop a strong staff team. Whether your staff consists of one person or one hundred, you must help them know who they are—their DNA (core values), their divine design (gifting, passion, and temperament), and where they fit best in ministry. You must constantly encourage them and put in place a leadership development process to help them grow… ([Location 627](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=627))
+**Tags:** pink
+<empty-block/>
+14. To make wise decisions about the facilities and… ([Location 632](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=632))
+**Tags:** pink
+<empty-block/>
+15. To inventory and assess… ([Location 635](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=635))
+**Tags:** pink
+<empty-block/>
+16. To explore new streams of giving to increase… ([Location 638](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=638))
+**Tags:** pink
+<empty-block/>
+17. To design a stewardship strategy to help people be good stewards… ([Location 640](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=640))
+**Tags:** pink
+<empty-block/>
+18. To analyze and evaluate the church’s budget, looking for ways to best handle… ([Location 643](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=643))
+**Tags:** pink
+<empty-block/>
+19. To raise additional funds and direct capital… ([Location 646](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=646))
+**Tags:** pink
+<empty-block/>
+20. To know how to implement the entire… ([Location 648](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=648))
+**Tags:** pink
+<empty-block/>
+21. To regularly evaluate and improve the church’… ([Location 649](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=649))
+**Tags:** pink
+<empty-block/>
+22. To discover the ways God is blessing churches across America… ([Location 652](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=652))
+**Tags:** pink
+<empty-block/>
+23. To know and work with the latest technology (internet,… ([Location 654](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=654))
+**Tags:** pink
+<empty-block/>
+24. To empower the governing board and pastor to lead… ([Location 656](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=656))
+**Tags:** pink
+<empty-block/>
+25. To build a lay and staff leadership… ([Location 658](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=658))
+**Tags:** pink
+<empty-block/>
+26. To develop a marketing strategy that will best position the church in the… ([Location 659](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=659))
+**Tags:** pink
+<empty-block/>
+In addition, there will be times when you will involve the entire congregation in the process. One such time is when you conduct various online surveys that we use, for example, in The Malphurs Group to discover what the church thinks about a particular issue, such as congregational giving. ([Location 671](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=671))
+**Tags:** pink
+<empty-block/>
+First meeting: preparation for strategic envisioning, including the results of the online church analysis (chaps. 1 and 2) as well as implementation (chap. 3) Second meeting: mission and vision (chaps. 4 and 5) Third meeting: values, introduction to the ministry strategy, and reaching the church’s community (chap. 6) Fourth meeting: a strategy for disciple making (chap. 9) and building a ministry team (chap. 10) Fifth meeting: ministry setting (chap. 11) Sixth meeting: raising finances (chap. 12) ([Location 688](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=688))
+**Tags:** pink
+<empty-block/>
+However, I have personalized and altered the tools so that they match my style and best facilitate the particular activity I happen to be conducting. I want to focus on four process tools: brainstorming, storyboarding, scale of 1 to 10, and consensus. ([Location 751](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=751))
+**Tags:** pink
+<empty-block/>
+BRAINSTORMING Use: I use brainstorming when a group needs to generate as many ideas as possible over a short period of time. It works well anytime during a session except at the end, for it does not bring closure. Participants: The participants are usually teams, such as a board, planning group, or church-planting core group. Setting: Brainstorming takes place best in a semiformal environment where there will be no interruptions. Purposes: Brainstorming accomplishes several purposes. It stimulates a quick, free flow of numerous ideas. It generates and often captures important preliminary concepts. And it gives ownership of these concepts to the participants. Characteristics: Brainstorming is fast paced, positive, smooth running, and nonconfrontational. The leader will need to establish and enforce the following ground rules: no confrontation or criticism of ideas (defer any negative thoughts or feelings), no speeches, and quantity is more important than quality. For later thought and use, the various concepts should be recorded. Process: I conduct brainstorming sessions by gathering the group together, explaining the purpose for the session, and announcing the topic, often in the form of a question. Examples of topics are: How can we find more space for our crowded children’s ministry? What could we do to reach out to some of the ethnic groups in our community? Then I announce the ground rules given above. As people voice their ideas, I ask one member of the group to write them down. When people run out of ideas, it is time to stop the exercise. ([Location 753](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=753))
+**Tags:** pink
+<empty-block/>
+The first step in preparing a church for strategic planning is to assess the openness of the church governing board toward the process. ([Location 1029](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1029))
+**Tags:** pink
+<empty-block/>
+Four Readiness Keys for Strategic Planning The governing board’s attitude toward the process The pastor’s attitude toward the process The staff’s attitude toward the process The patriarch’s or matriarch’s attitude toward the process ([Location 1088](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1088))
+**Tags:** pink
+<empty-block/>
+Explain the Expectations for the Team A wise team person will want to know what the expectations are for the strategic leadership team. There are at least twelve that I explain to the teams with which I work: To pray for the church, the team, and the process. To be a positive participant who believes in and is enthusiastically supportive of the process. This means that the leader will need to give an overview of and sell the prospective team members on the strategic planning process. To be a team player but not necessarily a “yes” person. In fact I think that it is spiritually healthy for team members to disagree at times and challenge one another. To agree to a consensus approach to decision making. This means team members support a decision even when they do not agree with it. To be at the meetings as much as possible. If a member is in town, he or she is at the meeting. Poor attenders become nonparticipants who tend not to own the final product. To participate in group processes, such as storyboarding, values discovery, mission development, and so on. To keep confidential matters confidential. There will not be many confidential matters, but the few there are will be held in confidence. To commit to the total time necessary for the process, approximately six to nine months. A team member needs to hang in there when some of the initial excitement wears off. To use his or her gifts, talents, and abilities to support and proactively contribute to the process. To join a development team (DT) and be involved in the development or design process as well as its implementation that takes place throughout the process. To be prepared for each team session. This involves reading book assignments, gathering information, conducting surveys, and so on. To promote proactively the work of the team with the congregation. I ask the lead navigators that I work with to pick leaders who are potential team members and invite them to a meeting where I spell all this out, present an overview of the process, and answer their questions. I encourage all who are willing to commit to these twelve expectations to pray about their involvement and consider becoming a part of the team. We give each a Covenant of Commitment (see appendix C) and ask those who will make a commitment to the team to sign and date it and return it then or within the next week. Again, the reason for this is the crucial nature of commitment to robust congregational development. This is essentially what took place in Nehemiah 9:38. ([Location 1187](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1187))
+**Tags:** pink
+<empty-block/>
+Why communicate with the congregation? One of our sayings at The Malphurs Group is, “If they do not trust you, you cannot lead them.” ([Location 1215](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1215))
+**Tags:** pink
+<empty-block/>
+The functions of the church are those timeless truths that must never change. ([Location 1378](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1378))
+**Tags:** pink
+<empty-block/>
+For the purposes of strategic planning, you must decide what in the process is timeless and should not change. I believe that the church’s values, mission, to a great degree the vision, and purpose are timeless core ingredients of the ministry. ([Location 1382](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1382))
+**Tags:** pink
+<empty-block/>
+The forms of the church are timely vehicles that are tied in some way to the church’s culture. They implement the functions. ([Location 1387](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1387))
+**Tags:** pink
+<empty-block/>
+Theology of Change Functions Forms Timeless, unchanging (absolutes) Timely, changing (nonabsolutes) Based on Scripture Based on culture Mandates (ministry precepts) Methods (ministry practices) All churches must choose All churches are free to choose Accomplish the church’s purpose (the glory of God) Accomplish the church’s functions (evangelism, worship, fellowship, teaching) ([Location 1393](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1393))
+**Tags:** pink
+<empty-block/>
+My view is that only the core values, mission, vision, and purpose of the church are timeless. Thus everything else—the church’s strategy, structures, systems, policies, and procedures—are subject to change and should regularly change. The vision expresses the church’s direction in a cultural context. While the direction (to make disciples) will not change, the cultural context (who, where, when, and how) will change over time. ([Location 1402](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1402))
+**Tags:** pink
+<empty-block/>
+Strategic Planning Timeless Subject to Change Values Structures Mission Strategy Purpose Systems Vision Policies ([Location 1405](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1405))
+**Tags:** pink
+<empty-block/>
+This means that every church has much freedom when determining its forms (not its functions). In fact I predict that those who were in churches in the 1950s through the 1970s will question the legitimacy of many of the churches that are planted in the twenty-first century, based on the forms they use. However, theologically and biblically, the forms are not the issue. If these new organizations are functioning as churches, they are churches in a biblical sense, regardless of what people think of their forms. ([Location 1411](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1411))
+**Tags:** pink
+<empty-block/>
+Answer the following questions about your ministry as a whole. The organizational life-cycle audit reveals where the church is on the S-curve (see the S-curve figure in the introduction).      This audit asks the following questions: Based on the church’s annual average worship attendance (worship attendance, not membership) as far back as you have records, is your church growing, plateaued, or declining? Based on the church’s average annual giving, are your church’s finances increasing, plateaued, or declining? (Put this information on a graph so that people can observe the church’s attendance and giving history.)      This audit will help the church determine whether it is growing, plateaued, or in decline in attendance and is a strong indicator of the church’s health. Luke reflects this type of audit in Acts when he reports periodically on the effect of the gospel (Acts 2:47; 6:7; 9:31; 12:24; and so forth) and tracks the church’s growth (Acts 1:15; 2:41, 47; 4:4; 5:14; and so on). The performance audit assesses the ministry’s strengths and weaknesses—spiritual and otherwise. (John is conducting a type of performance audit in Revelation 2 and 3.)      This audit asks the following question: What are your church’s strengths and weaknesses?      You will determine which of the following is a strength or a weakness: senior pastor, pastoral care, worship, preaching, biblical instruction, nursery, friendliness, leaders, adult ministries, fellowship, teaching, board (elders, deacons, and others), staff, morale, women’s ministries, men’s ministries, location, family emphasis, Sunday school, giving/stewardship, unity, planning, small group ministries, children’s ministries, organization, youth ministries, communication, reputation in the community, education ministries, lay participation in the church’s ministries, follow-through, facilities/campus, world missions focus, orientation to change, young married couples, mission (direction), community ministries, leadership development, vision (direction), evangelism. The direction audit seeks to determine if the church has a mission and vision, and if so, if the congregation knows what they are.      This audit asks the following questions: Does your church have a mission or mission statement? If so, what is it? Does your church have a vision or vision statement? If so, what is it? The strategy audit addresses whom the church is trying to reach and how it makes disciples.      This audit asks the following question: Is the main focus of the church the congregation itself, the church’s community, lost people, unchurched lost people, a combination of these? The outreach audit determines if the church has an effective outreach into its local and international communities.      This audit asks the following questions: Does your church have an effective outreach into its local community? Does it have an effective outreach into the international community? The in-reach audit assesses the church’s worship,… ([Location 1472](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1472))
+**Tags:** pink
+<empty-block/>
+The second part of the ministry analysis is external. It tells the church what it needs to know about its ministry community. It consists of four audits. The community audit seeks to determine how well the congregation knows its community and will guide its outreach to that community.      This audit asks the following questions: On a scale of 1 to 5 (1 being low and 5 being high), how well does your church know its community’s demographics (ethnicity, income, education, and so forth)? How does this affect its outreach into your community? The threats audit attempts to identify what is taking place in the church’s community that might harm it in some way, such as a growing crime rate or people moving out of the community.      This audit asks the following question: What is taking place in your community that might harm your church’s ministry in and to its community? The competitors audit identifies various events and organizations that might compete with the church for the involvement of unchurched people as well as of its own members.      This audit asks the following question: Who are your church’s competitors that might be competing with you in terms of reaching people?      Most assume the main competitors are other churches. In my consulting, I have found this never to be the case. Usually it’s sporting events, shopping malls, leisure activities, the entertainment industry, a fast-food chain (such as Pizza Hut or Burger King), and so on. The opportunities audit addresses the many opportunities for the church to minister to and in its community.      This audit asks the following question: What are five opportunities that your church might have or should explore in terms of ministering to your community? Some examples are adopting a school in the community, adopting a fire station, repairing rundown houses, offering ESL (English as a second language), and others. ([Location 1515](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1515))
+**Tags:** pink
+<empty-block/>
+You may want to use the above analysis and tweak it to fit your needs or simply create an entirely new tool with different questions. As a feature of my consulting practice, I offer an online ministry analysis to the churches we work with. This makes it easy to tabulate the results quickly and accurately.… ([Location 1532](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1532))
+**Tags:** pink
+<empty-block/>
+failing to plan is planning to fail! ([Location 1866](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1866))
+**Tags:** pink
+<empty-block/>
+The church’s Strategy (capital S) is made up of five mini-strategies (small s)—the reasons strategy development is important to a ministry. ([Location 1869](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1869))
+**Tags:** pink
+<empty-block/>
+The Strategy of Encouraging Community Outreach ([Location 1871](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1871))
+**Tags:** pink
+<empty-block/>
+The Strategy of Designing a Process for Making Disciples ([Location 1879](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1879))
+**Tags:** pink
+<empty-block/>
+The Strategy of Forming a Ministry Dream Team ([Location 1887](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1887))
+**Tags:** pink
+<empty-block/>
+The Strategy of Addressing the Church’s Setting ([Location 1892](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1892))
+**Tags:** pink
+<empty-block/>
+The Strategy of Raising Needed Finances ([Location 1898](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1898))
+**Tags:** pink
+<empty-block/>
+Five Mini-Strategies Strategy of Encouraging Community Outreach Strategy of Designing a Process for Making Disciples Strategy of Forming a Ministry Dream Team Strategy of Addressing the Church’s Setting Strategy of Raising Needed Finances ([Location 1902](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1902))
+**Tags:** pink
+<empty-block/>
+it is important that you know what strategy development means. In this book I am using the term to mean the process that a church works through to determine the goals and their objectives of each mini-strategy (small s) that makes up the church’s overall Strategy (big S). It also includes the recruitment of development teams (DTs) who work through and develop the goals and objectives of these mini-strategies within a set time frame. And this process takes place in the context of who the church is, where it is, and when it is. ([Location 1909](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1909))
+**Tags:** pink
+<empty-block/>
+Step 1. Formulate Development Objectives with Goals ([Location 1969](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1969))
+**Tags:** pink
+<empty-block/>
+Before formulating specific goals, it is wise to understand the characteristics of good goals. There are at least five. They are clear—people understand what they are. They are urgent, important to the ministry, and need to have been accomplished yesterday. They are visible—people can see something taking place right before their eyes. They are meaningful and important to people. They are timely and can be accomplished quickly. Thus they lead to short-term as well as long-term wins. ([Location 1976](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1976))
+**Tags:** pink
+<empty-block/>
+Five Characteristics of Good Goals Clear Urgent Visible Meaningful Timely ([Location 1979](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1979))
+**Tags:** pink
+<empty-block/>
+Step 2. Recruit Development Team Leaders and Teams ([Location 1982](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=1982))
+**Tags:** pink
+<empty-block/>
+Step 3. Determine Development Deadlines ([Location 2002](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2002))
+**Tags:** pink
+<empty-block/>
+Step 4. Develop Strategy Goals ([Location 2021](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2021))
+**Tags:** pink
+<empty-block/>
+I explained in chapter 1 that strategic planning is a fourfold process that consists of the development of a biblical mission (chap. 4), the development of a compelling vision (chap. 5), the discovery of the church’s core values (chap. 6), and the design of a strategy that accomplished the mission and vision (chaps. 7–12). ([Location 2071](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2071))
+<empty-block/>
+The development of an effective, biblical mission should be the goal of every church leader. Warren Bennis writes, “The task of the leader is to define the mission.”\[30\] In addition, Peter Drucker, in Managing the Non-Profit Organization, states, “What matters is not the leader’s charisma. What matters is the leader’s mission. Therefore the first job of the leader is to think through and define the mission of the institution.”\[31\] Obviously the church’s mission is vital to its ministry. The mission answers the first fundamental question of the ministry: What are we supposed to be doing? or, Where are we going? People on board the ministry ship want to know where it is heading, where it is going to land. In this chapter we will learn why a mission is so important to a church, define the mission, discover the different kinds of missions, and show how to develop and then communicate the organization’s mission. ([Location 2082](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2082))
+<empty-block/>
+Before embarking on a cruise, most people want to know where their boat is going. Otherwise, as Yogi Berra, the former New York Yankee catcher, once said, “If you don’t know where you’re going, you might end up somewhere else.” A ship without a clear direction finds itself hopelessly adrift, not going anywhere. Leader-navigators and their churches must have a direction, and it is the mission that provides that important direction. It answers the question, Where are we going? Thus the ministry’s mission provides a compelling sense of direction, a target for everyone to aim at, a port to land at, and it serves to focus the congregation’s energy. ([Location 2097](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2097))
+**Tags:** pink
+<empty-block/>
+You will never do ministry that matters until you define what matters. ([Location 2111](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2111))
+**Tags:** pink
+<empty-block/>
+It answers the strategic, functional questions: What are we supposed to be doing? What function does the organization exist to perform? What is the primary or main thing that God has called us to accomplish? What are we attempting to do for God and our people? In short, what matters? ([Location 2112](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2112))
+**Tags:** pink
+<empty-block/>
+Not only does a dynamic mission or intent focus the church’s future, but it also sets important boundaries. It guides what the church will and will not attempt. ([Location 2129](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2129))
+**Tags:** pink
+<empty-block/>
+Mission is to the ministry what a compass is to a navigator or a template to a machinist. ([Location 2130](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2130))
+**Tags:** pink
+<empty-block/>
+Sincere (and sometimes not so sincere) people often approach a church board or pastor with suggestions for new areas of ministry that could potentially lead the church away from its divine direction. However, a clear, shared mission will protect the pastor and the board from involvement in numerous tangential activities. Their response can be, “Thanks so much for your interest, but that would lead us away from our mission.” ([Location 2131](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2131))
+<empty-block/>
+A dynamic mission tells the church where it is going. It is the strategy, however, that gets it there. Though the two are mutually dependent, the mission leads and shapes the church’s strategy. The mission tells what, and the strategy tells how. ([Location 2144](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2144))
+**Tags:** pink
+<empty-block/>
+Peter Drucker writes, “Strategy determines what the key activities are in a given business. And strategy requires knowing ‘what our business is and should be.’”\[32\] ([Location 2148](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2148))
+**Tags:** pink
+<empty-block/>
+Why a Mission Is Important It dictates the ministry’s direction. It defines the ministry’s function. It focuses the ministry’s future. It provides a guideline for decision making. It inspires ministry unity. It shapes the strategy. It enhances ministry effectiveness. It ensures an enduring organization. It facilitates evaluation. ([Location 2175](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2175))
+**Tags:** pink
+<empty-block/>
+First, the purpose answers different questions. It answers the why questions: Why are we here? Why do we exist? What is our reason for being? The mission, however, answers the what questions: What are we supposed to be doing? What is our divine, strategic intent? What does God want us to accomplish while we are here on earth? You can discover your ministry purpose by asking the why question. First, state your mission. It may be to make disciples. Then probe it with the why question, Why do we want to make disciples? The answer—to glorify God—is your purpose. Purpose is different from mission because it is broader in scope. The mission of a church, as well as its values, vision, strategy, and other concepts, is subsumed under its purpose. ([Location 2190](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2190))
+<empty-block/>
+The third difference is that the purpose of the church is doxological: to honor or glorify God (Rom. 15:6; 1 Cor. 6:20; 10:31). Thus it is abstract. The mission of the church is practical: to make disciples (Matt. 28:19). It is more concrete. When we make disciples (our mission), we glorify God (our purpose). ([Location 2196](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2196))
+<empty-block/>
+The purpose focuses on God. He is the object of our glory, not ourselves or another. The mission focuses on people. We are to disciple people. ([Location 2198](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2198))
+<empty-block/>
+Finally, the purpose is for those within the church and those living in the community, whereas the mission is only for those in the church. On one occasion I used Willow Creek Community Church’s mission statement (“Our mission is to turn irreligious people into fully devoted followers of Christ”) with a group of church planters. One asked if those in the church’s community knew that Willow viewed them as irreligious people. The question assumes that the mission statement is for the community. It is not. It is an internal document for the church’s members, attenders, and those who are considering becoming a part of the church. It is the church’s, not the community’s, marching orders. ([Location 2200](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2200))
+<empty-block/>
+The Difference between Purpose and Mission Purpose Mission Question Why do we exist? What are we supposed to be doing? Scope Broad Narrow Intent To glorify God To make disciples Focus God Man Use Internal and external Internal ([Location 2219](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2219))
+**Tags:** pink
+<empty-block/>
+Every ministry must know its purpose as well as its mission. The purpose is part of the ministry’s congregational heart and soul. It is why the ministry exists, but it is not the mission. Let’s go on to see what the mission is. ([Location 2229](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2229))
+<empty-block/>
+A MISSION IS BROAD The first element of the definition expresses the expansiveness of a mission. A good mission must be broad, comprehensive, and overarching. It is the primary goal, mandate, or charge that is over all other goals or mandates of the ministry. They are subsumed under the mission. It is the predominate thrust that directs all that the church does, the umbrella that is over all the ministry’s activities. And, most important, every ministry in the church must advance in some way the mission. ([Location 2233](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2233))
+<empty-block/>
+It is possible for a mission to be too expansive, so broad that it doesn’t say anything. An example is a mission statement that says that the church will glorify God. Glorifying God is the church’s purpose, not its mission, and the concept, without explanation, does not communicate what the church will actually do. The average parishioner as well as many pastors do not know what it means to glorify God. ([Location 2241](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2241))
+<empty-block/>
+Others allow for it to be longer.\[36\] The mission statements in the Bible are short—no longer than a sentence. For example, Moses’s mission was to lead God’s people, Israel, out of bondage in Egypt (Exod. 3:10). David’s mission was to shepherd Israel and become their ruler (2 Sam. 5:2). Nehemiah’s mission was to rebuild the wall of Jerusalem (Neh. 2:17). From a hermeneutical perspective, we must remember that mission statements in the Bible are generally descriptive, not prescriptive.\[37\] Neither Moses’s, Nehemiah’s, nor David’s mission is our mission. So in most cases Scripture does not mandate our mission, with the exception of the Great Commission. ([Location 2247](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2247))
+<empty-block/>
+Drucker says that the statement should be able to fit on a T-shirt.\[38\] The leadership at Pantego Bible Church in Arlington, Texas, argue that the mission should be able to pass the “T-shirt test.” I would state that it must be short enough to fit on a business card and pass the business card test. The reason is simple. If the mission is not short, people will not remember it. ([Location 2255](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2255))
+<empty-block/>
+In Matthew 28:19 Jesus instructs his disciples, “Therefore go and make disciples of all nations.” The Great Commission proactively involves the church in making and maturing disciples at home and abroad. This was the church’s mission in the first century and continues to be its mission in the twenty-first century. Making disciples involves the church in proactively pursuing lost people (the “go” in Matt. 28:19), evangelizing them (Mark 16:15; Luke 24:46–48; Acts 1:8), and helping these new Christians to mature (Matt. 28:19–20), to become like Christ. The church is to accomplish this both at home and abroad (Mark 16:15; Acts 1:8). Finally, the church’s mission is incarnational more than invitational. It involves the church going out into and ministering to the community, not waiting for the community to come to it. ([Location 2264](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2264))
+<empty-block/>
+Good questions for a candidating pastor to ask of a church are, What is this church’s mission? What is it supposed to be doing? I use these and three similar questions as diagnostic questions when I consult with churches on their mission. ([Location 2298](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2298))
+<empty-block/>
+What is this church supposed to be doing? What is this church doing? Why are you not doing what you are supposed to be doing? What will it take for you to change and do what you are supposed to be doing? ([Location 2301](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2301))
+<empty-block/>
+The Definition of a Mission A mission is broad. A mission is brief. A mission is biblical. A mission is a statement. A mission is what the ministry is supposed to be doing. Various Kinds of Missions ([Location 2309](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2309))
+<empty-block/>
+The ministry ship is moving toward some ministry port, and this is the church’s mission. The church, however, may not realize this or be aware of where its mission is taking it. Thus it needs to move the mission from an unconscious to a conscious level so that it can know what its mission is. ([Location 2318](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2318))
+<empty-block/>
+The way to accomplish this is to look at the church’s values and determine where they are taking the church. When consulting with a church, I list its core values on a whiteboard and ask the SLT where these values have taken them. The answer is the church’s ministry mission. Next, I ask the team to articulate that mission in a written statement so they can hold it and work with it at a conscious level. ([Location 2321](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2321))
+**Tags:** pink
+<empty-block/>
+While the church as a whole has a mission, whether they know it or not, most individuals have a mission in mind for the church as well. The first is the organizational or congregational mission, and the second is a personal mission. ([Location 2325](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2325))
+<empty-block/>
+The same is true for the pastor of a church and his staff. Most have a personal ministry mission that they bring with them when the church hires them. Some may not be aware of their personal mission. ([Location 2330](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2330))
+<empty-block/>
+I encourage every church to address this issue. People must know that their personal missions may be in conflict with the church’s mission and that the latter must prevail, or the church will attempt to move in many different directions at the same time, pulling apart rather than together. ([Location 2331](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2331))
+<empty-block/>
+More than two thousand years ago, the Savior predetermined and gave the church its biblical mission. It is the Great Commission—to make (evangelize) and mature (edify) believers (Matt. 28:19–20; Mark 16:15; and others). A church that pursues any other mission is pursuing the wrong mission, no matter how noble it may be. For example, the mission of some teaching churches is to preach the Bible. The mission of some worship-oriented churches is to worship God. And some churches’ mission, often but not always smaller churches, is fellowship. Do not misunderstand what I am saying. These are all good things that are found in the Bible, but they, by themselves, are not the Great Commission! They may lead to the Great Commission but are not the totality of it. ([Location 2347](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2347))
+<empty-block/>
+Therefore it is imperative that once a church discovers its mission, it ask itself, Is our mission the correct mission? Is it the Great Commission? If the answer is fuzzy or an outright no, the church will need to change its mission from whatever it is to what the Savior has determined that it be—the Great Commission. To continue to pursue the wrong or incorrect mission is a violation of Scripture and disobedience to God’s will for the church. ([Location 2352](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2352))
+**Tags:** pink
+<empty-block/>
+A list of these values is found in Acts 2:41–47, and the key value in that list is evangelism, which actually serves as bookends for the other values (see verses 41 and 47). I would go so far as to argue that if a church does not hold evangelism as a core value, it cannot become a Great Commission church. Correct core values are the key to adopting in time the correct, biblical mission. ([Location 2363](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2363))
+<empty-block/>
+It is the strategic leadership team. They are tasked with developing the mission as well as developing its vision and discovering the church’s core values. ([Location 2371](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2371))
+<empty-block/>
+The Mission Guidelines There are four guidelines for developing your mission statement. 1. DETERMINE THE CHURCH’S MISSION In the business world a leadership team asks, What business are we in? Though not a business, essentially the church is asking the same question: What business are we in? The answer in the business world varies from company to company and will change. The answer for the ministry must neither vary from church to church nor ever change. As already stated and fully developed above, God has mandated what he wants his church to do: make disciples (Matt. 28:19). 2. WRITE YOUR MISSION STATEMENT Next, you must put your newly developed mission down on paper, as a written statement. In his book Learning to Lead, Fred Smith writes, “In my view, nothing is properly defined until you write it down. Writing forces you to be specific; it takes the fuzz off your thinking.”\[39\] If you cannot write it down, you probably do not have a well-thought-out mission. 3. CLARIFY AND SIMPLIFY YOUR MISSION How do you clarify and simplify your mission? Ask and answer the following questions. What words communicate best with your target group? Mission drafters must be wordsmiths. Their job is to think and rethink, shape and reshape, draft and redraft the statement. They do this with meaningful words. Think about the words that will best communicate with your congregation. Are the people more traditional, contemporary, or a combination? Will older clichés communicate best or fresh, contemporary terms? Also take into account the part of the country you live in. What terms are native to this locale and would communicate well to these people? Note the following statement as an example: ([Location 2373](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2373))
+**Tags:** pink
+<empty-block/>
+Do people understand what you have written? How well do the words that you have selected communicate? Do people understand them? Do they know what you are saying? Be sure to avoid unfamiliar biblical terms such as glorify, holy, kingdom, disciple, and others. These terms represent what I refer to as christianeze or temple talk. ([Location 2395](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2395))
+<empty-block/>
+Some have asked, If the mission statement is the Great Commission, then why not just quote Matthew 28:19–20; Mark 16:15; or Acts 1:8? You could, but many parishioners will not understand the terminology used in the New Testament. These words are not clear to them. For example, the term disciple that Jesus uses in Matthew 28:19 may seem ambiguous. What is a disciple? Is making disciples a reference to evangelism only or sanctification or both? Even the average seminarian struggles to answer this question. Willow Creek Community Church has done an excellent job of mission clarity by including their definition of a disciple in their statement: “Our mission is to turn irreligious people into fully devoted followers of Christ.” However, do not be surprised if you have to explain this statement as well. ([Location 2399](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2399))
+<empty-block/>
+We did this in the mission of my last church: The mission of Northwood Community Church is to be used of God in helping people become fully functioning followers of Christ. ([Location 2405](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2405))
+<empty-block/>
+That means that he or she is authentically involved in the five functions of the church: worship, fellowship or community, biblical instruction, evangelism, and ministry or service as opposed to being parked somewhere on the sidelines. ([Location 2411](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2411))
+<empty-block/>
+4. MAKE YOUR MISSION BRIEF ([Location 2415](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2415))
+**Tags:** pink
+<empty-block/>
+Does the mission statement pass the T-shirt or business card test? Is it short enough to fit on a business card? If not, you have committed the sin of information overload. You would do well to remember the statement: “Say more by saying less” or “Less is more!” The most common error is to include a how statement along with the mission statement. ([Location 2418](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2418))
+<empty-block/>
+Faith Community Church exists to make disciples by loving Christ, loving one another, and living to reach our world for Christ. The mission statement is “Faith Community Church exists to make disciples.” The how statement, signaled or flagged by the preposition by, is not necessary to the statement of the mission. It provides the strategy for accomplishing the mission. ([Location 2421](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2421))
+<empty-block/>
+your mission memorable? A good mission statement is both meaningful and memorable. ([Location 2426](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2426))
+<empty-block/>
+What is your actual mission? You will begin by attempting to discover what your current actual mission is. You ([Location 2439](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2439))
+<empty-block/>
+Guidelines for the Mission Statement 1. Determine your church’s purpose. Whom will you serve? How will you serve these people? 2. Write your mission statement. What words communicate best with your target group? Do people understand what you have written? Does your format convey well your mission? 3. Make your mission statement broad but clear. Is the statement broad enough? Is the statement clear? 4. Make your mission statement brief and simple. Does the mission pass the business card test? Is your mission memorable? ([Location 2442](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2442))
+**Tags:** pink
+<empty-block/>
+The key to discovering and articulating your mission is to ask where your actual core values are leading you (see chap. 6). ([Location 2453](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2453))
+**Tags:** pink
+<empty-block/>
+Address your current values. For the majority of churches across America, their mission is aspirational. If your core values do not sustain your mission or move your church toward your mission, you will not accomplish it. ([Location 2466](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2466))
+<empty-block/>
+Luke lists at least four that are key to pursuing a Great Commission mission: Bible doctrine, worship, fellowship (possibly community), and evangelism. My experience is that few churches are actively pursuing evangelism. Thus I would begin there. ([Location 2470](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2470))
+<empty-block/>
+What is a disciple? In Matthew 28:19 Jesus commands his church to make disciples, but we need to ask, What is a disciple? One outstanding answer is found in Willow Creek Community Church’s mission: they aim to turn irreligious people into fully devoted followers of Christ. Note that rather than using the term disciple, they have defined it to make sure their people understand what they mean by the term. What term will you use that will be meaningful to your congregation? Your choices are limited. As I asked myself this question, I came up with the following choices. If you can think of any others, add them to the list. Your assignment is to discuss these with your strategic leadership team and choose one. a follower of Christ a Christ-follower a Christian a believer a learner 2. Further refine this term. I believe that Jesus had in mind mature disciples. The goal of any congregation is to take a person, wherever he or she is (belief or unbelief), and lead him or her to maturity in Christ. Willow Creek reflects this in their mission statement by putting the words “fully devoted” in front of “follower of Christ.” This could be expressed in other ways: a devoted follower of Christ a fully devoted follower of Christ a functioning follower of Christ a fully functioning follower of Christ a developing follower of Christ a fully developed follower of Christ a committed follower of Christ a completely committed follower of Christ a totally committed follower of Christ Be sure to substitute in these phrases the other terms listed in number 1. Ask which would be most memorable to your church and would capture the biblical text. As you read and think about these, which ones grab your attention? Which terms seem to communicate maturity? If you do not like these, you will need to come up with one of your own. 3. What verb best expresses what you want to accomplish? We started at the end of the mission statement to define what we mean by a disciple. Now we will move toward the beginning of the statement. In Willow Creek’s mission, note their use of the verb to turn. This is a key term describing what they want to accomplish for those in their community who are “irreligious.” They want “to turn them into fully devoted followers of Christ.” What do you want God to accomplish in the lives of people in your community or congregation?      The key is the verb you choose to… ([Location 2473](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2473))
+**Tags:** pink
+<empty-block/>
+OPTION 3: ADOPT AN EXISTING MISSION STATEMENT You may decide your best option is to adopt a mission statement that has been created by another church. I have included below some mission statements from my collection. Some are excellent and some aren’t. Critique them using the mission test in the next section. Several are similar to the Matthew 28 model. Read the following and let them inspire you and encourage your creativity. You may want to adopt one or tweak one of them so that it becomes yours. As Rick Warren has said, why go to all the trouble to create something new when you have something that already says it best? Our mission is to make and mature believers at home and abroad. Anonymous Our mission is to know Christ and make Him known. The Navigators and several churches Our mission is to present Christ as Savior and pursue Christ as Lord. Ikki Soma Our mission is to follow and make followers of Christ. Emmanuel and Jelena Ralevich (two Serbian Christians) Our mission is to passionately follow and make followers of Christ. Anonymous Our mission is to help our community find real life in Christ. Anonymous Our mission is to provide the best opportunity for people to become fully devoted followers of Christ. Valleydale Baptist Church Our mission is to lead ordinary people to extraordinary life in Christ. Hillcrest Baptist Church Our mission is to be people who provide living proof of a loving God to a watching world. Sagemeont Church Our mission is to connect the disconnected into… ([Location 2514](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2514))
+**Tags:** pink
+<empty-block/>
+The Mission Test Now that you have a completed mission statement or are well into the process of mission development, submit your work to the mission test. The mission test uses the definition of a mission in question format. Question 1: Is the mission broad enough? (Will all the ministries fit under and contribute to its accomplishment?) Question 2: Is the mission brief? (Is it short enough to fit on a business card?) Question 3: Is the mission biblical? (Does it align with Scripture or contradict it?) Question 4: Is the mission what the church is supposed to be doing? (Is the Great Commission—make disciples—at the heart of the mission?) ([Location 2549](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2549))
+**Tags:** pink
+<empty-block/>
+The Mission Question The mission question asks, Will you be a church with a mission statement or will you be a missional church? ([Location 2556](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2556))
+<empty-block/>
+While that is a good start, the goal is to become a missional church, that is, a church that follows or practices its mission in its geographical community. That is the point of having a mission. ([Location 2558](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2558))
+<empty-block/>
+The main thing is to keep the main thing the main thing! ([Location 2565](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2565))
+**Tags:** pink
+<empty-block/>
+Finally, it is important that you consider your mission in all that your church does. For example, the decisions you make must be done with the mission statement in mind. The question to ask always is how will this decision affect our mission? Does it support Christ’s mission or detract from it? ([Location 2572](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2572))
+<empty-block/>
+Make a list of all your ministries. What does each contribute to the realization of Christ’s mission. Do any not contribute? What will you do about them? ([Location 2597](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2597))
+<empty-block/>
+the vision is more subject to change. It is dynamic, not static. Over time the vision must be renewed, adapted, and adjusted to the cultural context in which the congregation lives. ([Location 2605](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2605))
+**Tags:** pink
+<empty-block/>
+The vision provides us with a picture of what the mission will look like as it is realized in the life of the community, a picture of the port where our boat is headed. Both mission and vision address the ship’s direction. The mission states the direction and the vision supplies a picture of it. ([Location 2607](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2607))
+**Tags:** pink
+<empty-block/>
+The vision concept is found in Scripture. You will find visions sprinkled throughout the Old and New Testaments. For example, God caught Abraham’s attention with his vision for him in Genesis 12:1–3 (the Abrahamic covenant). God used Moses to communicate his vision for his people, Israel, expressed in Exodus 3:7–8 and Deuteronomy 8:7–10. It is possible that the “joy” that Jesus looked forward to while enduring the cross was the vision of his return to the presence of his Father in heaven (Heb. 12:2). ([Location 2610](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2610))
+<empty-block/>
+What kind of church would we like to be? If we could have it our way, what would we look like? Whereas the ministry analysis, in the preparation stage, uncovered “what is”—reality—the vision step probes “what could be.” ([Location 2615](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2615))
+<empty-block/>
+“But when we asked these pastors, ‘Can you articulate God’s vision for the ministry of your church?’ we found that roughly 90 percent of them could articulate a basic definition of ministry. But only 2 percent could articulate the vision for their church.”\[42\] David Goetz writes, “In Leadership’s study, however, pastors indicated that conflicting visions for the church was their greatest source of tension and the top reason they were terminated or forced to resign.”\[43\] Clearly, vision is of utmost importance to leaders and their ministry. Here are seven reasons why. ([Location 2626](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2626))
+<empty-block/>
+Not much happens without an inspiring, compelling vision. Not much was happening in Nehemiah’s day. The people had no vision. Jerusalem lay in ruins, and no one was motivated to do anything about it ([Location 2633](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2633))
+<empty-block/>
+Visions are exciting and they energize people. They ignite a spark—the excitement that lifts a ministry organization out of the mundane. ([Location 2635](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2635))
+<empty-block/>
+And when your vision resonates with your values and mission, it generates the energy that fuels the accomplishment of the ministry task. ([Location 2637](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2637))
+<empty-block/>
+The right vision creates meaning in people’s lives, providing them with a cause and giving them a sense of divine purpose. They are a part of something bigger than themselves, something great that God is accomplishing at this time and place in history. They are a part of God’s cause. With a shared vision, people see themselves not just as another congregant or a “pew warmer” but as a vital part of a church that is having a powerful impact on a lost and dying world. ([Location 2639](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2639))
+<empty-block/>
+They are not simply in a church; they are on a crusade. They are part of a revolution that has the potential to change this world, to have a wonderful impact for Christ. ([Location 2642](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2642))
+<empty-block/>
+a wide gap exists in terms of commitment and dedication to God and a sense of personal significance between one member who, when asked what he or she does, replies, “I am a teacher” and another, who may have the same ministry, who answers, “I am changing the life course of a class of adolescents who will someday accomplish great things for Christ.” ([Location 2644](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2644))
+<empty-block/>
+When people see the vision, they can feel it. ([Location 2663](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2663))
+<empty-block/>
+What has sustained Christians from the beginning of the church in the book of Acts up to today? One answer is a biblical, compelling vision. It encourages people to look beyond the mundane and the pain of ministry. It keeps a picture in front of them that distracts from what is and announces what could be. It is the glue that holds the church together in turbulent times. All the trouble and grief that we experience in this world while serving the Savior are trivial compared to the importance of what we are attempting for him. That picture, carried in our mental wallets, is one way God sustains us in the worst of times. ([Location 2672](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2672))
+<empty-block/>
+This last reason for a vision always gets people’s attention—especially pastors. It takes money to do ministry, and it is the leader’s responsibility to raise that money. My seminary students do not like it when I stress this in class. Many of them want primarily to teach the Bible. Their response is, “My gift is teaching. Can’t somebody else do that!” The problem is that the congregation looks to its leader to raise the necessary finances for the ministry to function as God intended. ([Location 2677](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2677))
+<empty-block/>
+Again Hybels writes, “When leaders who understand this take the time to paint pictures for people and to help them imagine the kingdom good that will result from their collective efforts, then people are free to release their resources joyfully. And generally, the grander the vision, the greater the giving.”\[46\] ([Location 2683](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2683))
+**Note:** DO people know where we are going? Are inspired by it? We are confused ourselves
+<empty-block/>
+They are similar in some ways: they are both based on the Scriptures, focus on the future, are directional (tell people where the ministry is going), and are functional (address what the church is supposed to be doing). ([Location 2695](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2695))
+<empty-block/>
+SOME DISTINCTIONS I make ten distinctions between a vision and a mission. The mission is a statement of what the church is supposed to be doing, while the vision is a snapshot or picture of it. The mission is used for planning where the church is going; the vision is used for communicating where the church is going. A mission statement must be short enough to fit on a business card. The vision statement, however, goes into detail and can range from a single paragraph to several pages in length. The purpose of the mission is to inform all of the ministry’s functions. The purpose of the vision is to inspire people to accomplish the ministry’s functions. The mission involves knowing. It helps your people know where they are going. The vision involves seeing. It helps people see where they are going. If people cannot see a goal, it probably will not happen. The mission comes from the head—it is more intellectual in origin. It supplies knowledge. The vision comes from the heart—it is more emotional in origin. It supplies passion. Logically, the mission precedes the vision. In their development, the vision grows out of and develops detail around the mission, fleshing it out. The mission has a broad, general focus, while the vision has a narrow focus. It singles out the details and specifics of the ministry community. Mission development is a science—it can be taught. The vision, however, is an art—it is more caught. Either you catch it or you miss it altogether. Finally, the mission is communicated visually; it is written down somewhere. The vision is communicated verbally. You hear it preached. An example is Martin Luther King’s “I Have a Dream” vision. Hearing him preach it has much greater impact than reading it off the page. ([Location 2697](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2697))
+**Tags:** pink
+<empty-block/>
+My friend Will Mancini uses the following to distinguish the two. He says they are comparable to taking a vacation to some scenic place like the Swiss Alps. The mission is simply where you are going. The travel company, however, provides you with a compelling vision, found in a brochure full of… ([Location 2714](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2714))
+**Tags:** pink
+<empty-block/>
+Mission Vision Definition statement snapshot Application planning communication Length short long Purpose informs inspires Activity knowing seeing Source head heart Order first second Focus broad narrow… ([Location 2720](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2720))
+**Tags:** pink
+<empty-block/>
+BIBLICAL EXAMPLES One of many biblical examples of a mission statement is God’s mission for Moses: So now, go. I am sending you to Pharaoh to bring my people the Israelites out of Egypt. Exodus 3:10 Note that it meets the above criteria for a mission statement. A biblical example of a vision statement is God’s vision for Israel communicated through Moses: For the LORD your God is bringing you into a good land—a land with streams and pools of water, with springs flowing in the valleys and hills; a land with wheat and barley, vines and fig trees, pomegranates, olive oil and honey; a land where bread will not be scarce and you will lack nothing; a land where the rocks are… ([Location 2734](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2734))
+**Tags:** pink
+<empty-block/>
+I define a vision as a clear, challenging picture of the future of the ministry, as you believe that it can and must be. This… ([Location 2744](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2744))
+**Tags:** pink
+<empty-block/>
+By far the most effective way is vision clarity—to picture the future with such vivid terms that a congregation can see where it is headed. ([Location 2758](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2758))
+<empty-block/>
+Apparently Nehemiah’s vision for Israel and the rebuilding of Jerusalem was clear and specific. He and his followers must have seen in their heads new walls with gates hanging from them. Note the people’s response in Nehemiah 2:18: “They replied, ‘Let us start rebuilding.’ So they began this good work.” That is vision clarity—the most effective antidote to congregational anxiety. ([Location 2759](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2759))
+<empty-block/>
+A good vision is compelling. It ignites passion that moves people to action. It excites people and gives birth to focused ministry activity. It is challenging when people need a challenge. It is that compelling challenge that penetrates the deep resources of the mind and touches the human spirit. ([Location 2767](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2767))
+<empty-block/>
+Passion is a feeling word that plumbs the depths of our emotions. Vision is a seeing word that probes the imagination and creates visual images. Our vision is our ministry snapshot. ([Location 2771](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2771))
+<empty-block/>
+It is what you see when you envision your ministry two, five, or ten years from now, the picture of the future you believe God is going to create. ([Location 2772](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2772))
+<empty-block/>
+If instead of using words you were asked to convey your vision by painting a picture, drawing a cartoon, or taking a picture with a camera, what would it be? What would it look like? ([Location 2785](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2785))
+<empty-block/>
+Not only does vision affect what leaders see, but it affects what their people see as well. You must ask, Do my people see what I see? If they cannot see the vision, it is not likely to happen. ([Location 2789](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2789))
+<empty-block/>
+That is the function of the vision. It pictures the end of the ministry at the beginning. The best way to create what you really want is by visualizing the outcome that you are trying to achieve. ([Location 2794](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2794))
+<empty-block/>
+Also, the vision serves to bridge the past and the future. The right vision provides the all-important link between what has taken place, what is now taking place, and what the organization aspires to build in the future. A strong vision changes the orientation of the church from the past to the future. ([Location 2795](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2795))
+<empty-block/>
+The visionary leader is convinced that the vision is attainable. It is what Robert Kennedy had in mind when he said, “Some people see things the way they are and ask why; I see things the way they could be and ask why not.” ([Location 2801](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2801))
+<empty-block/>
+The vision goes beyond what can be. It concerns what must be. Somewhere toward the end of the “can be” stage, it grabs hold and will not let go. Now not only does the visionary believe that it can be, but he is also convinced that it must be. A critical sense of urgency along with a heavy dose of passion drive him in his quest to achieve the vision. It may keep him awake at night. ([Location 2804](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2804))
+<empty-block/>
+First, the leader is convinced that God is in the vision, that God himself has placed it in his heart. It is a “God thing”; it is God’s doing, not his. Thus he will not find rest until the church has embraced the vision. Second, the leader believes that he is God’s person to see the vision through. God has chosen him to pilot the vision ship through his church’s ministry waters, whether they are smooth or choppy. Finally, he is certain that the vision is the very best thing for people—both lost and saved. Because the leader cares about people, he knows that they will be so much better off when they embrace and own the vision. ([Location 2807](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2807))
+<empty-block/>
+These tools measure whether a person is sensing (S) or intuitive (N). Sensing-type people are the practical, hands-on realists. They can have a vision; however, they go about it in a different way. Whereas intuitive-type people see the vision naturally in their heads, sensing types have to see it literally with their eyes. They perceive it through their five senses. Thus they “catch” a vision by actually visiting a church where they can see, smell, and touch the vision. They are able to form the vision as they walk the church’s corridors and experience its ministries. The intuitive types are the abstract, imaginative, natural visionaries. For them, vision is a sixth sense. They seem to create a vision and carry it around in their head. ([Location 2825](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2825))
+<empty-block/>
+Ephesians 3:20 Paul challenges the Christian community at Ephesus, and us as well, to ask (pray) and think (envision) big: “Now to Him who is able to do far more abundantly beyond all that we ask or think, according to the power that works within us” (NASB). Indeed, this seems to be a light slap on the wrist for not asking and thinking big enough. Paul says that God is able to do much more than we are asking or even thinking about. Therefore vision developers must ask, Is this vision big enough? ([Location 2846](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2846))
+<empty-block/>
+Your passion is what you feel strongly and care deeply about. It has to do with your emotions—it is an emotional concept. To get at your passion, you must tap into your emotions, asking what particular emotions move or motivate you when it comes to ministry and leading the church. ([Location 2850](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2850))
+<empty-block/>
+Experiencing the dream. You must never underestimate the power of your emotions in shaping your vision. As the vision begins to take shape, give yourself permission to experience or feel it as you see it. As the vision seed grows within you, focus on what it would be like to live the vision now. Visualize and begin to experience the feelings as if you were there already. The way to do this is to employ your five senses. Move into your vision. Then ask and answer the question, What do you see, hear, smell, feel, even taste as you immerse yourself in the emerging vision? The more you… ([Location 2855](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2855))
+<empty-block/>
+dream casting in the future happens in direct proportion to your living and experiencing the dream in the present. You must begin to live the dream to best cast the dream. This kind of vision casting will have a powerful impact on your people. They will sense the passion and pick up on the dream. They will resonate with it because they see and feel it in your life. As you help them… ([Location 2861](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2861))
+<empty-block/>
+Use the definition of the vision as a test of the quality of the vision statement. First, ask, Is it clear? Do I understand it; is it clear to me? As Professor Howard Hendricks of Dallas Seminary says, “A mist in the pulpit is a fog in the pew!” Then ask, Will it be clear to my people? The only way to know the answer is to observe and ask. Think about the response of the strategic leadership team as they developed… ([Location 2866](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2866))
+<empty-block/>
+Then ask, Is it challenging? Does it challenge me? And if so, Will it challenge my people? You’ll know the answer if you watch the emotional response of your people as you present your vision to them. Do they get excited? Do they respond with passion? The next question is, Is the dream visual? Does it create mental pictures of the future of the ministry? Then, Do I believe this vision can be… ([Location 2869](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2869))
+<empty-block/>
+The vision involves developing and adding details to the mission, such as the church’s purpose, some core values, and later the ministry strategy. Again, the question that is repeated throughout is, What does this look like? Give yourself permission to explore, feel, dream, be creative, and be daring. Get away by yourself and spend some relaxed time dreaming and imagining what could be. ([Location 2886](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2886))
+<empty-block/>
+I ask each group to choose a recorder, and I give that person one or two 4-by-6-inch cards. Then I ask the groups to describe what they envision when their church begins to realize its mission. The recorder writes down the results, and I ask this person to read to the entire group what his or her group said. When finished, they pass these cards to the pastor or leader of the team, who incorporates them into the final statement. If the pastor is a strong, creative visionary, he serves as the final editor of the vision statement so that he has his visionary fingerprints all over the final product. ([Location 2890](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2890))
+<empty-block/>
+The first statement is his articulation of one of his core values; it is followed by a vision for that value. ([Location 2896](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2896))
+<empty-block/>
+Value: A Commitment to Creative Evangelism Unchurched people matter to God and thus must matter to us as well. Therefore, we will provide opportunities for them to hear the Good News of Jesus Christ in creative ways through a variety of means and media so that they respond in faith. But what does this look like? What will people see when the church begins to put this value into action, to live it out in its ministry community? The answer is the following vision: We see friends bringing friends to a Sunday morning seeker-focused service because they will hear the Good News presented clearly and creatively in an atmosphere of acceptance. . . . We dream of a church communicating the message of Christ to lost people, using multimedia, the arts, and the Internet. . . . We hear believers sharing their faith at work over coffee, at home around the dinner table, at the park while their kids are playing. . . . We see new believers being baptized as a testimony to lives changed by God’s grace. . . . We envision forming a network of healthy churches, which in turn plant other churches, throughout McHenry County and beyond! ([Location 2897](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2897))
+**Tags:** pink
+<empty-block/>
+There are a number of vision statements in appendix F. ([Location 2916](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2916))
+**Tags:** pink
+<empty-block/>
+Building on the strategy. The fourth approach is to build your vision on your ministry strategy. While I have used all of the above processes at some point to develop a vision, I have found this approach works best for the teams I train and for me. When using it, I delay intentional vision development until after designing the church’s strategy. Thus after the team develops the mission, we move next to core values discovery rather than to vision, because with this approach strategy design is key to vision development. ([Location 2921](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2921))
+<empty-block/>
+the strategy consists of five key ingredients: reaching the church’s community, making mature disciples, building a ministry team, assessing the ministry setting, and raising ministry finances. I believe that a church’s vision should address each of these. ([Location 2925](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2925))
+<empty-block/>
+Someone has said that a picture is worth a thousand words. I suspect that it was Adam while in the Garden of Eden. Whoever said it must have been a visionary. Pictures and visions walk hand in hand, because a vision is a picture or image in one’s head. Not only are mental pictures important to vision, but actual vision statements are as well. They help people picture the vision. The culmination of the work of the vision personnel through the vision process is a unique product—the vision statement. ([Location 2933](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2933))
+<empty-block/>
+Question 1: Is the vision clear and compelling? Question 2: Does it paint a picture of our future and where we think God wants us to be in the years to come? Question 3: Is it a snapshot of the church’s future? Is it future-oriented or is it merely a picture of the past? Question 4: Do we believe that this can be? Do we believe that it is really possible? Question 5: Are we convinced that it must be? ([Location 2944](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2944))
+**Tags:** pink
+<empty-block/>
+Vision casting is fishing for men. However, nothing happens if the vision isn’t cast, because nothing is communicated. ([Location 2956](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2956))
+<empty-block/>
+The sermon is the primary verbal means for casting the vision. Whereas the mission communicates well on paper or written on a business card, the vision is best expressed through spoken communication. The power of the vision is in hearing it preached, not reading it. You can discern this by reading Martin Luther King Jr.’s great vision message and then listening to it. He communicates with great passion and conviction. That is key! ([Location 2961](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2961))
+<empty-block/>
+They include the following: formal and informal conversation, stories, the bulletin, a framed poster, a church brochure, training materials, a slide-tape presentation, audio- and videotapes, skits and drama, a newcomers class, a newsletter, having the congregation vote on it each year, the performance appraisal, and a cartoon, picture, or photograph. Each ([Location 2970](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2970))
+<empty-block/>
+What sets successful congregations apart is their discovering and tapping into that soul, making contact at its deepest levels. This chapter is all about tapping into a church’s soul. ([Location 2996](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=2996))
+<empty-block/>
+This chapter is step 3 of the strategic envisioning process. It asks and answers the values question: Why do we do what we do? I have designed it to help you tap your ministry’s heart and soul, specifically discovering what is conceivably the most important element—core values. Core values explain who you are—your identity. They are the very building blocks (DNA) of your ministry and explain why you do what you do or don’t do what you should ([Location 3004](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3004))
+<empty-block/>
+What makes each church unique is its culture, and the most important ingredient in that culture, as Schaller noted in the quote above, is values. ([Location 3030](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3030))
+<empty-block/>
+Dictate Personal Involvement Wisdom teaches that people who are looking for a church should look for one that has their same values. I refer to it as values alignment. It is much like a marriage. Couples with the same values pull together; those with different values are unhappy and pull apart. Just as it would be foolish for a couple with different values to marry, the same is true of a church (people and staff) and of a pastor who is looking for a church. ([Location 3039](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3039))
+<empty-block/>
+“This is what we stand for; this is what we are all about; this is who we are; this is what we can and cannot do for you.” ([Location 3052](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3052))
+<empty-block/>
+We must ask, Does this change agree with or contradict our beliefs as a ministry? We can embrace that which aligns with our values but must reject that which opposes them. ([Location 3063](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3063))
+<empty-block/>
+A church’s values or beliefs are ministry shaping. I have labeled this the values effect. Values dictate every decision and influence every action right down to the way we think and the manner in which we execute those actions. They beget attitudes that dictate behavior. They make up the premises of the ministry’s policies and procedures. They affect everything about the organization: its decisions, goals, priorities, problems solved, conflicts resolved, spending, and much more. ([Location 3065](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3065))
+<empty-block/>
+church’s mission is what it is supposed to be doing. The vision is what that looks like. The mission is a statement of the church’s direction; the vision is a snapshot of it. The first tells us where we are going; the second shows us where we are going. Both are vital to the life of the ministry organization and are located with the values at its very heart and soul. ([Location 3096](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3096))
+<empty-block/>
+If the church does not value evangelism, then in reality it will have some other mission that aligns more closely with its values, whatever they may be. Churches that are not evangelical or that do not value the Bible may have some other mission and vision based on what they do value. ([Location 3102](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3102))
+<empty-block/>
+However, we accept many things in our churches that are not found in the Bible. Some examples are air conditioning, indoor plumbing, computers, faxes, organs, pianos, kneelers, and other helpful things. Some values are not found in the Bible, but they do not contradict or disagree with the Scriptures. ([Location 3130](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3130))
+<empty-block/>
+church’s mission determines its port, and the vision is a picture of what it will look like when it arrives at that port. And it is the church’s values, like the engine and rudder of a ship, that empower and guide the church toward that destination. ([Location 3155](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3155))
+<empty-block/>
+If the church is off course on its journey to its mission-port, then its values are not in alignment with its stated mission. ([Location 3158](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3158))
+<empty-block/>
+the values will drive the church toward some mission-port, but it may not be the church’s stated or desired mission. ([Location 3160](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3160))
+<empty-block/>
+Where or to which mission-port will our values take us? Will it be the Great Commission or somewhere else? ([Location 3163](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3163))
+<empty-block/>
+FUNCTIONS NOT FORMS First, values are functions (timeless) not forms (timely). For example, community or fellowship is a timeless function and also a value of the church, whereas a small group gathering is a timely form that this function may take to express itself. The small group is not a value. ([Location 3168](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3168))
+<empty-block/>
+Therefore, if you are trying to decide whether something is a value, it may help to ask, Is it an end or a means to an end? ([Location 3174](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3174))
+<empty-block/>
+Third, values explain why you do what you do. ([Location 3177](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3177))
+<empty-block/>
+The reason why you do it, however, is the value, such as community. ([Location 3178](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3178))
+<empty-block/>
+If you are trying to determine if something is a value, determine if it is what you are doing or the reason for what you are doing. The latter will be the value. ([Location 3178](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3178))
+<empty-block/>
+When the people in a ministry know and articulate the ministry’s values, good or bad, they are aware at a conscious level of what is driving or influencing them. The people will be able to answer the critical question, Why are we doing what we are doing? ([Location 3186](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3186))
+<empty-block/>
+The same holds true for staff. Studies indicate that when the staff’s core values align with the senior pastor’s as well as the church’s, they are more committed to the ministry, experience less conflict, have a more positive work attitude, and experience greater job satisfaction. Consequently, if you are a pastor or a staff person, and you are struggling in these areas, most likely it is a values issue. ([Location 3201](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3201))
+<empty-block/>
+Actual values are the beliefs people own and practice daily. They are reality. ([Location 3205](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3205))
+<empty-block/>
+Aspirational values are beliefs that leaders and their people neither own nor practice. For example, a church may list evangelism as one of its values because it knows it is supposed to be evangelistic. However, its people may have won no one to faith in years. For them, evangelism is an aspirational value. ([Location 3207](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3207))
+<empty-block/>
+In addition, mixing actual and aspirational values leads to a loss of credibility. People can sense what is and is not a value. To say that a belief is actual when it is aspirational is an integrity issue. This does not mean, however, that you cannot communicate your aspirational values. Just make sure that you distinguish between what is aspirational and what is actual. ([Location 3211](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3211))
+<empty-block/>
+However, it is not unusual that many have one value that dominates or towers over all the rest. In the following table, this is called a unifying value. ([Location 3221](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3221))
+<empty-block/>
+Acts 2:41–47, holds these five values in balance: worship, fellowship, biblical instruction, ministry, and evangelism. ([Location 3231](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3231))
+<empty-block/>
+I also suggest that the team revisit the values one year later to determine if they were on target. ([Location 3281](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3281))
+<empty-block/>
+The first level is that of the typical church attenders or members. Their personal organizational values determine whether they are happy at their current church and should dictate where they land if looking for a new church. The second level is the staff, including the senior pastor and any other paid professionals and, in some cases, volunteers. Their core beliefs determine their future at the church, their overall effectiveness, and how well they work together. The final level is the church governing board, if the church has one. Though its impact may vary from church to church and tradition to tradition, the board’s essential beliefs often affect who is on the pastoral team, how long that team will minister at the church, and ultimately the general direction of the church. ([Location 3289](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3289))
+<empty-block/>
+What happens if board members, pastors, or staff persons find that their personal core values do not align with those of their church? There are at least four possible answers. One is that they may attempt to change their personal values to those of their church. This would take some time. They may attempt to change the church’s values. This would also take some time and might prove to be more frustrating than profitable. They could leave gracefully and find a church that shares their values (what some refer to as a “blessed subtraction”). This is likely the best option. A fourth answer is to be involved in planting a church that shares their values. This could be a good option, assuming their values are the right ones, such as those in Acts 2:41–47. ([Location 3300](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3300))
+<empty-block/>
+Corporate congregational values are the actual, not aspirational, values of the entire church. They are primarily what we are looking for in this chapter. Thus far I have not worked with an organization that could not identify a set of shared beliefs. However, the mistake many people make is to assume that a pastor or leader can set a congregation’s values or instill new ones. Core values are not something that people simply buy into. They already hold them, and the job of a leader is to help his people discover or identify what they are. It is a discovery process, not a sell job. Again, these are actual, not aspirational, values. The leader’s task is to discover the actual values, lead the people as they pursue these values, and let the people who do not share the values embrace new ones, which will take time, or go elsewhere. Having said that, I do believe that people can and in many cases should change their values. At various times in our lives, we go through a period of values formation when we examine and may change our values. Often this takes place when a person attends a university or seminary. ([Location 3307](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3307))
+<empty-block/>
+Ask the SLT to take two core values audits—a personal and a congregational audit. (These can be found in appendix I.) They are exactly the same, except for the titles and instructions. The personal audit serves to identify the individual’s values, and the organizational or congregational audit identifies those of the church. Then I ask each team member to compare his or her values with those of the church to check for alignment. If their values do not align, it is likely they are not happy at the church. And the opposite is true as well. ([Location 3327](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3327))
+<empty-block/>
+My favorite way is to compare a church’s actual values to those of a spiritually healthy, biblically functioning church. A great example that meets this qualification is the Jerusalem church. In Acts 2:41–47 Luke details five critical core values of this church: worship, fellowship, biblical instruction or doctrine, evangelism, and ministry or service. ([Location 3350](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3350))
+<empty-block/>
+Another way to identify aspirational values is for team members to write one page that describes what they envision as a perfect, spiritually mature church. This is a “Have It Your Way” exercise. You ask, If you had an opportunity to plant a church for God with unlimited resources, what would it look like? What would its values be? ([Location 3354](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3354))
+<empty-block/>
+future identity), not who you are (your current identity). As you think about your aspirational values, note that they will direct your church toward some new mission that is different from the current one, preferably the Great Commission. Is that the case? If evangelism and ministry are not actual empowering and guiding core values, then a Great Commission mission is an aspirational mission at best. ([Location 3357](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3357))
+<empty-block/>
+The ideal result of values discovery is to find that the church holds the core values of the Jerusalem church as actual values. However, in my experience this has never been the case. There is always values work to be done. ([Location 3368](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3368))
+<empty-block/>
+What is unique about your church? What makes it different from the other churches in the community? What is it that attracts people? What initially attracted you to the church? Why are you at the church? Why would people drive past other churches to come to your church? What are they looking for? With some reflection, churches can answer these questions. ([Location 3375](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3375))
+<empty-block/>
+The discovery of your actual core values reveals your DNA or identity. They describe who you are. Now you know what is key to your church culture and why you do what you do. You should also begin to think ahead about where these values are taking you. Will they guide your church to accomplish your mission and vision or will they lead to another mission and vision? To return to my navigator metaphor, will your values guide the ship to the right port? Rate ([Location 3400](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3400))
+<empty-block/>
+to whether it is inward or outward focused. The ideal is to balance inward- with outward-focused values. My experience is that churches that are more inward focused will eventually plateau and die. Those that are more outward focused grow but often do not have spiritual depth. Spiritually healthy churches tend toward balance, as in the case of the Jerusalem church in Acts 2:41–47. For a healthy church, one of the outward values must be evangelism. I have noted that for churches strong in outreach, it takes two to three times the effort to maintain evangelism as a core value than to retain any other value. ([Location 3403](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3403))
+<empty-block/>
+Second, you should think through why you are writing or crafting a credo. A written values statement benefits the ministry in several ways. One is that it infuses those values with leadership authority. Also, writing out the primary beliefs gives them greater clarity. And in a multisensory culture, writing remains fundamental to good communication. ([Location 3415](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3415))
+<empty-block/>
+small group itself is not a value. I discussed this earlier. You may value small groups as a form, but that does not make them a value. Do not confuse what you value with the actual value.\[59\] Remember, core values are constant, passionate, biblical core beliefs that drive or empower and guide the ministry. ([Location 3424](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3424))
+<empty-block/>
+my book Values-Driven Leadership ([Location 3450](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3450))
+<empty-block/>
+The Credo Development Process Determine if the statement is a value. Determine the number of values. Decide on a credo format. Test the credo format. ([Location 3454](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3454))
+<empty-block/>
+Life and example of leadership Written credo Sermons Formal and informal conversation Stories Bulletin Framed posters Church brochure Training materials Slide-tape presentation Audio- and videotapes Skits and drama Newcomers class Newsletter Performance appraisal Cartoons Website ([Location 3466](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3466))
+**Note:** Plus the ways Traction suggezt
+<empty-block/>
+Navigators cannot afford to think incrementally, or they could find themselves hopelessly lost at sea, if not at the bottom of the sea. Instead, they start with their port and then determine how best to sail there. ([Location 3498](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3498))
+<empty-block/>
+Now that we know (mission) and see (vision) where we are going, what will it take to get there? ([Location 3501](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3501))
+<empty-block/>
+How will we have to act? ([Location 3502](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3502))
+<empty-block/>
+How will we get to where we want to be? ([Location 3507](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=3507))
+<empty-block/>
+Saddleback Valley Community Church Mission Viejo, California It is the dream of a place where the hurting, the depressed, the frustrated, and the confused can find love, acceptance, help, hope, forgiveness, guidance, and encouragement. It is the dream of sharing the Good News of Jesus Christ with the hundreds of thousands of residents in south Orange County. It is the dream of welcoming 20,000 members into the fellowship of our church family—loving, learning, laughing, and living in harmony together. It is the dream of developing people to spiritual maturity through Bible studies, small groups, seminars, retreats, and a Bible school for our members. It is the dream of equipping every believer for a significant ministry by helping them discover the gifts and talents God gave them. It is the dream of sending out hundreds of career missionaries and church ([Location 7131](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=7131))
+**Tags:** pink
+<empty-block/>
+Defining Strategic Planning What is strategic planning? I have argued that it is important but I have not defined the concept. Strategic planning is the fourfold process that a point leader, such as a pastor, works through regularly with a team of leaders to envision or reenvision and revitalize his church by developing a biblical mission and a compelling vision, discovering its core values, and crafting a strategy that implements a… ([Location 460](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=460))
+**Tags:** pink
+<empty-block/>
+Note that it is a fourfold process the pastor leads his team through that involves developing a biblical mission and a compelling vision, discovering its core values, and crafting a strategy… ([Location 467](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=467))
+**Tags:** pink
+<empty-block/>
+The church’s core values function much like the engine and rudder of a boat. They empower and guide the church as it pursues its mission and vision. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=503))
+**Tags:** pink
+<empty-block/>
+The strategy accomplishes the church’s mission and vision and includes five key elements or steps: reaching out to the community, making mature disciples, building a ministry team (congregation, staff, and possibly a board), assessing the ministry’s setting (location and facilities), and raising the necessary finances to carry out the mission and vision. ([Location 505](https://readwise.io/to_kindle?action=open&asin=B00B85M4MS&location=505))
+<empty-block/>
+</content>
+</page>
