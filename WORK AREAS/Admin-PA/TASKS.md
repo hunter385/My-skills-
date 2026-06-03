@@ -10,8 +10,8 @@ Format: `- [ ] Task description | Context | Due`
 
 - [x] Complete editing rounds with Dad, Mark, and Emily on A-Team Workshop | RSG | Done 2026-06-01
 - [x] Prep podcast episode briefs for batch filming | RSG | Done 2026-06-01
-- [ ] Get finance report from Laura | RSG | Waiting on Laura
-- [ ] Email Brian Woods — we don't want to rent the offices any longer | Admin | Waiting on feedback from Laura and Dad before sending
+- [x] Get finance report from Laura | RSG | Done 2026-06-03
+- [x] Email Brian Woods — we don't want to rent the offices any longer | Admin | Done 2026-06-03
 - [x] Cancel Taki program and tell the team we'll just buy workshops | RSG | Done 2026-06-01
 - [x] Email Laura to get refunded on Taki from RSG | RSG | Done 2026-06-01
 
