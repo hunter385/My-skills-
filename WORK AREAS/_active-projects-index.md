@@ -13,7 +13,7 @@ Last updated: 2026-05-31
 | A-Team Workshop | In progress | Wed | `RSG/a-team-workshop-project/` |
 | Growth Plan v2 (with Mark Brewer) | In progress | Before Jun 30 | `RSG/growth-plan-v2-project/` |
 | RSG VSL (YouTube) | Not started | This cycle | `RSG/rsg-vsl-project/` |
-| Middle Method Podcast Batch | In progress | Filming Thu | `RSG/middle-method-podcast-batch-project/` |
+| Middle Method Podcast Batch | Complete | — | `RSG/middle-method-podcast-batch-project/` |
 
 ## NeoWorld — monthly cycle (COO with Dillon)
 

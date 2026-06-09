@@ -13,3 +13,9 @@ Claude reads this file whenever resuming work on this project. Claude appends to
 Category: Progress
 
 Project captured during the Active Projects interview and folder scaffolded with brief + memory + outputs/. Status: In progress.
+
+### 2026-06-09 — Filming complete
+
+Category: Progress
+
+All Middle Method podcast batch filming completed. Project done.
