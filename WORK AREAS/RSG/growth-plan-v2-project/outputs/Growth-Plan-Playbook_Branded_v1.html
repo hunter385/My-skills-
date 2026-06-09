@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Growth Plan Playbook — Ready Set Grow</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lilita+One&family=Caveat:wght@400;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  /* Base / neutral */
+  --bg:#F2F0E5; --paper:#FFFCF0; --ink:#282726; --body:#575653;
+  --muted:#9F9D96; --faint:#B7B5AC; --line:#DAD8CE; --line2:#E8E6DB;
+  /* Cycle = Red */
+  --red-400:#D14D41; --red-600:#AF3029; --red-700:#942822; --red-100:#FDB2A2; --red-50:#FFE1D5;
+  /* Cooldown / Design = Blue */
+  --blue-400:#3171B2; --blue-600:#205EA6; --blue-800:#163B66; --blue-200:#ABCFE2; --blue-50:#E1ECEB;
+  /* Phase accents */
+  --green-400:#879A39; --green-600:#66800B; --green-900:#33420A;
+  --purple-400:#8B7EC8; --purple-600:#5E409D; --purple-900:#352561;
+  --orange-400:#DA702C; --orange-600:#BC5215; --orange-900:#562107;
+}
+*{box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{
+  margin:0; background:var(--bg); color:var(--body);
+  font-family:'Inter',system-ui,sans-serif; font-size:17px; line-height:1.65;
+  -webkit-font-smoothing:antialiased;
+}
+h1,h2,h3,h4{font-family:'Lilita One',sans-serif; font-weight:400; color:var(--ink); line-height:1.08; letter-spacing:.3px;}
+p{margin:0 0 1em;}
+.caveat{font-family:'Caveat',cursive;}
+
+/* ---------- TOP NAV ---------- */
+.topnav{
+  position:sticky; top:0; z-index:50; background:rgba(40,39,38,.97);
+  backdrop-filter:blur(6px); border-bottom:1px solid #000;
+  display:flex; align-items:center; gap:6px; padding:10px 22px; flex-wrap:wrap;
+}
+.topnav .mark{font-family:'Lilita One',sans-serif; color:var(--bg); font-size:15px; letter-spacing:.5px; margin-right:auto;}
+.topnav .mark b{color:var(--red-400);}
+.topnav a{
+  font-size:12px; font-weight:600; text-decoration:none; color:var(--faint);
+  padding:5px 11px; border-radius:20px; transition:.15s; letter-spacing:.4px; text-transform:uppercase;
+}
+.topnav a:hover{color:var(--bg); background:rgba(255,255,255,.08);}
+.topnav a.n-pre:hover{background:var(--green-600);color:#fff;}
+.topnav a.n-disc:hover{background:#000;color:#fff;}
+.topnav a.n-des:hover{background:var(--blue-600);color:#fff;}
+.topnav a.n-def:hover{background:var(--purple-600);color:#fff;}
+.topnav a.n-dep:hover{background:var(--orange-600);color:#fff;}
+
+/* ---------- LAYOUT ---------- */
+.wrap{max-width:920px; margin:0 auto; padding:0 26px;}
+section{padding:54px 0 18px;}
+
+/* ---------- COVER ---------- */
+.cover{
+  background:var(--ink); color:var(--bg); text-align:center;
+  padding:96px 26px 88px; position:relative; overflow:hidden;
+}
+.cover:before{content:""; position:absolute; inset:0;
+  background:radial-gradient(circle at 50% -10%, rgba(209,77,65,.22), transparent 60%);}
+.cover .kicker{font-family:'Caveat',cursive; font-size:30px; color:var(--red-100); margin-bottom:6px; position:relative;}
+.cover h1{font-size:clamp(42px,8vw,86px); color:var(--bg); margin:0; position:relative; line-height:.95;}
+.cover .sub{max-width:620px; margin:22px auto 0; color:var(--faint); font-size:18px; position:relative;}
+.cover .pillbar{display:flex; gap:10px; justify-content:center; margin-top:30px; flex-wrap:wrap; position:relative;}
+.cover .pillbar span{font-family:'Lilita One',sans-serif; font-size:13px; letter-spacing:1px; padding:7px 16px; border-radius:30px; color:#fff;}
+
+/* ---------- PHASE DIVIDER ---------- */
+.phase{padding:30px 0 6px;}
+.phase-band{
+  border-radius:16px; padding:30px 34px; color:#fff; display:flex; align-items:center; gap:22px;
+  box-shadow:0 12px 30px -16px rgba(0,0,0,.5);
+}
+.phase-band .num{font-family:'Lilita One',sans-serif; font-size:64px; line-height:1; opacity:.55;}
+.phase-band h2{color:#fff; font-size:40px; margin:0;}
+.phase-band .pd{font-family:'Caveat',cursive; font-size:23px; opacity:.92; margin-top:2px;}
+.band-pre{background:linear-gradient(120deg,var(--green-600),var(--green-400));}
+.band-disc{background:linear-gradient(120deg,#000,#3a3936);}
+.band-des{background:linear-gradient(120deg,var(--blue-800),var(--blue-400));}
+.band-def{background:linear-gradient(120deg,var(--purple-600),var(--purple-400));}
+.band-dep{background:linear-gradient(120deg,var(--orange-600),var(--orange-400));}
+
+/* ---------- TAB CARD ---------- */
+.tab{
+  background:var(--paper); border:1px solid var(--line); border-radius:16px;
+  padding:0 0 34px; margin-bottom:30px; overflow:hidden;
+  box-shadow:0 6px 22px -16px rgba(40,39,38,.4);
+}
+.tab-head{padding:22px 34px; border-bottom:1px solid var(--line); display:flex; align-items:baseline; gap:14px;}
+.tab-head .dot{width:13px; height:13px; border-radius:50%; flex:none; transform:translateY(1px);}
+.tab-head h3{font-size:30px; margin:0;}
+.tab-head .lbl{font-family:'Caveat',cursive; font-size:20px; color:var(--muted); margin-left:auto;}
+.tab-body{padding:24px 34px 0;}
+.tab-body h4{font-size:20px; margin:26px 0 10px; color:var(--ink); letter-spacing:.5px;}
+.lead{font-size:20px; color:var(--ink); font-weight:500;}
+.tab-body .hr{height:1px; background:var(--line); margin:26px 0; border:0;}
+
+/* accent flavors per phase */
+.f-pre .dot{background:var(--green-600);} .f-pre .tab-head{border-bottom-color:var(--green-400);}
+.f-disc .dot{background:#000;} .f-disc .tab-head{border-bottom-color:#000;}
+.f-des .dot{background:var(--blue-400);} .f-des .tab-head{border-bottom-color:var(--blue-400);}
+.f-def .dot{background:var(--purple-600);} .f-def .tab-head{border-bottom-color:var(--purple-400);}
+.f-dep .dot{background:var(--orange-600);} .f-dep .tab-head{border-bottom-color:var(--orange-400);}
+
+/* ---------- PILLAR GRID ---------- */
+.grid3{display:grid; grid-template-columns:repeat(3,1fr); gap:16px; margin:18px 0;}
+.pillar{border-radius:14px; padding:20px; color:#fff;}
+.pillar h4{color:#fff; font-size:24px; margin:0 0 8px;}
+.pillar p{font-size:15px; line-height:1.55; margin:0 0 .7em; color:rgba(255,255,255,.9);}
+.pillar p:last-child{margin:0;}
+.p-pastor{background:linear-gradient(135deg,var(--red-600),var(--red-400));}
+.p-team{background:linear-gradient(135deg,var(--blue-800),var(--blue-400));}
+.p-system{background:linear-gradient(135deg,var(--ink),#46443f);}
+
+.grid3.overlaps .ov{background:var(--paper); border:1px solid var(--line); color:var(--body); border-radius:14px; padding:18px;}
+.ov h4{font-family:'Lilita One',sans-serif; font-size:19px; margin:0 0 6px;}
+.ov.fruit h4{color:var(--green-600);} .ov.focus h4{color:var(--blue-600);} .ov.align h4{color:var(--purple-600);}
+.ov p{font-size:14px; margin:0; line-height:1.5;}
+
+.center-2x{
+  text-align:center; background:linear-gradient(135deg,var(--red-600),var(--red-400)); color:#fff;
+  border-radius:16px; padding:26px; margin:20px 0;
+}
+.center-2x .big{font-family:'Lilita One',sans-serif; font-size:58px; line-height:1; color:#fff;}
+.center-2x p{color:var(--red-50); margin:8px 0 0; font-size:15px;}
+
+/* ---------- PHASE STEPS (4 phases) ---------- */
+.steps4{display:grid; grid-template-columns:repeat(2,1fr); gap:16px; margin-top:14px;}
+.step{border-radius:14px; padding:20px 22px; color:#fff; position:relative;}
+.step .d{font-family:'Lilita One',sans-serif; font-size:30px; color:#fff;}
+.step .d small{font-family:'Inter',sans-serif; font-weight:700; font-size:13px; letter-spacing:2px; display:block; opacity:.75; text-transform:uppercase; margin-top:4px;}
+.step p{font-family:'Caveat',cursive; font-size:20px; margin:10px 0 0; color:rgba(255,255,255,.95); line-height:1.3;}
+.s1{background:linear-gradient(135deg,#000,#3a3936);}
+.s2{background:linear-gradient(135deg,var(--blue-800),var(--blue-400));}
+.s3{background:linear-gradient(135deg,var(--purple-600),var(--purple-400));}
+.s4{background:linear-gradient(135deg,var(--orange-600),var(--orange-400));}
+
+/* ---------- GENERIC PIECES ---------- */
+.callout{border-left:4px solid var(--red-400); background:rgba(209,77,65,.06); padding:14px 18px; border-radius:0 10px 10px 0; margin:16px 0; font-size:15.5px;}
+.callout.blue{border-color:var(--blue-400); background:rgba(49,113,178,.06);}
+.callout.green{border-color:var(--green-400); background:rgba(135,154,57,.08);}
+.callout.amber{border-color:var(--orange-400); background:rgba(218,112,44,.07);}
+.callout .ct{font-family:'Lilita One',sans-serif; font-size:14px; letter-spacing:.5px; display:block; margin-bottom:4px; color:var(--ink);}
+
+.rule-block{margin:16px 0;}
+.rule-block h4{margin-bottom:6px;}
+.rule-block p{font-size:15.5px;}
+
+ul.clean{list-style:none; padding:0; margin:12px 0;}
+ul.clean li{position:relative; padding:6px 0 6px 26px; border-bottom:1px solid var(--line2); font-size:15.5px;}
+ul.clean li:last-child{border-bottom:0;}
+ul.clean li:before{content:""; position:absolute; left:4px; top:14px; width:8px; height:8px; border-radius:2px; background:var(--red-400);}
+ul.clean.blue li:before{background:var(--blue-400);} ul.clean.green li:before{background:var(--green-600);}
+
+.check{list-style:none; padding:0; margin:12px 0;}
+.check li{position:relative; padding:7px 0 7px 32px; font-size:15.5px; border-bottom:1px solid var(--line2);}
+.check li:before{content:""; position:absolute; left:0; top:9px; width:17px; height:17px; border:2px solid var(--faint); border-radius:5px;}
+
+/* tables */
+table{width:100%; border-collapse:collapse; margin:16px 0; font-size:14.5px; background:var(--paper); border-radius:10px; overflow:hidden;}
+th{background:var(--ink); color:var(--bg); font-family:'Lilita One',sans-serif; font-weight:400; letter-spacing:.4px; text-align:left; padding:11px 14px; font-size:13px;}
+td{padding:11px 14px; border-top:1px solid var(--line);}
+tr:nth-child(even) td{background:rgba(218,216,206,.22);}
+.tbl-red th{background:var(--red-600);} .tbl-blue th{background:var(--blue-800);} .tbl-purple th{background:var(--purple-600);}
+
+.eval-grid{display:grid; grid-template-columns:1fr 1fr; gap:16px; margin:16px 0;}
+.eval-box{border-radius:14px; padding:18px 20px;}
+.eval-bad{background:rgba(148,40,34,.06); border:1px solid var(--red-100);}
+.eval-good{background:rgba(135,154,57,.08); border:1px solid var(--green-400);}
+.eval-box h4{margin:0 0 8px;}
+.eval-bad h4{color:var(--red-700);} .eval-good h4{color:var(--green-600);}
+.eval-box p{font-size:14.5px; margin:0 0 .6em; line-height:1.45;}
+.eval-box b{color:var(--ink);}
+
+.status-row{display:flex; gap:10px; flex-wrap:wrap; margin:14px 0;}
+.status-row .s{flex:1; min-width:180px; border-radius:12px; padding:14px 16px; color:#fff; font-size:14px;}
+.s.red{background:var(--red-600);} .s.yellow{background:#AD8301;} .s.green{background:var(--green-600);}
+.s b{font-family:'Lilita One',sans-serif; display:block; font-size:16px; margin-bottom:2px;}
+
+.numlist{counter-reset:n; list-style:none; padding:0; margin:14px 0;}
+.numlist li{position:relative; padding:8px 0 8px 42px; border-bottom:1px solid var(--line2); font-size:15.5px;}
+.numlist li:before{counter-increment:n; content:counter(n); position:absolute; left:0; top:8px; width:26px; height:26px; background:var(--ink); color:var(--bg); border-radius:50%; font-family:'Lilita One',sans-serif; font-size:13px; display:flex; align-items:center; justify-content:center;}
+.f-dep .numlist li:before{background:var(--orange-600);}
+
+.assess-cat{margin:20px 0;}
+.assess-cat .head{display:flex; align-items:baseline; gap:12px; border-bottom:2px solid var(--ink); padding-bottom:6px; margin-bottom:6px;}
+.assess-cat .head h4{font-size:24px; margin:0;}
+.assess-cat .head span{font-size:14px; color:var(--muted); font-family:'Caveat',cursive; font-size:18px;}
+
+.footer{background:var(--ink); color:var(--faint); text-align:center; padding:46px 26px; margin-top:40px;}
+.footer .m{font-family:'Lilita One',sans-serif; color:var(--bg); font-size:22px;}
+.footer .m b{color:var(--red-400);}
+.footer p{font-family:'Caveat',cursive; font-size:20px; margin:8px 0 0; color:var(--faint);}
+
+.notebox{background:rgba(40,39,38,.04); border:1px dashed var(--faint); border-radius:10px; padding:8px 14px; margin:10px 0; color:var(--muted); font-family:'Caveat',cursive; font-size:18px;}
+
+@media(max-width:720px){
+  .grid3,.eval-grid,.steps4{grid-template-columns:1fr;}
+  .wrap{padding:0 16px;} .tab-head,.tab-body{padding-left:20px; padding-right:20px;}
+  .topnav .mark{width:100%; margin-bottom:4px;}
+}
+@media print{
+  .topnav{display:none;} body{background:#fff;} .tab{box-shadow:none; break-inside:avoid;}
+  section{padding:18px 0;} .cover{padding:60px 26px;}
+}
+</style>
+</head>
+<body>
+
+<!-- ===== TOP NAV ===== -->
+<nav class="topnav">
+  <span class="mark">READY SET GROW <b>/</b> GROWTH PLAN</span>
+  <a class="n-pre" href="#prework">Pre-Work</a>
+  <a class="n-disc" href="#discover">Discover</a>
+  <a class="n-des" href="#design">Design</a>
+  <a class="n-def" href="#define">Define</a>
+  <a class="n-dep" href="#deploy">Deploy</a>
+</nav>
+
+<!-- ===== COVER ===== -->
+<header class="cover">
+  <div class="kicker">The operating system for church growth</div>
+  <h1>THE GROWTH<br>PLAN PLAYBOOK</h1>
+  <p class="sub">A systematic framework that moves your team from vision to weekly execution. Not a strategy document that sits on a shelf — a living process with a map and a compass.</p>
+  <div class="pillbar">
+    <span style="background:var(--green-600)">PRE-WORK</span>
+    <span style="background:#000">DISCOVER</span>
+    <span style="background:var(--blue-600)">DESIGN</span>
+    <span style="background:var(--purple-600)">DEFINE</span>
+    <span style="background:var(--orange-600)">DEPLOY</span>
+  </div>
+</header>
+
+<!-- ============================================================ -->
+<!-- PRE-WORK -->
+<!-- ============================================================ -->
+<div class="wrap">
+<section id="prework" class="phase">
+  <div class="phase-band band-pre">
+    <div class="num">01</div>
+    <div><h2>PRE-WORK</h2><div class="pd">Watch, read, and prep before you walk in the room.</div></div>
+  </div>
+</section>
+
+<!-- RSG Framework -->
+<section class="tab f-pre">
+  <div class="tab-head"><span class="dot"></span><h3>RSG Framework</h3><span class="lbl">The big picture</span></div>
+  <div class="tab-body">
+    <p class="lead">Most churches aren't stuck because of bad leadership.</p>
+    <p>They're stuck because the pastor is carrying too much, the team isn't self-led, and there's no system turning vision into weekly action.</p>
+    <p>That's a <b>Pastor–Team–System</b> problem. And it has a solution.</p>
+
+    <h4>THE 3 PILLARS</h4>
+    <div class="grid3">
+      <div class="pillar p-pastor">
+        <h4>Pastor</h4>
+        <p>Every pastor has a zone — the work only they can do. The preaching. The vision. Leading the room.</p>
+        <p>Without the right structure, that work gets crowded out. Decisions that should be made elsewhere land on their desk.</p>
+        <p><b>Get freed to lead</b> — more time in their unique contribution zone, less in everyone else's.</p>
+      </div>
+      <div class="pillar p-team">
+        <h4>Team</h4>
+        <p>Most church teams are full of hard workers. They show up. They check the boxes.</p>
+        <p>But checking boxes isn't the same as building something. Without structure, team members stay in checkbox mode.</p>
+        <p><b>Turn doers into builders</b> — people who don't just complete work, they improve it and multiply it.</p>
+      </div>
+      <div class="pillar p-system">
+        <h4>System</h4>
+        <p>Every church has a vision. Almost none have a system that turns vision into weekly action.</p>
+        <p>So the vision gets cast on Sunday and forgotten by Wednesday. Big goals sit on whiteboards.</p>
+        <p><b>Close the gap</b> — so vision doesn't just get preached, it gets executed.</p>
+      </div>
+    </div>
+
+    <h4>THE OVERLAPS ARE THE WHOLE POINT</h4>
+    <div class="grid3 overlaps">
+      <div class="ov fruit"><h4>Fruit</h4><p>Pastor + Team. When you're healthy and your team leads itself, things grow — without you having to push.</p></div>
+      <div class="ov focus"><h4>Focus</h4><p>Pastor + System. With the right system, you stop putting out fires and start leading. Focus is a structure problem.</p></div>
+      <div class="ov align"><h4>Alignment</h4><p>Team + System. When your team knows the system, everyone moves the same direction. No chasing, no drift.</p></div>
+    </div>
+
+    <div class="center-2x">
+      <div class="big">2x</div>
+      <p>Where all three converge. Not a hype number — the natural result of a freed pastor, a multiplying team, and a system where vision becomes execution. Double attendance. Double capacity. Double impact.</p>
+    </div>
+    <p>Most churches are stuck at the same number for years. That's not a growth problem. It's a Pastor–Team–System problem.</p>
+  </div>
+</section>
+
+<!-- The 4 Phases -->
+<section class="tab f-pre">
+  <div class="tab-head"><span class="dot"></span><h3>The Four Phases</h3><span class="lbl">The workshop arc</span></div>
+  <div class="tab-body">
+    <h4>WHAT IS A GROWTH PLAN?</h4>
+    <p>A Growth Plan is a <b>systematic framework</b> — a set of tools and rhythms — that helps you move from vision to reality. It's a living process that creates:</p>
+    <ul class="clean green">
+      <li><b>Clarity</b> on where you are and where you're going.</li>
+      <li><b>Alignment</b> for the team around shared priorities.</li>
+      <li><b>Focus</b> on what's important now.</li>
+      <li><b>Accountability</b> through to completion.</li>
+    </ul>
+    <p>Think of it as the map and compass for the journey God has entrusted to you.</p>
+
+    <h4>THE FOUR PHASES OF THE WORKSHOP</h4>
+    <div class="steps4">
+      <div class="step s1"><div class="d">Discover<small>Today's Reality</small></div><p>Every path forward begins with a clear understanding of where we are now.</p></div>
+      <div class="step s2"><div class="d">Design<small>Tomorrow's Reality</small></div><p>All planning is guided by growth — doubling is the key filter and measure.</p></div>
+      <div class="step s3"><div class="d">Define<small>The W.I.N.</small></div><p>We can't do everything. We must decide what we will do this season.</p></div>
+      <div class="step s4"><div class="d">Deploy<small>The Middle Method</small></div><p>Every plan needs structure, accountability, and rhythm to last.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- Ground Rules -->
+<section class="tab f-pre">
+  <div class="tab-head"><span class="dot"></span><h3>Ground Rules</h3><span class="lbl">How we operate in the room</span></div>
+  <div class="tab-body">
+    <div class="rule-block">
+      <h4>One Conversation At A Time</h4>
+      <p>The gold is in the room. With dynamic teams, two or three meaningful conversations can pop up at once — and we don't want to miss any of it. One conversation keeps everyone in the moment and focused on the same topic.</p>
+    </div>
+    <div class="rule-block">
+      <h4>Unplug</h4>
+      <p>Every study on multitasking points to the same reality: it's impossible (unless you're a fighter pilot). Unplug from anything that could distract. A good prep technique: do a mind sweep the day before — list everything that will try to pull your attention so you don't fear forgetting it. There will be breaks for the urgent. The key is presence. You won't need to take notes — almost all the work happens inside the digital Playbook.</p>
+    </div>
+    <div class="rule-block">
+      <h4>Last 10% of Truth</h4>
+      <p>You're on the team to bring your full perspective. Withholding what you see keeps the team from making meaningful decisions. Your perspective is <b>valid but not always accurate</b> — humans see about 150 degrees on their best day; the other 210 gets filled in by the people around you. Share what you see, connect it to what others see, and paint the full picture. Share with love and respect. Don't hedge everything — but tread with compassion, because everything that could be broken is connected to a person, likely one in the room.</p>
+      <div class="callout green">
+        <span class="ct">POSSIBLE OPENINGS</span>
+        "I'm wondering if…" · "It seems like…" · "My experience has been…" · "Should we consider that…" · "This seems to need some work…" · "It doesn't seem like we have the right…"
+      </div>
+    </div>
+    <div class="rule-block">
+      <h4>Come Prayed Up — This Is Kingdom Work</h4>
+      <p>This process draws out, through strategic conversation, what God has been speaking to the team in prayer. We're not just strategizing. The frameworks and tools are a duplicatable process to move from vision to implementation — not a replacement for what God is doing, but a way to steward it well.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Evaluation Standards -->
+<section class="tab f-pre">
+  <div class="tab-head"><span class="dot"></span><h3>Evaluation Standards</h3><span class="lbl">How we judge what's working</span></div>
+  <div class="tab-body">
+    <p>When we evaluate ministry, strong standards matter. Weak standards make us chase the wrong things or pat ourselves on the back too soon. Effective standards create breakthrough-level clarity — so we focus time, energy, and resources on what matters most for the Kingdom.</p>
+    <div class="eval-grid">
+      <div class="eval-box eval-bad">
+        <h4>Ineffective Evaluation</h4>
+        <p><b>Personal Preference:</b> "I like it, so it must be good."</p>
+        <p><b>Past Success:</b> "It worked before, so it'll work again."</p>
+        <p><b>Incremental Improvement:</b> "…but it's getting better."</p>
+        <p><b>Comparison:</b> "We're doing better than they are."</p>
+        <p><b>Anecdotal Evidence:</b> "One person loved it, so everyone must."</p>
+      </div>
+      <div class="eval-box eval-good">
+        <h4>Effective Evaluation</h4>
+        <p><b>Reaching the Lost:</b> "Is this helping us effectively reach and disciple the lost?"</p>
+        <p><b>Driving Double Impact:</b> "Is this moving us toward our double-impact goals?"</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Seeing Double -->
+<section class="tab f-pre">
+  <div class="tab-head"><span class="dot"></span><h3>Seeing Double</h3><span class="lbl">Executive team · the measure</span></div>
+  <div class="tab-body">
+    <p>In Matthew 25, Jesus shows us how to steward and grow what God entrusts to us. Each obedient servant developed a strategy to return double — and received a "well done." With that same intent, we evaluate every strategy through the lens of <b>seeing double</b>.</p>
+    <p>We watch all key metrics, but the number one priority is <b>weekend attendance</b>. If our strategies help lost people get found and found people grow as disciples, that impact shows up in progressively increasing weekend attendance. We're not growing attendance to look good — it's a reflection of our work growing God's Kingdom.</p>
+    <p>We've identified six key metrics with the greatest impact on average weekend attendance.</p>
+    <table>
+      <tr><th>Mission Metric</th><th>1 Year (26% Increase)</th><th>3 Years (2x)</th></tr>
+      <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+      <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+      <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+      <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+      <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+      <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    </table>
+    <div class="notebox">Fill in your six mission metrics with their 1-year and 3-year targets.</div>
+  </div>
+</section>
+
+<!-- Start Stop Scale (pre-work) -->
+<section class="tab f-pre">
+  <div class="tab-head"><span class="dot"></span><h3>Start. Stop. Scale.</h3><span class="lbl">Everyone · prep</span></div>
+  <div class="tab-body">
+    <p>This tool clarifies your next moves with three simple questions. Work each category honestly, get clear on your current reality, and use the team's perspective to paint the full picture. Be brutally honest about your starting point — it's the springboard into tomorrow.</p>
+    <div class="grid3">
+      <div class="ov fruit"><h4 style="color:var(--green-600)">Start</h4><p>What new things do we need to begin to move toward where we want to go?</p></div>
+      <div class="ov focus"><h4 style="color:var(--blue-600)">Stop</h4><p>What are we doing that no longer makes sense or needs to change for us to move forward?</p></div>
+      <div class="ov align"><h4 style="color:var(--purple-600)">Scale</h4><p>What strengths could we amplify to get us closer to our vision?</p></div>
+    </div>
+    <div class="notebox">Capture up to 10 items under each: Start · Stop · Scale.</div>
+  </div>
+</section>
+
+<!-- ============================================================ -->
+<!-- DISCOVER -->
+<!-- ============================================================ -->
+<section id="discover" class="phase">
+  <div class="phase-band band-disc">
+    <div class="num">02</div>
+    <div><h2>DISCOVER</h2><div class="pd">Get an honest read on today's reality.</div></div>
+  </div>
+</section>
+
+<!-- The Assessment -->
+<section class="tab f-disc">
+  <div class="tab-head"><span class="dot"></span><h3>The Assessment</h3><span class="lbl">Church · Team · Systems</span></div>
+  <div class="tab-body">
+    <p class="lead">This is not a report card. It's a dashboard.</p>
+    <p>Your car's gauges don't tell you if you're a good driver — they tell you what's happening under the hood. Low fuel isn't shame. It's information. An engine light isn't failure. It's a signal to act before it gets worse.</p>
+    <div class="status-row">
+      <div class="s red"><b>RED</b>Needs attention now</div>
+      <div class="s yellow"><b>YELLOW</b>At risk — watch it</div>
+      <div class="s green"><b>GREEN</b>Healthy</div>
+    </div>
+    <p>The goal isn't a perfect score. It's an honest one — so you can move forward with clarity instead of assumptions.</p>
+
+    <div class="assess-cat">
+      <div class="head"><h4>Church</h4><span>How effectively we reach and engage people for Jesus</span></div>
+      <ul class="clean">
+        <li>We have a clear, compelling vision people can articulate and are rallying around.</li>
+        <li>Our weekend experience is designed with a ONE-aware filter — evaluating everything through the lens of the person who doesn't yet know Jesus.</li>
+        <li>Lost people are regularly responding to the gospel and getting baptized.</li>
+        <li>New people have a clear, frictionless path from first visit to being on mission with us.</li>
+        <li>Our church is marked by life change — and we tell those stories publicly.</li>
+        <li>We make disciples, not just attendees — people grow in maturity and take others with them.</li>
+        <li>We invest in our community and expand Kingdom impact beyond our walls.</li>
+      </ul>
+    </div>
+    <div class="assess-cat">
+      <div class="head"><h4>Team</h4><span>How unified, equipped, and well-led our people are</span></div>
+      <ul class="clean">
+        <li>Staff and key volunteers are aligned with the vision and can communicate where we're going.</li>
+        <li>We have the right people in the right roles for the season we're in.</li>
+        <li>Our culture is healthy, safe, and marked by trust and honest communication.</li>
+        <li>We have a clear, consistent system for developing, coaching, and giving feedback.</li>
+        <li>Volunteers are led well — we have strong volunteer leaders, not just workers.</li>
+        <li>We're actively investing in the next generation of leaders inside our church.</li>
+      </ul>
+    </div>
+    <div class="assess-cat">
+      <div class="head"><h4>Systems</h4><span>How effectively our structure supports what we're building</span></div>
+      <ul class="clean">
+        <li>Financial systems give leadership clear, real-time visibility.</li>
+        <li>We have the tools and workflows to track the people we're responsible for — and act on that data.</li>
+        <li>Communication systems keep the right people informed at the right time.</li>
+        <li>We have a clear, repeatable process to move people from first contact to full engagement.</li>
+        <li>Project and accountability systems ensure what we commit to actually gets done.</li>
+        <li>We regularly assess our systems and redesign what isn't working — we don't run on momentum alone.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================ -->
+<!-- DESIGN -->
+<!-- ============================================================ -->
+<section id="design" class="phase">
+  <div class="phase-band band-des">
+    <div class="num">03</div>
+    <div><h2>DESIGN</h2><div class="pd">Build tomorrow's reality — doubling is the filter.</div></div>
+  </div>
+</section>
+
+<!-- Caution Lights -->
+<section class="tab f-des">
+  <div class="tab-head"><span class="dot"></span><h3>Caution Lights</h3><span class="lbl">Manage the risks</span></div>
+  <div class="tab-body">
+    <p class="lead">Identify and manage the risks that could derail your plan.</p>
+
+    <h4>1 · List Potential Caution Lights</h4>
+    <p>What's gotten in the way before — and what could get in the way now? Internal habits or external pressures. Don't filter yet. Get them on the table.</p>
+    <div class="callout amber"><span class="ct">WATCH OUT FOR</span>"It'll be different this time" or "We'll just try harder." Those aren't safeguards. Be specific.</div>
+    <table>
+      <tr><th>Example Caution Light</th><th>What it looks like</th></tr>
+      <tr><td><b>Easily bored</b></td><td>Starting new things before finishing core work</td></tr>
+      <tr><td><b>Yes drift</b></td><td>Overcommitting to avoid disappointing people</td></tr>
+      <tr><td><b>Finishing fatigue</b></td><td>Strong starts, weak follow-through</td></tr>
+      <tr><td><b>Priority pileup</b></td><td>Treating everything as urgent</td></tr>
+      <tr><td><b>Ownership gaps</b></td><td>Unclear responsibility once work is in motion</td></tr>
+      <tr><td><b>Capacity amnesia</b></td><td>Forgetting what the team is already carrying</td></tr>
+      <tr><td><b>Scope creep</b></td><td>Projects growing beyond the original plan</td></tr>
+      <tr><td><b>Decision gridlock</b></td><td>Overanalyzing instead of choosing and moving</td></tr>
+      <tr><td><b>Handoff friction</b></td><td>Losing momentum between departments</td></tr>
+      <tr><td><b>Rework loops</b></td><td>Redoing work due to unclear expectations</td></tr>
+      <tr><td><b>Meeting substitution</b></td><td>Talking about work instead of doing it</td></tr>
+    </table>
+
+    <h4>2 · Choose Your Top Three</h4>
+    <p>Pick the three most likely to derail this plan. Give each a short, memorable name — one or two words. The name should sting a little.</p>
+
+    <h4>3 · Color-Code Each One</h4>
+    <div class="status-row">
+      <div class="s red"><b>RED — Act now</b>Currently an issue. Address this week.</div>
+      <div class="s yellow"><b>YELLOW — Watch</b>Mostly resolved, could resurface.</div>
+      <div class="s green"><b>GREEN — Hold</b>Being managed well right now.</div>
+    </div>
+
+    <h4>4 · Build a Safeguard for Each</h4>
+    <p>Every caution light needs a safeguard — a specific action or system that prevents it from becoming a problem.</p>
+    <ul class="clean blue">
+      <li><b>New staff rule</b> — a standing policy that closes the gap.</li>
+      <li><b>Accountability check-ins</b> on a set cadence.</li>
+      <li><b>New point person</b> assigned to manage it.</li>
+    </ul>
+
+    <h4>5 · Schedule Your Check-Ins</h4>
+    <p>Caution lights only work if you revisit them. When will you review — weekly, midpoint, end of cycle? Who brings them up? Where — team meeting, 1:1, Heartbeat call?</p>
+    <div class="callout"><span class="ct">NON-NEGOTIABLE</span>If it's not on the calendar, it won't happen. Put it there before you leave this session.</div>
+
+    <table class="tbl-red">
+      <tr><th>Caution Light</th><th>Color</th><th>Safeguard</th></tr>
+      <tr><td>&nbsp;</td><td>🔴 🟡 🟢</td><td>&nbsp;</td></tr>
+      <tr><td>&nbsp;</td><td>🔴 🟡 🟢</td><td>&nbsp;</td></tr>
+      <tr><td>&nbsp;</td><td>🔴 🟡 🟢</td><td>&nbsp;</td></tr>
+    </table>
+  </div>
+</section>
+
+<!-- Start Stop Scale (design) -->
+<section class="tab f-des">
+  <div class="tab-head"><span class="dot"></span><h3>Start. Stop. Scale.</h3><span class="lbl">Design the moves</span></div>
+  <div class="tab-body">
+    <p>Clarify your next moves with three questions. Work each category honestly, use the team's perspective, and be brutally honest about your starting point.</p>
+    <div class="grid3">
+      <div class="ov fruit"><h4 style="color:var(--green-600)">Start</h4><p>What new things do we need to begin to move toward where we want to go?</p></div>
+      <div class="ov focus"><h4 style="color:var(--blue-600)">Stop</h4><p>What no longer makes sense or needs to change for us to move forward?</p></div>
+      <div class="ov align"><h4 style="color:var(--purple-600)">Scale</h4><p>What strengths could we amplify to get closer to our vision?</p></div>
+    </div>
+    <div class="notebox">Capture up to 10 items under each: Start · Stop · Scale.</div>
+  </div>
+</section>
+
+<!-- ============================================================ -->
+<!-- DEFINE -->
+<!-- ============================================================ -->
+<section id="define" class="phase">
+  <div class="phase-band band-def">
+    <div class="num">04</div>
+    <div><h2>DEFINE</h2><div class="pd">Decide the W.I.N. — what we'll actually do this cycle.</div></div>
+  </div>
+</section>
+
+<!-- Cycle Rocks -->
+<section class="tab f-def">
+  <div class="tab-head"><span class="dot"></span><h3>Determine Cycle Rocks</h3><span class="lbl">From could-do to must-do</span></div>
+  <div class="tab-body">
+    <p>The Cycle Rock Dashboard moves you from <b>everything you could do</b> to <b>the items you must do</b> in the upcoming cycle. Three lists bring clarity and focus.</p>
+    <ul class="clean">
+      <li>Brainstorm and document every potential initiative you <b>could</b> prioritize next cycle.</li>
+      <li>If you could only pick one — highlight it as <b>Most Important</b>.</li>
+      <li>Still have capacity? Add the next batch of three. Then the next. Then the next.</li>
+    </ul>
+    <div class="grid3" style="margin-top:18px;">
+      <div class="ov align"><h4 style="color:var(--purple-600)">Long List</h4><p>Up to 15 candidate initiatives. Everything on the table.</p></div>
+      <div class="ov align"><h4 style="color:var(--purple-600)">Most Important</h4><p>The single rock that matters most this cycle.</p></div>
+      <div class="ov align"><h4 style="color:var(--purple-600)">Next Batches</h4><p>Groups of three, added only if real capacity exists.</p></div>
+    </div>
+    <div class="notebox">Narrow the long list to your prioritized rocks — one most important, then batches of three by capacity.</div>
+  </div>
+</section>
+
+<!-- Project Framework -->
+<section class="tab f-def">
+  <div class="tab-head"><span class="dot"></span><h3>Project Framework</h3><span class="lbl">Align before you assign</span></div>
+  <div class="tab-body">
+    <p class="lead">Most teams skip straight to the work.</p>
+    <p>They jump into tasks before defining the problem. They assign people before naming the outcome. Six weeks in, they're busy — but not moving toward anything. This framework slows you down for five minutes so you can move fast for the next 90 days. Five sections. One goal: everyone aligned before a single task gets assigned.</p>
+
+    <table class="tbl-purple">
+      <tr><th>Deadline</th><th>Status</th><th>Next Check-In</th></tr>
+      <tr><td>____________</td><td>🔴 🟡 🟢</td><td>____________</td></tr>
+    </table>
+
+    <h4>Problem</h4>
+    <ul class="clean">
+      <li><b>We are struggling with…</b> what's broken or not working.</li>
+      <li><b>This is causing…</b> what's going wrong because of it.</li>
+      <li><b>If we don't fix it…</b> what gets worse.</li>
+      <li><b>The real reason this is happening…</b> the root cause.</li>
+    </ul>
+
+    <h4>Outcome</h4>
+    <div class="callout blue">By ____________, we will ________________________________ so that ________________________________.</div>
+
+    <h4>Team</h4>
+    <table>
+      <tr><th>Role</th><th>Name</th></tr>
+      <tr><td><b>Leader</b></td><td>&nbsp;</td></tr>
+      <tr><td>Member 2</td><td>&nbsp;</td></tr>
+      <tr><td>Member 3</td><td>&nbsp;</td></tr>
+      <tr><td>Member 4</td><td>&nbsp;</td></tr>
+      <tr><td>Member 5</td><td>&nbsp;</td></tr>
+    </table>
+
+    <h4>Major Moves</h4>
+    <p>The 5 big steps that get you there.</p>
+    <ol class="numlist"><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li></ol>
+
+    <h4>Immediate Actions</h4>
+    <p>What happens in the first 7 days.</p>
+    <ol class="numlist"><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li></ol>
+  </div>
+</section>
+
+<!-- ============================================================ -->
+<!-- DEPLOY -->
+<!-- ============================================================ -->
+<section id="deploy" class="phase">
+  <div class="phase-band band-dep">
+    <div class="num">05</div>
+    <div><h2>DEPLOY</h2><div class="pd">Structure, accountability, and rhythm that make it last.</div></div>
+  </div>
+</section>
+
+<!-- Next Steps -->
+<section class="tab f-dep">
+  <div class="tab-head"><span class="dot"></span><h3>Growth Plan Post-Work</h3><span class="lbl">Four steps · do them in order</span></div>
+  <div class="tab-body">
+    <p>Complete these four steps during your <b>Cooldown</b> — before your next Cycle launches. Do them in order. Each one feeds the next.</p>
+
+    <h4>Step 1 — Lock In Your Cycle Dates</h4>
+    <p>Name your dates first. You can't build a dashboard, run a meetings audit, or protect your calendar if you don't know your window.</p>
+    <ul class="clean">
+      <li>When does your next <b>Cycle</b> start and end? (90 days)</li>
+      <li>When does your <b>Cooldown</b> start and end? (30 days before the Cycle)</li>
+    </ul>
+    <table>
+      <tr><th>Cycle 1</th><th>Cooldown</th><th>Cycle 2</th><th>Cooldown</th></tr>
+      <tr><td>Jan – Mar</td><td>April</td><td>May – Jul</td><td>August</td></tr>
+    </table>
+    <ol class="numlist">
+      <li>Open your calendar.</li>
+      <li>Block the Cycle window (90 days). Label it: Cycle # — start to end.</li>
+      <li>Block the Cooldown window (30 days before). Label it: Cooldown # — start to end.</li>
+      <li>Share those dates with your leadership team today.</li>
+    </ol>
+
+    <h4>Step 2 — Set Up Your Cycle Rock Dashboard</h4>
+    <p>Your central source of truth. It answers three questions at a glance: What matters most? Are we on track? How far along are we? Without it, rocks fade and urgency fills the gap.</p>
+    <div class="status-row">
+      <div class="s green"><b>GREEN</b>On track to complete by end of Cycle</div>
+      <div class="s yellow"><b>YELLOW</b>Possible, but not guaranteed</div>
+      <div class="s red"><b>RED</b>Stuck. Need help.</div>
+    </div>
+    <ol class="numlist">
+      <li>Pull your Growth Plan. Identify your 5–10 Cycle Rocks.</li>
+      <li>Decide where you'll keep the dashboard.</li>
+      <li>Create columns: Rock Name · Owner · Status · Progress % · Target Date.</li>
+      <li>Enter each rock. Assign one owner per rock.</li>
+      <li>Share the dashboard with your team.</li>
+      <li>Schedule a recurring 5-minute slot in your weekly staff meeting — update it live, in the room.</li>
+    </ol>
+    <div class="callout amber"><span class="ct">THE WEEKLY UPDATE IS NON-NEGOTIABLE</span>Each owner gives a status (R/Y/G). That's it. Problems get solved offline — not in the update.</div>
+
+    <h4>Step 3 — Set Up Your Ideas List</h4>
+    <p>Every new idea mid-Cycle is a threat to your current rocks — even good ones. The Ideas List is where ideas go to wait. It protects current work without killing future thinking.</p>
+    <div class="callout"><span class="ct">THE RULE</span>Nothing moves from the Ideas List into execution until the next Cycle.</div>
+    <ol class="numlist">
+      <li>Create a shared document titled "Ideas List."</li>
+      <li>Add three columns: Idea · Suggested By · Date Added.</li>
+      <li>Add a divider: Past Cycle (didn't make it) and New (came up mid-cycle).</li>
+      <li>Share it with your leadership team.</li>
+      <li>Communicate the ground rule: adding to the list means it's out of scope this Cycle.</li>
+      <li>During Cooldown, review the list before your Growth Plan session. Promote the best into next cycle's rocks.</li>
+    </ol>
+    <div class="callout green"><span class="ct">MODEL THE BEHAVIOR</span>When someone brings an idea mid-Cycle, say: "That's good. Let's put it on the Ideas List and revisit it in the Cooldown." Then do it.</div>
+
+    <h4>Step 4 — Do a Meetings Audit</h4>
+    <p>You can have clear rocks, an updated dashboard, and a strong Ideas List — and still finish nothing if the calendar doesn't reflect your priorities. The audit answers one question: <b>Does your calendar reflect what you say matters most?</b> If no, the calendar changes before the Cycle starts.</p>
+    <ul class="clean">
+      <li><b>Add</b> — meetings missing but required for new priorities.</li>
+      <li><b>Subtract</b> — meetings that no longer serve the mission. Kill them.</li>
+      <li><b>Trim</b> — meetings that need less time or frequency.</li>
+      <li><b>Fix</b> — meetings that stay but need redesign.</li>
+    </ul>
+    <ol class="numlist">
+      <li>Watch the Meetings Audit lesson.</li>
+      <li>Test each recurring meeting and adjust where needed.</li>
+    </ol>
+
+    <hr class="hr">
+    <h4>Summary Checklist</h4>
+    <ul class="check">
+      <li>Step 1 — Cycle and Cooldown dates locked and shared with the team.</li>
+      <li>Step 2 — Cycle Rock Dashboard live with all rocks, owners, and dates.</li>
+      <li>Step 3 — Ideas List created and the ground rule communicated.</li>
+      <li>Step 4 — Meetings Audit done and calendar changes implemented.</li>
+    </ul>
+    <div class="callout amber">When all four are done, your team starts the Cycle with <b>clarity — not urgency.</b></div>
+  </div>
+</section>
+</div><!-- /wrap -->
+
+<footer class="footer">
+  <div class="m">READY SET GROW <b>·</b> THE GROWTH PLAN PLAYBOOK</div>
+  <p>You don't need more ideas. You need a system that gets your team executing.</p>
+</footer>
+
+</body>
+</html>
