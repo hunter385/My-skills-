@@ -28,7 +28,7 @@ Format: `- [ ] Task description | Context | Due`
 - [x] Kick off Shipping Team Restructure | NeoWorld | Done 2026-06-09
 - [ ] Build NWU QR One-Pager | NeoWorld | Waiting on Dillon
 - [ ] Review Brand Deals with Tanner Milson | NeoWorld | This cycle
-- [ ] Build Triangle Model for NeoWorld | NeoWorld | Due this week
+- [x] Build Triangle Model for NeoWorld | NeoWorld | Done 2026-06-09
 - [x] Set up Basecamp workspace with Emily | Personal | Done 2026-06-01
 
 ## 🟢 Ongoing
