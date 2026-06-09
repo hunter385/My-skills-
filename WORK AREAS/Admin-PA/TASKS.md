@@ -10,22 +10,22 @@ Format: `- [ ] Task description | Context | Due`
 
 - [x] Complete editing rounds with Dad, Mark, and Emily on A-Team Workshop | RSG | Done 2026-06-01
 - [x] Prep podcast episode briefs for batch filming | RSG | Done 2026-06-01
-- [ ] Get finance report from Laura | RSG | Waiting on Laura
-- [ ] Email Brian Woods — we don't want to rent the offices any longer | Admin | Waiting on feedback from Laura and Dad before sending
+- [x] Get finance report from Laura | RSG | Done 2026-06-09
+- [x] Email Brian Woods — we don't want to rent the offices any longer | Admin | Done 2026-06-09
 - [x] Cancel Taki program and tell the team we'll just buy workshops | RSG | Done 2026-06-01
 - [x] Email Laura to get refunded on Taki from RSG | RSG | Done 2026-06-01
 
 ## 🔴 Urgent (due this week) — NeoWorld
 
-- [ ] Outline June Lead Generator Calls | NeoWorld | Due Jun 4 ⚠️
-- [ ] Set Up ManyChat on NeoWorld Instagram | NeoWorld | Due Jun 5 ⚠️
-- [ ] Gamify Shipping Team with Bonuses | NeoWorld | Due Jun 15
+- [x] Outline June Lead Generator Calls | NeoWorld | Done 2026-06-09
+- [x] Set Up ManyChat on NeoWorld Instagram | NeoWorld | Done 2026-06-09
+- [x] Gamify Shipping Team with Bonuses | NeoWorld | Done 2026-06-09
 
 ## 🟡 This Cycle
 
 - [ ] Ship Growth Plan v2 flow with Mark Brewer | RSG | Due Jun 30
 - [ ] Film RSG VSL for YouTube | RSG | This cycle
-- [ ] Kick off Shipping Team Restructure | NeoWorld | This cycle
+- [x] Kick off Shipping Team Restructure | NeoWorld | Done 2026-06-09
 - [ ] Build NWU QR One-Pager | NeoWorld | Waiting on Dillon
 - [ ] Review Brand Deals with Tanner Milson | NeoWorld | This cycle
 - [ ] Build Triangle Model for NeoWorld | NeoWorld | Due this week
@@ -34,7 +34,7 @@ Format: `- [ ] Task description | Context | Due`
 ## 🟢 Ongoing
 
 - [ ] New Rule of Life (Practicing the Way) | Personal | Due Jun 26
-- [ ] Emotional honesty practice with Emily | Personal | Due Jun 26
+- [x] Emotional honesty practice with Emily | Personal | Done 2026-06-09
 
 ---
 
@@ -49,7 +49,7 @@ _Synced from Basecamp · Ready Set Grow · 2026-05-31_
 - [ ] Update the GP cue sheet template in coaching call cue sheet | Momentum Staff HQ | Due Jun 17
 - [ ] Film all tools in Loom for new Growth Plan | Momentum Staff HQ | Due Jun 15
 - [ ] Create a Video Sales Letter | Momentum Staff HQ
-- [ ] A-Team Workshop | Momentum Staff HQ | Due Jun 10
+- [x] A-Team Workshop | Momentum Staff HQ | Done 2026-06-09
 
 ### Content Tracking
 - [x] Outline LIVE FROM TORREY PINES with Dr. Chand (30 min) | Content Tracking | Done 2026-06-01
@@ -62,7 +62,7 @@ _Synced from Basecamp · Ready Set Grow · 2026-05-31_
 ### Emily // Hunter
 - [x] Build out the Emily // Hunter Basecamp project as a shared home base | Emily // Hunter | Done 2026-06-01
 - [ ] Hunter: Rule of Life | Emily // Hunter | Due Jun 26
-- [ ] Proactive Emotional Honesty with Emily | Emily // Hunter | Due Jun 26
+- [x] Proactive Emotional Honesty with Emily | Emily // Hunter | Done 2026-06-09
 - [ ] 3rd Kid: Second Conversation | Emily // Hunter | Due Jun 26
 
 #### Future Ideas (not this cycle)
@@ -76,4 +76,4 @@ _Synced from Basecamp · Ready Set Grow · 2026-05-31_
 
 ---
 
-_Last updated: 2026-05-31_
+_Last updated: 2026-06-09_
