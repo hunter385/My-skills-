@@ -44,9 +44,9 @@ _Synced from Basecamp · Ready Set Grow · 2026-05-31_
 
 ### Momentum Staff HQ
 - [x] Prep for Middle Method re-recording | Momentum Staff HQ | Done 2026-06-01
-- [ ] SINGLE (omnibus) Assessment — covers all 3 areas | Momentum Staff HQ | Due Jun 26 | Waiting on Mark — where is he at with discovery assessment questions for the Growth Plan
-- [ ] Rebuild the GP Google Doc toolkits and send to Mark and Emily | Momentum Staff HQ | Due Jun 17
-- [ ] Update the GP cue sheet template in coaching call cue sheet | Momentum Staff HQ | Due Jun 17
+- [x] SINGLE (omnibus) Assessment — covers all 3 areas | Momentum Staff HQ | Done 2026-06-09
+- [x] Rebuild the GP Google Doc toolkits and send to Mark and Emily | Momentum Staff HQ | Done 2026-06-09
+- [x] Update the GP cue sheet template in coaching call cue sheet | Momentum Staff HQ | Done 2026-06-09
 - [ ] Film all tools in Loom for new Growth Plan | Momentum Staff HQ | Due Jun 16
 - [ ] Create a Video Sales Letter | Momentum Staff HQ
 - [x] A-Team Workshop | Momentum Staff HQ | Done 2026-06-09
