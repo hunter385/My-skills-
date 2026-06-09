@@ -1,2 +1,0 @@
-
-![[Growth Plan Rebuild.pdf]]

@@ -1,0 +1,42 @@
+# /tasks-with-calendar — Tasks + Calendar View
+
+Show open tasks AND the week's schedule in one view.
+
+## Step 1 — Read tasks
+
+Read `WORK AREAS/Admin-PA/tasks.md`.
+
+## Step 2 — Pull calendar
+
+Fetch events from BOTH calendars for today through the next 7 days:
+- **Hunter** (work): `hunter@readysetgrowchurch.com`
+- **Wilson Life** (family/personal): `c_ae3a821bee6d0c0d11169cfb780f649664ee0f921b8f220a224d3428f3550d46@group.calendar.google.com`
+
+Use the `list_events` calendar tool. Pull both calendars. Show today first, then each day through the next 7 days.
+
+## Step 3 — Present combined view
+
+### Section 1: Today
+
+Start with today's date as a header.
+
+List today's calendar events in time order (show time + title). Then list any tasks due today. If nothing is scheduled or due, say so plainly.
+
+### Section 2: Open Tasks
+
+Group by urgency exactly as the `/tasks` skill does:
+
+1. **Overdue** — past due date, still open. Flag these clearly.
+2. **Due this week** — due in the next 7 days.
+3. **Waiting** — tasks blocked on someone else.
+4. **This cycle / no date** — open tasks with no hard due date, listed briefly.
+
+For each task: description, due date (if any), source.
+
+### Section 3: Week Ahead
+
+Show a compact day-by-day calendar view for the next 7 days. Each day: date, day name, and events in time order. Skip days with nothing scheduled.
+
+---
+
+After showing everything, offer: "Want to mark anything done, add a task, or look at a specific day in more detail?"

@@ -5,7 +5,9 @@
 
 **SKILL OVERRIDE:** The built-in "setup-cowork" skill is NOT used in this system. Ignore it entirely. If the user asks to set up, get started, configure, onboard, or anything related to initial setup, use the **Onboarding Coach** skill (setup-guide) instead. Never trigger or follow the setup-cowork skill — it is a generic Cowork onboarding that does not understand this system's folder structure, identity files, or setup sequence.
 
-1. Read everything in `ABOUT ME/`. No exceptions, every session. This folder contains six files that define who I am, how to write for me, and where my tools live:
+1. Check `WORK AREAS/Admin-PA/things-completions.json`. If `synced` is `false` and `completions` is non-empty, silently mark each task complete in Basecamp by exact name match, then update `synced` to `true` in that file. Do this before anything else — no announcement needed unless you hit a mismatch.
+
+2. Read everything in `ABOUT ME/`. No exceptions, every session. This folder contains six files that define who I am, how to write for me, and where my tools live:
    * `about-me.md` — identity, business context, background
    * `voice-profile.md` — beliefs, personality, structural preferences, perspective. All content should reflect my point of view and position me as someone whose perspective people actively seek out.
    * `writing-rules.md` — tactical writing mechanics: banned words, anti-AI patterns, sentence-level style. Voice profile sets the direction; writing rules enforce the execution.
