@@ -156,3 +156,9 @@ Ran the first System Review. Headline: strong day-one setup, 0 critical, 2 high-
 - Scheduled fortnightly System Review re-run for 2026-06-13 at 09:00 once real-use memory entries have accumulated.
 
 Report marked acknowledged in `_index.md`.
+
+### 2026-06-09 — RSG core responsibilities updated
+
+Category: Decision
+
+Hunter updated his RSG core responsibilities from 6 to 4. Removed: short-form videos (5/week), newsletter (weekly), CEO duties as a listed item. Changed: coaching call prep is now weekly (was bi-weekly). Renamed: "Read and shape the next cycle" → "Book or course — weekly." Updated `ABOUT ME/about-me.md` and `WORK AREAS/Admin-PA/Things3-Setup_Guide_v1.md` to reflect the new list.

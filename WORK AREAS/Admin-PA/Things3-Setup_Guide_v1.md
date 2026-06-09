@@ -72,14 +72,12 @@ When a project is done, it's done. Mark it complete and Things 3 moves it to Log
 
 Repeating tasks live directly inside the Area — not inside a project. They recur every week or month regardless of what projects come and go.
 
-These are your six core responsibilities made operational.
+These are your core RSG responsibilities made operational.
 
 ### Inside RSG — Content
 
 | Task | Repeat | Notes |
 |------|--------|-------|
-| Short-form video (1 per day) | Weekdays | 5 per week, Mon–Fri |
-| Weekly newsletter | Weekly | Set your target send day |
 | Podcast batch (4 episodes) | Monthly | One filming day, batch all four |
 | A-Team Workshop design | Monthly | Start 2 weeks before live date |
 
@@ -87,8 +85,8 @@ These are your six core responsibilities made operational.
 
 | Task | Repeat | Notes |
 |------|--------|-------|
-| Coaching call prep | Bi-weekly | Day before your alternating week |
-| Read + cycle shaping | Weekly | Protected block — treat it as sacred |
+| Coaching call prep | Weekly | Prep before every call |
+| Book or course | Weekly | Protected block — treat it as sacred |
 
 ---
 
@@ -228,7 +226,7 @@ Do this before the new cycle starts, not after it's already running.
 | Situation | Where to look |
 |-----------|--------------|
 | What to do today | Today view |
-| Weekly publishing rhythm | Repeating tasks in RSG — Content |
+| RSG Content rhythm | Repeating tasks in RSG — Content |
 | Current cycle projects | Area project list |
 | Future ideas and projects | Someday |
 | Team coordination | Basecamp / Notion — not Things 3 |

@@ -33,14 +33,12 @@ The marketing truth: I never lead with that. I lead with pain — overload, stal
 
 **The tension I'm currently navigating:** I'm in my zone (Finder/CEO) but the context is partly wrong. I serve pastors. I'm increasingly passionate about entrepreneurs. My Opus Gloria is: *"He helped entrepreneurs find a better way to live and run their businesses."* The 10-year vision is to build my own platform for entrepreneurs alongside Ready Set Grow — a Y-Combinator for thought leaders, multiple businesses, B/I quadrant income.
 
-## Six core responsibilities every cycle
+## Core RSG responsibilities every cycle
 
 1. **One live workshop per month** — design and teach one workshop monthly that gives pastors a practical, implementable framework. Highest-leverage acquisition and retention event each cycle.
 2. **Four podcast episodes per month** — batch film four episodes in a single sitting. One clear idea per episode, tied to a current framework or pain point.
-3. **Five short-form videos per week** — Instagram + YouTube. Each distills one idea, reframes one problem, or introduces one framework concept.
-4. **Weekly coaching call segment** — alternate with Mark. When it's my week, fully prepared with a framework and breakthrough teaching point.
-5. **Read and shape the next cycle** — protected reading and capture time. What I read becomes what I teach.
-6. **CEO duties** — strategy, leadership, framework creation, execution architecture.
+3. **Weekly coaching call prep** — prep before every coaching call. Fully prepared with a framework and breakthrough teaching point.
+4. **Book or course — weekly** — protected reading and learning time. What I consume becomes what I teach.
 
 ## Assessments & wiring
 
