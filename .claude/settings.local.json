@@ -80,7 +80,12 @@
       "mcp__36879063-e0ac-4ebe-b567-175c10a76d58__get_crm_objects",
       "Bash(python3)",
       "mcp__36879063-e0ac-4ebe-b567-175c10a76d58__query_crm_data",
-      "mcp__36879063-e0ac-4ebe-b567-175c10a76d58__get_user_details"
+      "mcp__36879063-e0ac-4ebe-b567-175c10a76d58__get_user_details",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); [print\\(x.get\\('id'\\), '|', x.get\\('title'\\), '|', \\(x.get\\('bucket'\\) or {}\\).get\\('name'\\) if isinstance\\(x.get\\('bucket'\\),dict\\) else x.get\\('bucket'\\)\\) for x in d['data'] if any\\(k in \\(x.get\\('title'\\) or ''\\) for k in ['A-Team','SINGLE','Assessment']\\)]\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); [print\\(t.get\\('id'\\),'|',t.get\\('type'\\),'|',t.get\\('title'\\)\\) for t in d.get\\('data',[]\\) if 'a-team' in \\(t.get\\('title'\\) or ''\\).lower\\(\\) or 'a-team' in \\(t.get\\('content'\\) or ''\\).lower\\(\\)]\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); [print\\(t.get\\('id'\\),'|',t.get\\('type'\\),'|',t.get\\('title'\\)\\) for t in d.get\\('data',[]\\) if 'omnibus' in \\(t.get\\('title'\\) or ''\\).lower\\(\\) or 'single' in \\(t.get\\('title'\\) or ''\\).lower\\(\\)]\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); [print\\(t.get\\('id'\\),'|',t.get\\('completed'\\),'|',t.get\\('title'\\) or t.get\\('content'\\)\\) for t in d.get\\('data',[]\\)]\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); [print\\(t.get\\('id'\\),'|',t.get\\('type'\\),'|',t.get\\('title'\\)\\) for t in d.get\\('data',[]\\) if any\\(k in \\(t.get\\('title'\\) or ''\\).lower\\(\\) for k in ['assessment','omnibus','single']\\)]\")"
     ]
   }
 }
