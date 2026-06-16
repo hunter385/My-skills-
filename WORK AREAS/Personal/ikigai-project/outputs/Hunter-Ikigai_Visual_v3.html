@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hunter's Ikigai — Nature, Purpose, Present, Path</title>
+<style>
+  :root{--paper:#f5f0e3;--ink:#2b2620;--mustard:#c9982f;--olive:#7c8a4e;--red:#a8412e;--blue:#34536b;}
+  *{box-sizing:border-box;}
+  body{margin:0;background:#f5f0e3;color:#2b2620;
+    font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing:antialiased;line-height:1.5;}
+  .wrap{max-width:1040px;margin:0 auto;padding:48px 28px 72px;}
+  .kicker{font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:#a8412e;font-weight:700;margin:0 0 6px;}
+  h1{font-size:38px;line-height:1.05;margin:0 0 8px;letter-spacing:-.01em;}
+  .sub{font-size:16.5px;color:#4a443b;margin:0 0 6px;max-width:720px;}
+  .sub strong{color:#2b2620;}
+  .legend{font-size:13px;color:#8a8273;margin:0 0 30px;}
+
+  .diagram{display:flex;justify-content:center;margin:8px 0 16px;}
+  svg{width:100%;height:auto;max-width:760px;}
+  .circ-label{font-weight:800;font-size:15px;letter-spacing:.04em;text-transform:uppercase;}
+  .zone-name{font-weight:800;font-size:14px;letter-spacing:.03em;text-transform:uppercase;}
+  .zone-phrase{font-size:11px;font-style:italic;}
+  .ikigai-name{font-weight:800;font-size:17px;letter-spacing:.06em;text-transform:uppercase;fill:#a8412e;}
+  .ikigai-line{font-size:11px;fill:#2b2620;}
+
+  .cards{display:grid;grid-template-columns:repeat(2,1fr);gap:18px;margin-top:34px;}
+  .card{border:2px solid #3a342b;border-radius:14px;padding:20px 22px;background:#fbf8ef;}
+  .card.center{grid-column:1 / -1;border-color:#a8412e;background:#fbf1ec;}
+  .tag{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;padding:3px 10px;border-radius:999px;color:#fff;margin-bottom:10px;}
+  .t-passion{background:#c9982f;}.t-mission{background:#a8412e;}.t-profession{background:#7c8a4e;}.t-vocation{background:#34536b;}.t-ikigai{background:#2b2620;}
+  .role{font-size:12.5px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:#8a8273;margin:0 0 2px;}
+  .card h3{margin:0 0 10px;font-size:19px;}
+  .items{display:flex;flex-wrap:wrap;gap:7px;margin:0 0 12px;}
+  .chip{font-size:12.5px;padding:4px 11px;border-radius:8px;background:#efe9da;border:1px solid #ddd4c0;}
+  .truth{font-size:14px;font-style:italic;color:#a8412e;border-left:3px solid #a8412e;padding-left:12px;margin:0;}
+  .card.center .truth{color:#2b2620;border-left-color:#2b2620;}
+  .center p.big{font-size:17px;font-weight:600;line-height:1.45;margin:0 0 12px;}
+  @media(max-width:680px){.cards{grid-template-columns:1fr;}h1{font-size:30px;}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p class="kicker">Personal Strategy · Ikigai</p>
+  <h1>Hunter's Ikigai</h1>
+  <p class="sub"><strong>Passion is your nature. Mission is your purpose. Profession is your present. Vocation is your path.</strong></p>
+  <p class="legend">Built from your words · Love = mustard · Good at = olive · World needs = blue · Paid for = red</p>
+
+  <div class="diagram">
+  <svg viewBox="0 0 760 700" xmlns="http://www.w3.org/2000/svg">
+    <defs><style>text{font-family:'Inter',Helvetica,Arial,sans-serif;fill:#2b2620;text-anchor:middle;}</style></defs>
+    <circle cx="380" cy="210" r="195" fill="#c9982f" fill-opacity="0.16" stroke="#c9982f" stroke-width="2.5"/>
+    <circle cx="230" cy="350" r="195" fill="#7c8a4e" fill-opacity="0.16" stroke="#7c8a4e" stroke-width="2.5"/>
+    <circle cx="530" cy="350" r="195" fill="#34536b" fill-opacity="0.16" stroke="#34536b" stroke-width="2.5"/>
+    <circle cx="380" cy="490" r="195" fill="#a8412e" fill-opacity="0.14" stroke="#a8412e" stroke-width="2.5"/>
+
+    <text class="circ-label" x="380" y="55" fill="#8a6a1c">WHAT I LOVE</text>
+    <text class="circ-label" x="70" y="350" fill="#5d6a36">GOOD AT</text>
+    <text class="circ-label" x="690" y="350" fill="#34536b">WORLD NEEDS</text>
+    <text class="circ-label" x="380" y="665" fill="#a8412e">PAID FOR</text>
+
+    <text class="zone-name" x="250" y="230" fill="#7d5e1c">PASSION</text>
+    <text class="zone-phrase" x="250" y="248" fill="#7d5e1c">your nature</text>
+    <text class="zone-name" x="512" y="230" fill="#2c4257">MISSION</text>
+    <text class="zone-phrase" x="512" y="248" fill="#2c4257">your purpose</text>
+    <text class="zone-name" x="250" y="468" fill="#5d6a36">PROFESSION</text>
+    <text class="zone-phrase" x="250" y="486" fill="#5d6a36">your present · the trap</text>
+    <text class="zone-name" x="512" y="468" fill="#a8412e">VOCATION</text>
+    <text class="zone-phrase" x="512" y="486" fill="#a8412e">your path · the bridge</text>
+
+    <text class="ikigai-name" x="380" y="340">IKIGAI</text>
+    <text class="ikigai-line" x="380" y="360">Productize the frameworks —</text>
+    <text class="ikigai-line" x="380" y="376">so the work scales past</text>
+    <text class="ikigai-line" x="380" y="392">the room you stand in.</text>
+  </svg>
+  </div>
+
+  <div class="cards">
+
+    <div class="card">
+      <span class="tag t-passion">Passion</span>
+      <p class="role">Love × Good at — your nature</p>
+      <h3>The builder</h3>
+      <div class="items">
+        <span class="chip">Frameworks / Framework Creation</span><span class="chip">Teaching</span>
+        <span class="chip">Writing</span><span class="chip">Productivity</span>
+        <span class="chip">Organization &amp; structure</span><span class="chip">Creating</span>
+        <span class="chip">Systems</span><span class="chip">Ideas → Ideation</span>
+      </div>
+      <p class="truth">You don't lack passion. You lack a product to point it at.</p>
+    </div>
+
+    <div class="card">
+      <span class="tag t-mission">Mission</span>
+      <p class="role">Love × World needs — your purpose</p>
+      <h3>Clarity for builders</h3>
+      <div class="items">
+        <span class="chip">Helping Entrepreneurs</span><span class="chip">Frameworks</span>
+        <span class="chip">Systems</span><span class="chip">Teaching → Human Coaches</span>
+        <span class="chip">Growth Plan → Strategy for growth</span><span class="chip">Clarity</span>
+      </div>
+      <p class="truth">The thing you'd give away is the thing you should be selling.</p>
+    </div>
+
+    <div class="card">
+      <span class="tag t-profession">Profession</span>
+      <p class="role">Good at × Paid for — your present</p>
+      <h3>The comfortable trap</h3>
+      <div class="items">
+        <span class="chip">Coaching churches / entrepreneurs</span><span class="chip">Fractional COO</span>
+        <span class="chip">Growth Plan Facilitator</span><span class="chip">Life Plan Facilitator</span>
+        <span class="chip">Productivity coaching</span><span class="chip">Help thought leaders start consulting</span>
+      </div>
+      <p class="truth">Comfortable and competent isn't the same as alive. Graduate from this zone — don't grow in it.</p>
+    </div>
+
+    <div class="card">
+      <span class="tag t-vocation">Vocation</span>
+      <p class="role">World needs × Paid for — your path</p>
+      <h3>The bridge</h3>
+      <div class="items">
+        <span class="chip">Incubator with Middle Method tools</span><span class="chip">Investor</span>
+        <span class="chip">Systems + Frameworks, productized</span><span class="chip">Strategy for growth</span>
+        <span class="chip">Accountability + A strong team</span><span class="chip">AI</span>
+      </div>
+      <p class="truth">Empty now because you haven't built it yet — not because it isn't there.</p>
+    </div>
+
+    <div class="card center">
+      <span class="tag t-ikigai">Ikigai</span>
+      <h3>The center — where all four meet</h3>
+      <p class="big">Productize your frameworks into systems, courses, and an incubator that give entrepreneurs clarity and the right strategy for growth — so the work scales past the room you're standing in.</p>
+      <p class="truth">Your nature wants to build. Your purpose wants to serve builders. Your present pays but traps. Your path is the bridge you haven't crossed.</p>
+    </div>
+
+  </div>
+</div>
+</body>
+</html>

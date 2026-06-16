@@ -1,0 +1,129 @@
+<svg viewBox="0 0 1320 1340" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="1320" height="1340" fill="#f5f0e3"/>
+
+  <!-- four circles: centers around (660,640), offset 170, r 390 -->
+  <circle cx="660" cy="470" r="390" fill="#c9982f" fill-opacity="0.15" stroke="#c9982f" stroke-width="2.5"/>
+  <circle cx="490" cy="640" r="390" fill="#7c8a4e" fill-opacity="0.15" stroke="#7c8a4e" stroke-width="2.5"/>
+  <circle cx="830" cy="640" r="390" fill="#34536b" fill-opacity="0.15" stroke="#34536b" stroke-width="2.5"/>
+  <circle cx="660" cy="810" r="390" fill="#a8412e" fill-opacity="0.13" stroke="#a8412e" stroke-width="2.5"/>
+
+  <!-- ================= OUTER PETAL LABELS + LISTS ================= -->
+
+  <!-- WHAT I LOVE (top) -->
+  <text x="660" y="120" text-anchor="middle" font-size="26" font-weight="bold" fill="#8a6a1c" letter-spacing="1">WHAT I LOVE</text>
+  <g font-size="20" fill="#2b2620" text-anchor="middle">
+    <text x="548" y="170">Frameworks</text>
+    <text x="548" y="198">Teaching</text>
+    <text x="548" y="226">Software</text>
+    <text x="548" y="254">Productivity</text>
+    <text x="548" y="282">Business</text>
+    <text x="548" y="310">Creating</text>
+    <text x="548" y="338">Systems</text>
+    <text x="548" y="366">Organization</text>
+    <text x="788" y="170">Helping Entrepreneurs</text>
+    <text x="788" y="198">Growth Plan Sessions</text>
+    <text x="788" y="226">Ideas</text>
+    <text x="788" y="254">Startups</text>
+    <text x="788" y="282">Writing</text>
+    <text x="788" y="310">Courses</text>
+    <text x="788" y="338">Great Designs</text>
+  </g>
+
+  <!-- GOOD AT (left) -->
+  <text x="250" y="590" text-anchor="middle" font-size="26" font-weight="bold" fill="#5d6a36" letter-spacing="1">GOOD AT</text>
+  <g font-size="18" fill="#2b2620" text-anchor="middle">
+    <text x="250" y="620">Productivity</text>
+    <text x="250" y="644">Ideation</text>
+    <text x="250" y="668">Problem Solving</text>
+    <text x="250" y="692">Organization</text>
+    <text x="250" y="716">Framework Creation</text>
+    <text x="250" y="740">Self-implementing what I read</text>
+    <text x="250" y="764">Writing</text>
+    <text x="250" y="788">Teaching</text>
+    <text x="250" y="812">Futuristic goal setting</text>
+    <text x="250" y="836">Organizing + structure creating</text>
+    <text x="250" y="860">Turning ideas into action</text>
+    <text x="250" y="884">Strategy setting</text>
+    <text x="250" y="908">Coaching</text>
+    <text x="250" y="932">Photography</text>
+  </g>
+
+  <!-- WORLD NEEDS (right) -->
+  <text x="1072" y="600" text-anchor="middle" font-size="26" font-weight="bold" fill="#34536b" letter-spacing="1">WORLD NEEDS</text>
+  <g font-size="19" fill="#2b2620" text-anchor="middle">
+    <text x="1072" y="638">Human Coaches</text>
+    <text x="1072" y="666">Systems</text>
+    <text x="1072" y="694">Accountability</text>
+    <text x="1072" y="722">AI</text>
+    <text x="1072" y="750">Consistency with strategy</text>
+    <text x="1072" y="778">Frameworks</text>
+    <text x="1072" y="806">Clarity</text>
+    <text x="1072" y="834">Strategy for growth</text>
+    <text x="1072" y="862">A strong team</text>
+    <text x="1072" y="890">Right strategy</text>
+  </g>
+
+  <!-- PAID FOR (bottom) -->
+  <text x="660" y="1185" text-anchor="middle" font-size="26" font-weight="bold" fill="#a8412e" letter-spacing="1">PAID FOR</text>
+  <g font-size="19" fill="#2b2620" text-anchor="middle">
+    <text x="545" y="1010">Coaching churches /</text>
+    <text x="545" y="1034">entrepreneurs</text>
+    <text x="545" y="1060">Fractional COO</text>
+    <text x="545" y="1086">Growth Plan Facilitator</text>
+    <text x="545" y="1112">Life Plan Facilitator</text>
+    <text x="775" y="1010">Investor</text>
+    <text x="775" y="1036">Productivity coaching</text>
+    <text x="775" y="1062">Incubator with my</text>
+    <text x="775" y="1088">Middle Method tools</text>
+    <text x="775" y="1114">Help thought leaders</text>
+    <text x="700" y="1140">start their consulting</text>
+  </g>
+
+  <!-- ================= INTERSECTION LENSES ================= -->
+
+  <!-- PASSION (top-left) -->
+  <text x="495" y="408" text-anchor="middle" font-size="22" font-weight="bold" fill="#7d5e1c" letter-spacing="1">PASSION</text>
+  <text x="495" y="430" text-anchor="middle" font-size="14" font-style="italic" fill="#7d5e1c">your nature</text>
+  <g font-size="17" fill="#2b2620" text-anchor="middle">
+    <text x="495" y="458">Framework Creation</text>
+    <text x="495" y="481">Teaching · Writing</text>
+    <text x="495" y="504">Systems · Ideation</text>
+  </g>
+
+  <!-- MISSION (top-right) -->
+  <text x="825" y="408" text-anchor="middle" font-size="22" font-weight="bold" fill="#2c4257" letter-spacing="1">MISSION</text>
+  <text x="825" y="430" text-anchor="middle" font-size="14" font-style="italic" fill="#2c4257">your purpose</text>
+  <g font-size="17" fill="#2b2620" text-anchor="middle">
+    <text x="825" y="458">Helping Entrepreneurs</text>
+    <text x="825" y="481">Frameworks · Systems</text>
+    <text x="825" y="504">Clarity · Strategy for growth</text>
+  </g>
+
+  <!-- PROFESSION (bottom-left) -->
+  <text x="495" y="772" text-anchor="middle" font-size="22" font-weight="bold" fill="#5d6a36" letter-spacing="1">PROFESSION</text>
+  <text x="495" y="794" text-anchor="middle" font-size="14" font-style="italic" fill="#5d6a36">your present · the trap</text>
+  <g font-size="17" fill="#2b2620" text-anchor="middle">
+    <text x="495" y="822">Coaching · Fractional COO</text>
+    <text x="495" y="845">Growth / Life Plan Facilitator</text>
+    <text x="495" y="868">Productivity coaching</text>
+  </g>
+
+  <!-- VOCATION (bottom-right) -->
+  <text x="825" y="772" text-anchor="middle" font-size="22" font-weight="bold" fill="#a8412e" letter-spacing="1">VOCATION</text>
+  <text x="825" y="794" text-anchor="middle" font-size="14" font-style="italic" fill="#a8412e">your path · the bridge</text>
+  <g font-size="17" fill="#2b2620" text-anchor="middle">
+    <text x="825" y="822">Incubator · Investor</text>
+    <text x="825" y="845">Productized systems · AI</text>
+    <text x="825" y="868">Strategy for growth · Strong team</text>
+  </g>
+
+  <!-- ================= CENTER: IKIGAI ================= -->
+  <text x="660" y="600" text-anchor="middle" font-size="25" font-weight="bold" fill="#a8412e" letter-spacing="2">IKIGAI</text>
+  <g font-size="17" fill="#2b2620" text-anchor="middle">
+    <text x="660" y="628">Productize the frameworks</text>
+    <text x="660" y="651">into systems, courses</text>
+    <text x="660" y="674">&amp; an incubator — so the</text>
+    <text x="660" y="697">work scales past the</text>
+    <text x="660" y="720">room you stand in.</text>
+  </g>
+</svg>
