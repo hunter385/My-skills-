@@ -156,3 +156,15 @@ Ran the first System Review. Headline: strong day-one setup, 0 critical, 2 high-
 - Scheduled fortnightly System Review re-run for 2026-06-13 at 09:00 once real-use memory entries have accumulated.
 
 Report marked acknowledged in `_index.md`.
+
+### 2026-06-15 — Ikigai mapping [RETRACTED — misread]
+
+Category: Context
+
+**RETRACTED:** Claude pulled intersection content from a reference/example image, not Hunter's actual words, and built a visual + analysis on that wrong basis. Do not trust the earlier "Profession↔Ikigai gap" read or the synthesized intersections. Hunter is re-uploading his real Ikigai; rebuild only from his exact words. Earlier output files in `WORK AREAS/Personal/ikigai-project/outputs/` are based on the misread and should be replaced, not referenced.
+
+### 2026-06-15 — Ikigai rebuilt from Hunter's real four lists (v2)
+
+Category: Context
+
+Replaced the retracted v1. Built v2 from Hunter's actual Love / Good at / World needs / Paid-for lists, using only his vocabulary. Center / Ikigai statement: "Teach frameworks and build systems that give entrepreneurs clarity and the right strategy for growth — coached through Growth Plan sessions and productized into an incubator with my Middle Method tools." Recurring across all four lists: Frameworks, Systems, Teaching/Coaching, Helping Entrepreneurs, Growth Plan, Strategy for growth, Clarity. Outputs: `WORK AREAS/Personal/ikigai-project/outputs/Hunter-Ikigai_Visual_v2.html` + `_Analysis_v2.md`. Lesson for future work: when a user uploads a reference example alongside their own data, do not pull content from the reference image — confirm which words are theirs.

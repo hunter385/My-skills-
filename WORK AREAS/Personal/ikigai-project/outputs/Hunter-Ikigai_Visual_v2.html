@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hunter's Ikigai — In His Words</title>
+<style>
+  :root{
+    --paper:#f5f0e3;
+    --ink:#2b2620;
+    --mustard:#c9982f;
+    --olive:#7c8a4e;
+    --red:#a8412e;
+    --blue:#34536b;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:#f5f0e3;color:#2b2620;
+    font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing:antialiased;line-height:1.5;}
+  .wrap{max-width:1040px;margin:0 auto;padding:48px 28px 72px;}
+  .kicker{font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:#a8412e;font-weight:700;margin:0 0 6px;}
+  h1{font-size:38px;line-height:1.05;margin:0 0 8px;letter-spacing:-.01em;}
+  .sub{font-size:16px;color:#6a6357;margin:0 0 12px;max-width:680px;}
+  .legend{font-size:13px;color:#8a8273;margin:0 0 30px;}
+
+  .diagram{display:flex;justify-content:center;margin:8px 0 16px;}
+  svg{width:100%;height:auto;max-width:760px;}
+  .circ-label{font-weight:800;font-size:15px;letter-spacing:.04em;text-transform:uppercase;}
+  .zone-name{font-weight:800;font-size:14px;letter-spacing:.03em;text-transform:uppercase;}
+  .zone-phrase{font-size:11px;font-style:italic;}
+  .ikigai-name{font-weight:800;font-size:17px;letter-spacing:.06em;text-transform:uppercase;fill:#a8412e;}
+  .ikigai-line{font-size:11px;fill:#2b2620;}
+
+  .cards{display:grid;grid-template-columns:repeat(2,1fr);gap:18px;margin-top:34px;}
+  .card{border:2px solid #3a342b;border-radius:14px;padding:20px 22px;background:#fbf8ef;}
+  .card.center{grid-column:1 / -1;border-color:#a8412e;background:#fbf1ec;}
+  .tag{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;padding:3px 10px;border-radius:999px;color:#fff;margin-bottom:10px;}
+  .t-passion{background:#c9982f;}
+  .t-mission{background:#a8412e;}
+  .t-profession{background:#7c8a4e;}
+  .t-vocation{background:#34536b;}
+  .t-ikigai{background:#2b2620;}
+  .card h3{margin:0 0 4px;font-size:19px;}
+  .formula{font-size:12px;color:#8a8273;margin:0 0 12px;font-weight:600;letter-spacing:.02em;}
+  .items{display:flex;flex-wrap:wrap;gap:7px;margin-top:4px;}
+  .chip{font-size:12.5px;padding:4px 11px;border-radius:8px;background:#efe9da;border:1px solid #ddd4c0;}
+  .center p.big{font-size:17px;font-weight:600;line-height:1.45;margin:0 0 10px;}
+  .center p.small{font-size:13.5px;color:#6a6357;margin:0;}
+  @media(max-width:680px){.cards{grid-template-columns:1fr;}h1{font-size:30px;}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p class="kicker">Personal Strategy · Ikigai</p>
+  <h1>Hunter's Ikigai</h1>
+  <p class="sub">Your four lists, mapped into the five overlaps. Every word below is yours — each intersection is the overlap of the two circles that touch it.</p>
+  <p class="legend">Love = mustard · Good at = olive · World needs = blue · Paid for = red</p>
+
+  <div class="diagram">
+  <svg viewBox="0 0 760 700" xmlns="http://www.w3.org/2000/svg">
+    <defs><style>text{font-family:'Inter',Helvetica,Arial,sans-serif;fill:#2b2620;text-anchor:middle;}</style></defs>
+
+    <circle cx="380" cy="210" r="195" fill="#c9982f" fill-opacity="0.16" stroke="#c9982f" stroke-width="2.5"/>
+    <circle cx="230" cy="350" r="195" fill="#7c8a4e" fill-opacity="0.16" stroke="#7c8a4e" stroke-width="2.5"/>
+    <circle cx="530" cy="350" r="195" fill="#34536b" fill-opacity="0.16" stroke="#34536b" stroke-width="2.5"/>
+    <circle cx="380" cy="490" r="195" fill="#a8412e" fill-opacity="0.14" stroke="#a8412e" stroke-width="2.5"/>
+
+    <text class="circ-label" x="380" y="55" fill="#8a6a1c">WHAT I LOVE</text>
+    <text class="circ-label" x="70" y="350" fill="#5d6a36">GOOD AT</text>
+    <text class="circ-label" x="690" y="350" fill="#34536b">WORLD NEEDS</text>
+    <text class="circ-label" x="380" y="665" fill="#a8412e">PAID FOR</text>
+
+    <text class="zone-name" x="250" y="232" fill="#7d5e1c">PASSION</text>
+    <text class="zone-phrase" x="250" y="250" fill="#7d5e1c">frameworks &amp; teaching</text>
+
+    <text class="zone-name" x="512" y="232" fill="#2c4257">MISSION</text>
+    <text class="zone-phrase" x="512" y="250" fill="#2c4257">help entrepreneurs</text>
+
+    <text class="zone-name" x="250" y="470" fill="#5d6a36">PROFESSION</text>
+    <text class="zone-phrase" x="250" y="488" fill="#5d6a36">coach &amp; facilitate</text>
+
+    <text class="zone-name" x="512" y="470" fill="#a8412e">VOCATION</text>
+    <text class="zone-phrase" x="512" y="488" fill="#a8412e">systems &amp; strategy</text>
+
+    <text class="ikigai-name" x="380" y="342">IKIGAI</text>
+    <text class="ikigai-line" x="380" y="362">Teach frameworks, build systems</text>
+    <text class="ikigai-line" x="380" y="378">that give entrepreneurs the right</text>
+    <text class="ikigai-line" x="380" y="394">strategy for growth.</text>
+  </svg>
+  </div>
+
+  <div class="cards">
+
+    <div class="card">
+      <span class="tag t-passion">Passion</span>
+      <h3>Frameworks, teaching, building</h3>
+      <p class="formula">WHAT I LOVE × WHAT I'M GOOD AT</p>
+      <div class="items">
+        <span class="chip">Frameworks / Framework Creation</span>
+        <span class="chip">Teaching</span>
+        <span class="chip">Productivity</span>
+        <span class="chip">Writing</span>
+        <span class="chip">Organization / structure creating</span>
+        <span class="chip">Ideas / Ideation</span>
+        <span class="chip">Creating + Systems</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <span class="tag t-mission">Mission</span>
+      <h3>Give entrepreneurs clarity to grow</h3>
+      <p class="formula">WHAT I LOVE × WHAT THE WORLD NEEDS</p>
+      <div class="items">
+        <span class="chip">Frameworks</span>
+        <span class="chip">Systems</span>
+        <span class="chip">Helping Entrepreneurs</span>
+        <span class="chip">Teaching → Human Coaches</span>
+        <span class="chip">Growth Plan Sessions → Strategy for growth</span>
+        <span class="chip">Clarity</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <span class="tag t-profession">Profession</span>
+      <h3>Coach, facilitate, set strategy</h3>
+      <p class="formula">WHAT I'M GOOD AT × WHAT I GET PAID FOR</p>
+      <div class="items">
+        <span class="chip">Coaching → Coaching churches / entrepreneurs</span>
+        <span class="chip">Productivity → Productivity coaching</span>
+        <span class="chip">Strategy setting → Growth Plan Facilitator</span>
+        <span class="chip">Turning ideas into action → Fractional COO</span>
+        <span class="chip">Teaching → Help thought leaders start consulting</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <span class="tag t-vocation">Vocation</span>
+      <h3>Systems &amp; strategy people will pay for</h3>
+      <p class="formula">WHAT THE WORLD NEEDS × WHAT I GET PAID FOR</p>
+      <div class="items">
+        <span class="chip">Human Coaches → Coaching churches / entrepreneurs</span>
+        <span class="chip">Strategy for growth / Right strategy → Growth Plan Facilitator</span>
+        <span class="chip">Systems + Frameworks → Incubator with Middle Method tools</span>
+        <span class="chip">Accountability + A strong team → Fractional COO</span>
+        <span class="chip">Consistency with strategy → Life Plan Facilitator</span>
+      </div>
+    </div>
+
+    <div class="card center">
+      <span class="tag t-ikigai">Ikigai</span>
+      <h3>The center — where all four meet</h3>
+      <p class="formula">LOVE × GOOD AT × WORLD NEEDS × PAID FOR</p>
+      <p class="big">Teach frameworks and build systems that give entrepreneurs clarity and the right strategy for growth — coached through Growth Plan sessions and productized into an incubator with my Middle Method tools.</p>
+      <p class="small">Built only from words that appear across all four of your lists: Frameworks, Systems, Teaching/Coaching, Helping Entrepreneurs, Growth Plan, Strategy for growth, Clarity.</p>
+    </div>
+
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hunter's Ikigai — Filled In</title>
+<style>
+  :root{
+    --cream:#f5f0e3;
+    --paper:#f5f0e3;
+    --ink:#2b2620;
+    --mustard:#cE9b3a;
+    --olive:#7c8a4e;
+    --red:#a8412e;
+    --blue:#34536b;
+    --line:#3a342b;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:#f5f0e3;
+    color:#2b2620;
+    font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing:antialiased;
+    line-height:1.5;
+  }
+  .wrap{max-width:1040px;margin:0 auto;padding:48px 28px 72px;}
+  .kicker{font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:#a8412e;font-weight:700;margin:0 0 6px;}
+  h1{font-size:38px;line-height:1.05;margin:0 0 8px;letter-spacing:-.01em;}
+  .sub{font-size:16px;color:#6a6357;margin:0 0 36px;max-width:640px;}
+
+  /* diagram */
+  .diagram{display:flex;justify-content:center;margin:8px 0 16px;}
+  svg{width:100%;height:auto;max-width:760px;}
+  .circ-label{font-weight:800;font-size:15px;letter-spacing:.04em;text-transform:uppercase;}
+  .circ-sub{font-size:11.5px;fill:#6a6357;}
+  .zone-name{font-weight:800;font-size:14px;letter-spacing:.03em;text-transform:uppercase;}
+  .zone-phrase{font-size:11.5px;font-style:italic;}
+  .ikigai-name{font-weight:800;font-size:17px;letter-spacing:.06em;text-transform:uppercase;fill:#a8412e;}
+  .ikigai-line{font-size:11.5px;fill:#2b2620;}
+
+  /* cards */
+  .cards{display:grid;grid-template-columns:repeat(2,1fr);gap:18px;margin-top:34px;}
+  .card{border:2px solid #3a342b;border-radius:14px;padding:20px 22px;background:#fbf8ef;}
+  .card.center{grid-column:1 / -1;border-color:#a8412e;background:#fbf1ec;}
+  .tag{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;padding:3px 10px;border-radius:999px;color:#fff;margin-bottom:10px;}
+  .t-passion{background:#cE9b3a;}
+  .t-mission{background:#a8412e;}
+  .t-profession{background:#7c8a4e;}
+  .t-vocation{background:#34536b;}
+  .t-ikigai{background:#2b2620;}
+  .card h3{margin:0 0 4px;font-size:20px;}
+  .formula{font-size:12px;color:#8a8273;margin:0 0 12px;font-weight:600;letter-spacing:.02em;}
+  .card p{margin:0 0 10px;font-size:14.5px;}
+  .items{display:flex;flex-wrap:wrap;gap:7px;margin-top:4px;}
+  .chip{font-size:12.5px;padding:4px 11px;border-radius:8px;background:#efe9da;border:1px solid #ddd4c0;}
+  .lead{font-weight:600;}
+  .note{margin-top:30px;border-left:4px solid #a8412e;padding:14px 20px;background:#fbf1ec;border-radius:0 10px 10px 0;}
+  .note h4{margin:0 0 6px;font-size:13px;letter-spacing:.1em;text-transform:uppercase;color:#a8412e;}
+  .note p{margin:0;font-size:14.5px;}
+  .center p.big{font-size:17px;font-weight:600;line-height:1.45;}
+  @media(max-width:680px){.cards{grid-template-columns:1fr;}h1{font-size:30px;}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p class="kicker">Personal Strategy · Ikigai</p>
+  <h1>Hunter's Ikigai</h1>
+  <p class="sub">Your four lists, mapped into the five overlaps. Read the diagram for the shape. Read the cards for the detail.</p>
+
+  <div class="diagram">
+  <svg viewBox="0 0 760 700" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <style>text{font-family:'Inter',Helvetica,Arial,sans-serif;fill:#2b2620;text-anchor:middle;}</style>
+    </defs>
+
+    <!-- circles: r=190, centers offset ~120 from middle (380,350) -->
+    <circle cx="380" cy="210" r="195" fill="#cE9b3a" fill-opacity="0.16" stroke="#cE9b3a" stroke-width="2.5"/>
+    <circle cx="230" cy="350" r="195" fill="#7c8a4e" fill-opacity="0.16" stroke="#7c8a4e" stroke-width="2.5"/>
+    <circle cx="530" cy="350" r="195" fill="#34536b" fill-opacity="0.16" stroke="#34536b" stroke-width="2.5"/>
+    <circle cx="380" cy="490" r="195" fill="#a8412e" fill-opacity="0.14" stroke="#a8412e" stroke-width="2.5"/>
+
+    <!-- outer circle labels -->
+    <text class="circ-label" x="380" y="55" fill="#9a7322">WHAT YOU LOVE</text>
+    <text class="circ-label" x="70" y="350" fill="#5d6a36">GOOD AT</text>
+    <text class="circ-label" x="690" y="350" fill="#34536b">WORLD NEEDS</text>
+    <text class="circ-label" x="380" y="665" fill="#a8412e">PAID FOR</text>
+
+    <!-- intersection names -->
+    <text class="zone-name" x="250" y="232" fill="#7d5e1c">PASSION</text>
+    <text class="zone-phrase" x="250" y="250" fill="#7d5e1c">build &amp; design</text>
+
+    <text class="zone-name" x="512" y="232" fill="#2c4257">MISSION</text>
+    <text class="zone-phrase" x="512" y="250" fill="#2c4257">inspire builders</text>
+
+    <text class="zone-name" x="250" y="470" fill="#5d6a36">PROFESSION</text>
+    <text class="zone-phrase" x="250" y="488" fill="#5d6a36">coach &amp; sell</text>
+
+    <text class="zone-name" x="512" y="470" fill="#a8412e">VOCATION</text>
+    <text class="zone-phrase" x="512" y="488" fill="#a8412e">systems that scale</text>
+
+    <!-- center -->
+    <text class="ikigai-name" x="380" y="345">IKIGAI</text>
+    <text class="ikigai-line" x="380" y="366">Build &amp; teach systems</text>
+    <text class="ikigai-line" x="380" y="382">that help builders execute —</text>
+    <text class="ikigai-line" x="380" y="398">productized, leveraged, free.</text>
+  </svg>
+  </div>
+
+  <div class="cards">
+
+    <div class="card">
+      <span class="tag t-passion">Passion</span>
+      <h3>Design &amp; build things that work</h3>
+      <p class="formula">LOVE × GOOD AT</p>
+      <p>What you'd do for free and are wired to do well. You love making, and you're good at making. This is the engine — building, designing, closing, and turning what you learn into something teachable.</p>
+      <div class="items">
+        <span class="chip lead">Building products &amp; systems</span>
+        <span class="chip">Design</span>
+        <span class="chip">Closing deals</span>
+        <span class="chip">Writing / teaching frameworks</span>
+        <span class="chip">Learn → then teach</span>
+        <span class="chip">Creativity</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <span class="tag t-mission">Mission</span>
+      <h3>Inspire builders to live &amp; lead better</h3>
+      <p class="formula">LOVE × WORLD NEEDS</p>
+      <p>What you love that the world is asking for. Your Opus Gloria lives here — helping people find a better way to live and run their work. The world needs belonging, mentorship, and a network of fellow builders. You love giving exactly that.</p>
+      <div class="items">
+        <span class="chip lead">Help entrepreneurs grow</span>
+        <span class="chip">Inspire others</span>
+        <span class="chip">Meaningful connection / belonging</span>
+        <span class="chip">Mentorship</span>
+        <span class="chip">Build + share leverage</span>
+        <span class="chip">Spread peace / mental health</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <span class="tag t-profession">Profession</span>
+      <h3>Coach, sell, and ship content</h3>
+      <p class="formula">GOOD AT × PAID FOR</p>
+      <p>What people already pay you to do well — your current income base. Strong and real. But notice: this is the most "today" of the five. It's where RSG lives.</p>
+      <div class="items">
+        <span class="chip lead">Coaching &amp; training</span>
+        <span class="chip">Sales / closing</span>
+        <span class="chip">Copywriting &amp; design</span>
+        <span class="chip">Content strategy</span>
+        <span class="chip">Building systems / processes</span>
+        <span class="chip">Leadership &amp; hiring</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <span class="tag t-vocation">Vocation</span>
+      <h3>Systems &amp; tools that scale a business</h3>
+      <p class="formula">WORLD NEEDS × PAID FOR</p>
+      <p>What the market needs and will pay for — whether or not you personally love every piece. This is the most leveraged, least personality-dependent quadrant. It's where a platform gets built.</p>
+      <div class="items">
+        <span class="chip lead">Automation / tools for leverage</span>
+        <span class="chip">Content &amp; SEO strategy</span>
+        <span class="chip">Customer acquisition</span>
+        <span class="chip">Systems to scale</span>
+        <span class="chip">Memberships</span>
+        <span class="chip">Software / UI-UX</span>
+      </div>
+    </div>
+
+    <div class="card center">
+      <span class="tag t-ikigai">Ikigai</span>
+      <h3>The center — where all four meet</h3>
+      <p class="formula">LOVE × GOOD AT × WORLD NEEDS × PAID FOR</p>
+      <p class="big">Build and teach systems that help builders execute — productized into technology and memberships, run with leverage, from anywhere.</p>
+      <p>Your own brainstorm pointed straight here: Coaching · Automating Tasks · A-Team · Built-in Distribution Day 1 · Technology · Memberships · Soulful Journey · Traveling. That's not a coaching business. That's a leveraged product company with teaching at its core.</p>
+    </div>
+
+  </div>
+
+  <div class="note">
+    <h4>The honest read</h4>
+    <p>Your <strong>Profession</strong> (coaching + content, RSG today) and your <strong>Ikigai</strong> (leveraged technology + memberships for builders) aren't the same circle. That gap isn't a flaw in the diagram — it's the exact tension you already named: serving pastors today, pulled toward an entrepreneur platform tomorrow. The center tells you the direction. The move is to drag your paid work, one product at a time, from "coaching I deliver" toward "systems that run without me."</p>
+  </div>
+
+</div>
+</body>
+</html>
