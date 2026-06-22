@@ -4,6 +4,7 @@
 ---
 
 ## We Treat the Guest Like the Point
+*The mission lives or dies on whether people feel seen the moment they walk in. Hospitality isn't a department — it's everyone's job.*
 
 **What this looks like:**
 
@@ -20,6 +21,7 @@
 ---
 
 ## We Know Our Numbers
+*Faithfulness isn't just spiritual — it's measurable. You can't lead what you won't track.*
 
 **What this looks like:**
 
@@ -36,6 +38,7 @@
 ---
 
 ## We Multiply Before We Need To
+*A leader who can't name who they're developing isn't leading — they're doing. The climb requires more people than we currently have.*
 
 **What this looks like:**
 
@@ -52,12 +55,13 @@
 ---
 
 ## We Protect the Weekend
+*Sunday is the moment everything builds toward. Every decision during the week either protects that moment or jeopardizes it.*
 
 **What this looks like:**
 
-- Treating Sunday as the moment everything builds toward, not just another workday
+- Treating Sunday as the peak of the week, not just another workday
 - Solving problems Thursday so they don't blow up Saturday
-- Being fully present — physically, mentally, and emotionally — when it counts
+- Being fully present — physically, mentally, emotionally — when it counts
 
 **What this doesn't look like:**
 
@@ -68,6 +72,7 @@
 ---
 
 ## We Own Our Spiritual Health
+*You can't give what you don't have. The climb requires people who are personally strong, not just professionally capable.*
 
 **What this looks like:**
 
@@ -84,6 +89,7 @@
 ---
 
 ## We Close the Loop
+*In a fast-moving ministry environment, dropped follow-through creates confusion and erodes trust. Every commitment deserves a close.*
 
 **What this looks like:**
 
@@ -100,22 +106,24 @@
 ---
 
 ## We Prepare Like It Matters
+*Winging it isn't faith — it's disrespect to the moment. The people in those seats deserve more than our best guess on the fly.*
 
 **What this looks like:**
 
 - Showing up to meetings knowing the material, not catching up in real time
 - Reviewing the run of show before Sunday, not during
-- Doing the reps before the room fills — not winging it and calling it faith
+- Doing the reps before the room fills — not winging it and hoping for the best
 
 **What this doesn't look like:**
 
 - Overpromising what you'll have ready and under-delivering
 - Treating preparation as optional because you're naturally gifted
-- Spending more time performing competence than building it
+- Spending more energy performing competence than building it
 
 ---
 
 ## We Carry the Mission Off the Clock
+*If the mission only matters when you're on the clock, it's not actually a mission — it's a job. This mountain requires people who are all in.*
 
 **What this looks like:**
 
@@ -132,12 +140,13 @@
 ---
 
 ## We Recruit Constantly
+*Growth doesn't happen by announcement. It happens because someone asked someone specifically.*
 
 **What this looks like:**
 
 - Always having names of people you're moving toward volunteer roles
 - Treating every great conversation as a potential open door
-- Asking specifically, not generally — "Would you serve?" not "We need help"
+- Asking specifically, not generally — "Would you serve in kids?" not "We need help"
 
 **What this doesn't look like:**
 
@@ -148,6 +157,7 @@
 ---
 
 ## We Handle Criticism Without Collapsing
+*Church staff live in public. The climb requires people who can absorb feedback — from leadership, from the congregation, from critics — and keep moving.*
 
 **What this looks like:**
 
@@ -164,6 +174,7 @@
 ---
 
 ## We Protect the Room
+*Culture doesn't maintain itself. Every team member either raises the standard or erodes it — there's no neutral.*
 
 **What this looks like:**
 
@@ -180,11 +191,12 @@
 ---
 
 ## We Lead Up, Not Just Down
+*The mission moves faster when leaders don't have to chase information. Give your leader what they need before they have to ask.*
 
 **What this looks like:**
 
-- Giving your leader the information they need before they have to ask for it
-- Anticipating what leadership needs to make a good call and surfacing it early
+- Getting relevant information to leadership before they have to ask for it
+- Anticipating what's needed to make a good call and surfacing it early
 - Flagging problems with context and a proposed direction — not just the problem
 
 **What this doesn't look like:**
@@ -196,10 +208,11 @@
 ---
 
 ## We Work at the Speed of the Season
+*The church calendar is not linear. The climb has peaks and valleys — and the team that thrives knows how to read both.*
 
 **What this looks like:**
 
-- Knowing the church calendar and adjusting your pace and priorities accordingly
+- Knowing the church calendar and adjusting pace and priorities accordingly
 - Leaning in during high-demand seasons without being asked
 - Creating margin in slow seasons so you're ready when it spikes
 
@@ -212,6 +225,7 @@
 ---
 
 ## We Build Volunteers, Not Just Rosters
+*A full schedule doesn't mean a healthy team. The mission requires volunteers who are developed, not just deployed.*
 
 **What this looks like:**
 
@@ -223,15 +237,16 @@
 
 - Treating volunteers as labor, not people
 - Measuring success only by whether the role got filled
-- Never investing time unless there's a gap you need covered
+- Only investing in someone when there's a gap you need covered
 
 ---
 
 ## We Speak Up in the Room
+*The right time to raise a concern is in the meeting — not in the parking lot after. The mission needs your honest voice, not your comfortable silence.*
 
 **What this looks like:**
 
-- Sharing your honest read during the meeting, not in the parking lot after
+- Sharing your honest read during the meeting, not two days later
 - Asking the question everyone's thinking but no one's saying
 - Trusting that the team needs your perspective, not just your compliance
 
@@ -244,6 +259,7 @@
 ---
 
 ## We Are Excellent, Not Impressive
+*Excellence happens backstage. Impressive is a performance. The climb requires people who care about both — but know which one actually moves the mission.*
 
 **What this looks like:**
 
@@ -260,6 +276,7 @@
 ---
 
 ## We Stay Teachable
+*The moment you stop growing, you start limiting the team. The climb gets harder — and the people who make it are the ones who kept learning.*
 
 **What this looks like:**
 
@@ -276,11 +293,12 @@
 ---
 
 ## We Think Stewardship Before Spending
+*Every dollar spent is a dollar someone gave to the mission. Spend like it.*
 
 **What this looks like:**
 
 - Treating the church's money like it belongs to the mission — because it does
-- Asking "is this the best use of these resources?" before signing off
+- Asking "is this the best use of these resources?" before approving it
 - Finding ways to do more with what we have before asking for more
 
 **What this doesn't look like:**
@@ -292,6 +310,7 @@
 ---
 
 ## We Stay Humble About What We Don't Know
+*Fake confidence costs the mission. Knowing your limits — and naming them — is a leadership skill, not a weakness.*
 
 **What this looks like:**
 
@@ -308,11 +327,12 @@
 ---
 
 ## We Set the Tone Before the Crowd Arrives
+*The energy in the room doesn't appear on its own. Someone creates it. That someone is you.*
 
 **What this looks like:**
 
 - Being fully set up, warmed up, and ready before the first guest walks in
-- Creating an atmosphere of energy and expectation — not scrambling at the last minute
+- Creating an atmosphere of expectation — not scrambling at the last minute
 - Leading your team into game mode early, not at kickoff
 
 **What this doesn't look like:**
@@ -324,11 +344,12 @@
 ---
 
 ## We Ask Before We Assume
+*Assumptions produce rework. The mission moves on clarity — and clarity is cheap if you ask early enough.*
 
 **What this looks like:**
 
 - Clarifying expectations before starting, not midway through or after
-- Checking in when something feels unclear instead of guessing and hoping
+- Checking in when something feels unclear instead of guessing
 - Treating a short clarifying conversation as faster than rework
 
 **What this doesn't look like:**
@@ -340,12 +361,13 @@
 ---
 
 ## We Finish Well, Not Just Fast
+*The last 10% is where the mission shows. Anyone can start strong — the climb rewards people who see it all the way through.*
 
 **What this looks like:**
 
+- Giving the final details the same attention as the first draft
 - Handing off cleanly when a task moves to someone else
-- Making sure the last 10% gets the same attention as the first 90%
-- Not declaring victory until the outcome — not the effort — is complete
+- Not calling something finished until the outcome — not the effort — is complete
 
 **What this doesn't look like:**
 
@@ -356,11 +378,12 @@
 ---
 
 ## We Take the Long View on People
+*Developing people is slower than replacing them. The climb requires leaders willing to invest time in someone's trajectory, not just their current output.*
 
 **What this looks like:**
 
 - Investing in someone's growth even when it won't pay off this quarter
-- Giving people room to fail and try again instead of just giving the job to someone else
+- Giving people room to fail and try again instead of just reassigning
 - Thinking about where someone is headed, not just where they are
 
 **What this doesn't look like:**
@@ -372,31 +395,33 @@
 ---
 
 ## We Guard Unity Without Silencing Honesty
+*Unity built on silence isn't unity — it's pressure. Real team culture holds both: we protect the team and we tell each other the truth.*
 
 **What this looks like:**
 
 - Disagreeing with decisions through the right channels, not around them
 - Being someone who can be trusted with hard conversations because you handle them well
-- Choosing your team's trust over your own need to be right
+- Choosing the team's health over your need to be right
 
 **What this doesn't look like:**
 
-- Protecting surface-level peace while letting real tension fester underneath
+- Protecting surface-level peace while letting real tension build underneath
 - Using "I just want unity" as a reason to never push back
 - Lobbying others privately for support before raising a concern with leadership
 
 ---
 
 ## We Make People Feel Like They Belong Before They Believe
+*People don't commit to a church because of a great sermon. They come back because someone made them feel like they mattered. That's not the pastor's job alone — it's everyone's.*
 
 **What this looks like:**
 
 - Lowering the barrier to connection — not just attendance
-- Creating spaces where someone on the outside can feel on the inside
-- Treating belonging as a value you build, not a feeling people find on their own
+- Creating moments where someone on the outside can feel on the inside
+- Treating belonging as something we build, not something people stumble into
 
 **What this doesn't look like:**
 
-- Assuming a great sermon closes the gap for someone who feels alone in the room
+- Assuming a great service closes the gap for someone who feels alone in the room
 - Only investing in people who are already committed
 - Letting first-timers leave without a single meaningful point of contact
