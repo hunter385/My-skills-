@@ -174,3 +174,11 @@ Replaced the retracted v1. Built v2 from Hunter's actual Love / Good at / World 
 Category: Context
 
 Reframed Hunter's four intersections from word-piles into a four-stage narrative he responded strongly to: Passion = your nature (Love×Good-at), Mission = your purpose (Love×World-needs), Profession = your present / "the comfortable trap" (Good-at×Paid), Vocation = your path / "the bridge" (World-needs×Paid). Center: "Productize your frameworks into systems, courses, and an incubator... so the work scales past the room you're standing in." Key breakthroughs that landed: (1) "Church" appears only in the Paid-for list, never in Love or Good-at — the data already favors the entrepreneur direction; question is timing/bridge, not direction. (2) He monetizes delivery (drains him) and gives away invention (his genius). (3) Income requires him in the room; his loves don't — productization is the move. (4) NeoWorld University is proof he can build the leveraged-membership model — he built it for Dillon, not himself. (5) Photography = the one non-monetized item; protect it (Enneagram-3 "would I want this if no one was impressed?"). Output: Hunter-Ikigai_Visual_v3.html. This entrepreneur-platform / productization thesis is a strong anchor for future positioning work.
+
+### 2026-06-25 — HEIT is now the default short-form structure
+
+Category: Decision (system change)
+
+Hunter adopted HEIT (Hook → Explain → Illustrate → Teach) from the Martell Ultimate Content Playbook as the new default per-video structure for all RSG short-form, replacing HOOK → BUILD → PAYOFF → INVITATION. Full playbook (topic four-test, HEIT spine, voice/POV, cadence, metrics, 45-min workflow) translated into RSG voice and saved at `WORK AREAS/RSG/short-form-system-project/outputs/Short-Form-System_Playbook_v1.md`. New project folder created: `WORK AREAS/RSG/short-form-system-project/`. When building short-form going forward, default to HEIT and run the four topic tests first.
+
+**Open conflict:** the `/short-form-engine` skill SKILL.md still hardcodes HOOK → BUILD → PAYOFF → INVITATION and the five archetypes. This playbook overrides it on paper, but the skill will keep generating on the old spine until its SKILL.md is edited in Settings > Capabilities. Decision pending: rewrite the skill around HEIT, or keep it as an archetype-generator feeding HEIT scripts.
