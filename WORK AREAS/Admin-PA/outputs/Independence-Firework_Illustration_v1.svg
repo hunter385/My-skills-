@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" width="1200" height="1500">
+  <title>Independence — single firework burst, minimalist ink line illustration</title>
+  <rect x="0" y="0" width="1200" height="1500" fill="#ffffff"/>
+
+  <g fill="none" stroke="#111111" stroke-linecap="round" stroke-linejoin="round">
+    <!-- burst core, faint ink pool -->
+    <circle cx="600" cy="380" r="1.6" fill="#111111" stroke="none"/>
+
+    <!-- three strokes radiating around the point at irregular angles and lengths -->
+    <path d="M 600 381 C 631 411, 668 434, 700 464" stroke-width="2.0"/>
+    <path d="M 601 379 C 569 388, 539 405, 506 414" stroke-width="2.3"/>
+    <path d="M 600 380 C 596 342, 584 306, 580 267" stroke-width="1.9"/>
+  </g>
+</svg>
