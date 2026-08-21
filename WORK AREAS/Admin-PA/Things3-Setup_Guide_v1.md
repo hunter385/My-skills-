@@ -2,6 +2,16 @@
 
 How to structure Things 3 to match your actual work: two businesses, three rhythms, one personal life.
 
+> **Added to main 2026-08-21.** Written 2026-06-09 and cherry-picked from an abandoned branch, so
+> the **structure** below is current but the **dates** are not. The project tables still say
+> "Wednesday," "June 30," and "End of June." For live dates and status, use
+> `WORK AREAS/Admin-PA/TASKS.md` and `WORK AREAS/_active-projects-index.md` — the Areas, project
+> layout, and repeating-task rhythm here are what matter and still hold.
+>
+> This structure is also what the Things → Basecamp sync matches against. If you rename an Area or
+> project here, check `things-basecamp-sync-project/outputs/things_basecamp_sync.py` — the `ALIASES`
+> table may need an entry. Delete this note whenever you like.
+
 ---
 
 ## PART 1: AREAS

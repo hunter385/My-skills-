@@ -133,3 +133,15 @@ Category: Context
 Checked whether they contradict the overdue list: they don't. None of the 10 overdue items is marked complete on any of them. Their completions (editing rounds, podcast briefs, Taki cancellation, Brian Woods email, finance report) are all already in the Done — June cycle archive. One minor discrepancy: `task-list-8HWEF` dates the finance report and Brian Woods email as Jun 3 where `TASKS.md` says Jun 11. Not material to overdue status.
 
 Worth salvaging from `things3-areas-projects-setup`: `WORK AREAS/Admin-PA/Things3-Setup_Guide_v1.md`, which documents the four Areas (RSG — Content, RSG — CEO, NeoWorld, Personal) and the project layout. It's the source of the naming conventions the matcher now handles. Not cherry-picked yet — Hunter's call, since he may have abandoned that branch deliberately.
+
+### 2026-08-21 — Things 3 setup guide cherry-picked; picked the older of two versions on purpose
+
+Category: Decision
+
+Brought `WORK AREAS/Admin-PA/Things3-Setup_Guide_v1.md` onto main from the abandoned `claude/things3-areas-projects-setup-70n6o8` branch. Real cherry-pick of `e9fc445`, not a file copy — that commit touches only this file, so authorship and the original message survived.
+
+**Two versions existed and they disagreed.** A later commit on that branch (`618cf52`) revised the repeating-tasks table: dropped the short-form and newsletter rows, changed coaching call prep from bi-weekly to weekly, and swapped "Read + cycle shaping" for "Book or course". Took the **earlier** version anyway, because `618cf52` also rewrote `about-me.md` to match, and that branch's `about-me.md` predates the six core responsibilities entirely and still lists HOOK → BUILD → PAYOFF as the short-form structure — which HEIT replaced on 2026-06-25. The later guide was consistent with a divergent about-me, not with the live one.
+
+The earlier version lines up with main's `about-me.md`: five short-form per week, bi-weekly coaching call prep alternating with Mark, protected read-and-shape block. That's the one that's true.
+
+Added a dated banner rather than editing his content: the structure holds, the dates ("Wednesday", "June 30", "End of June") don't, and the banner points at `TASKS.md` for live status. Also noted that renaming an Area or project here means checking the sync's `ALIASES` table — the guide and the matcher are now coupled.
