@@ -1,8 +1,8 @@
 # Active Projects Index
 
-The live view of everything in flight across all three contexts. Updated when projects start, ship, or change status.
+The live view of everything in flight across all four areas. Updated when projects start, ship, or change status.
 
-Last updated: 2026-08-21 (task sync — dead items cleared)
+Last updated: 2026-08-21 (task sync — added the missing Admin-PA section)
 
 ---
 
@@ -28,6 +28,16 @@ Five of these were ticked done in TASKS.md on 2026-06-11 but their project memor
 | Triangle Model for NeoWorld | Done Jun 11 (per TASKS.md) — log empty | — | `NeoWorld/triangle-model-nw-project/` |
 | NWU QR One-Pager | Waiting on Dillon — 71 days, no movement | Chase or reassign | `NeoWorld/nwu-qr-onepager-project/` |
 | June Lead-Gen Coaching Calls | **Cleared Aug 21 — the month expired.** Folder is a candidate for `_archive/` unless it gets rescoped to the current month | — | `NeoWorld/june-lead-gen-coaching-project/` |
+
+## Admin-PA — system and internal work
+
+Was missing from this index entirely, which is why the sync project below could sit blocked without showing up in the one-screen view.
+
+| Project | Status | Due | Folder |
+|---|---|---|---|
+| Things 3 → Basecamp completion sync | **Blocked on Hunter** — script written, 26/26 regression checks green, never run on the Mac | Next time he's at the Mac | `Admin-PA/things-basecamp-sync-project/` |
+| System Reviews | **3 unread reports** (Jul 1, Jun 13, Jun 1). Most recent is 51 days old — a new review is overdue | Jul 1 report proposed Fri Aug 28 | `Admin-PA/system-reviews-project/` |
+| First Week Guide | Dormant — scaffolded May 31, no log entries since | No date | `Admin-PA/first-week-guide-project/` |
 
 ## Personal
 

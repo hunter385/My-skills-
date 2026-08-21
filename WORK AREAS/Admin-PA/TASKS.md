@@ -4,7 +4,7 @@ Standalone action items not tied to a full project session. Updated by Claude ea
 
 Format: `- [ ] Task description | Context | Due`
 
-_Last synced: 2026-08-21 (Friday). Dead items cleared, live items redated. Previous sync: 2026-06-11._
+_Last synced: 2026-08-21 (Friday), second run. Dead items cleared and live items redated in the first run; this run verified the sync machinery and added the Mac dry-run blocker below. Previous sync: 2026-06-11._
 
 ---
 
@@ -45,6 +45,7 @@ Each of these is one call you make in under ten minutes. All three are blocking 
 
 - [ ] Film RSG VSL for YouTube | RSG | This cycle — ⚠️ scoped as "following Taki's VSL process," but the Taki program was cancelled and refunded Jun 1. Confirm you still have the process before starting.
 - [ ] Re-pull the 4 Notion-linked Curriculum + workshop items from Content Tracking so they have real names | Content Tracking | This cycle — replaces the old placeholder entry
+- [ ] Double-click `Task-Sync_Dry-Run_v1.command` next time you're at the Mac | Admin · things-basecamp-sync-project | Next Mac session — the only thing standing between you and Things completions ticking themselves off in Basecamp. Script is written and green on 26/26 checks; it has just never met your actual machine. Path: `WORK AREAS/Admin-PA/things-basecamp-sync-project/outputs/`
 
 ---
 
@@ -109,12 +110,25 @@ Kept for the record. Duplicates across the old local and Basecamp lists noted in
 
 ## Sync notes — 2026-08-21
 
-What this sync could and couldn't reach:
+### First run (earlier today)
 
-- **Basecamp:** not connected. The assigned-tasks block is a 12-week-old manual snapshot. No live pull possible, and no way to write completions back.
-- **`things-completions.json`:** `synced: true`, `completions: []`. Nothing queued to push.
-- **Notion:** connected, but only a folder-update tool is exposed in-session, so the Notion-linked Content Tracking items can't be read.
-- **Google Calendar:** connected at account level but not enabled in this chat, so no calendar cross-check. `/tasks-with-calendar` will fail the same way until it's toggled on.
+- Dead items cleared, seven live items redated against a cycle starting Mon Aug 24.
 - **Deduped:** "New Rule of Life" merged with Basecamp "Hunter: Rule of Life" (same item, same Jun 26 date). "Emotional honesty practice with Emily" merged with "Proactive Emotional Honesty with Emily."
-- **Filename mismatch:** the PA plugin commands (`/tasks`, `/briefing`, `/eod`), the `tasks-with-calendar` skill, and the scheduled-task recipes all read `WORK AREAS/Admin-PA/tasks.md` (lowercase). This file is `TASKS.md`. Works on macOS, silently returns nothing anywhere case-sensitive. Pick one name.
-- **Missing PA files:** `captains-log/` and `output-log.md` don't exist, so `/briefing` and `/eod` have nothing to read.
+
+### Second run (this session) — what it could and couldn't reach
+
+- **`things-completions.json`:** `synced: true`, `completions: []`. Nothing queued to push. Verified, not assumed.
+- **Basecamp:** still unreachable. The `basecamp` CLI lives at `~/.local/bin/basecamp` on the Mac; this session is a Linux container and doesn't have it. No live pull, no write-back.
+- **Things 3:** same story. The SQLite database is on the Mac. The assigned-tasks block below stays a 2026-05-31 snapshot.
+- **Sync script health:** ran the regression harness — **all checks pass**, including the real-naming section that caught the 6-silently-dropped bug. The logic is sound; only the Mac plumbing is unproven.
+- **Staleness hook:** ran it as a startup session would. Silent, which is correct — every date in this file is still in the future.
+- **Dates still valid:** the proposed dates assume a cycle starting Mon Aug 24. Confirmed that is a Monday and still three days out, so nothing needed redating again.
+- **Index drift fixed:** `WORK AREAS/_active-projects-index.md` had no Admin-PA section, so the blocked sync project never appeared in the "everything in flight" view. Added.
+
+### Still open, unresolved
+
+- **Filename casing.** The PA plugin commands (`/tasks`, `/briefing`, `/eod`), the `tasks-with-calendar` skill, and the scheduled-task recipes all read `WORK AREAS/Admin-PA/tasks.md` (lowercase). This file is `TASKS.md`. On the Mac that works, because the filesystem ignores case. Anywhere case-sensitive — including remote sessions like this one — those readers find nothing and say nothing. A lowercase copy can't be committed alongside this one: it would collide on the Mac's case-insensitive filesystem. The fix is a rename plus updating the readers, which needs Hunter's go-ahead.
+- **System Reviews.** Three unread reports; the most recent (Jul 1) is 51 days old.
+- **Missing PA files:** `captains-log/` and `output-log.md` still don't exist, so `/briefing` and `/eod` have nothing to read.
+- **Notion:** connected, but only a folder-update tool is exposed in-session, so the Notion-linked Content Tracking items still can't be read.
+- **Google Calendar:** connected at account level but not enabled in this chat, so no calendar cross-check.

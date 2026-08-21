@@ -157,3 +157,15 @@ Built `outputs/Task-Sync_Dry-Run_v1.command` instead. `.command` files are doubl
 Tested end-to-end in the container: all four stages run and degrade cleanly where the Mac-only pieces are absent. One false alarm worth recording — the push-back appeared to fail, but that was my own `| head -45` closing the pipe and killing the script early. Verified the staging works when the pipe stays open. Hardened it anyway: it now reports the current branch, pushes that branch rather than assuming main, and says "nothing new to commit" instead of failing silently.
 
 **The lesson:** check *how* the user is connected before prescribing the interface. Session origin was in `list_sessions` the whole time and would have saved four rounds. A phone can't run a terminal command no matter how correct the command is.
+
+### 2026-08-21 — Task sync run; harness still green, still blocked on the Mac
+
+Category: Progress
+
+Ran a task sync from a remote container. Confirmed the queue is genuinely empty (`synced: true`, `completions: []`) rather than assuming it, and re-ran the regression harness — all checks pass, including sections 7–9 that caught the six-silently-dropped bug. So the logic hasn't rotted.
+
+Nothing else moved, because nothing else can from here: no `basecamp` CLI, no Things database, Linux container. Checked for a `last-dry-run.txt` coming back through git — none, so `Task-Sync_Dry-Run_v1.command` has still never been double-clicked.
+
+**The one change worth noting:** that blocker was not on `TASKS.md` at all. The project was blocked, the index didn't list Admin-PA, and the task list didn't carry the action — so the single thing standing between Hunter and a working sync was invisible in all three places he'd look. Added it to `TASKS.md` and added an Admin-PA section to `_active-projects-index.md`.
+
+**Lesson:** a blocker recorded only in a project memory log is not tracked. Memory is where you explain a blocker; the task list is where it gets seen. If the next action lives on someone else's machine, it belongs in `TASKS.md` too.

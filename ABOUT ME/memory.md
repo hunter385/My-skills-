@@ -279,3 +279,17 @@ Two things to expect: it takes effect on the **next** session, since hooks load 
 `.claude/settings.json` is repo-shared, so this applies to remote sessions too, not just the Mac. Still unconfirmed: whether the CoWork desktop app honors `.claude/settings.json` hooks the same way Claude Code does. If a fresh session shows nothing even with a backdated task, that's the first thing to check.
 
 A reference copy stays at `WORK AREAS/Admin-PA/Session-Start-Hook_Script_v1.sh`. Both blobs are identical today — edit the one in `.claude/hooks/`, since that's the one that runs.
+
+### 2026-08-21 — Task sync: the index was hiding the only thing that needed doing
+
+Category: System change
+
+Second task sync today. The first one cleared dead items and redated the live ones, so there was nothing to redate — every proposed date still sits in the future against a cycle starting Mon Aug 24. Verified rather than assumed: `things-completions.json` is genuinely empty and synced, the sync script's regression harness is still fully green, and the new SessionStart hook is silent for the right reason (nothing overdue), which I confirmed by backdating a task in a scratch copy and watching it fire.
+
+**What the sync actually found.** `_active-projects-index.md` — the file whose own header calls it "the live view of everything in flight" — had no Admin-PA section. Three project folders existed there and none appeared. One of them, the Things → Basecamp sync, is blocked on a single double-click on the Mac. So the highest-leverage open action in the system was absent from the index, absent from `TASKS.md`, and recorded only inside a project memory log. Fixed both files.
+
+**The pattern, which is the third time this shape has shown up here:** a tracking file that reports success while covering less than it claims. The Basecamp step that silently did nothing, the Things query returning zero rows, and now an index quietly scoped to three of four areas. All three looked fine from the outside. Worth a habit — when a file claims to cover "everything," count what it actually covers against the filesystem.
+
+**Rotation checked, not needed.** `ABOUT ME/memory.md` is past 150 lines, but every entry is Q2 or Q3 2026 and the rule keeps both live. Nothing qualifies for archive yet; the first rotation will be at the start of Q4.
+
+**Open, needs your call:** the `TASKS.md` / `tasks.md` casing split. Your Mac ignores case so it works there, but the PA plugin, the `tasks-with-calendar` skill, and the scheduled-task recipes all read the lowercase name and find nothing anywhere case-sensitive — including remote sessions like this one, silently. A lowercase copy can't just be added alongside; it would collide on the Mac. It needs a rename plus updating the readers.
