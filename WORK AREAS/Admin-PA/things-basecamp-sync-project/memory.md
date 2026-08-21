@@ -68,3 +68,11 @@ Category: Next steps
 3. One manual `--apply` run, then the launchd timer (or the one-line addition to `hunter-sync.sh`, which is simpler).
 4. Decide on the `CLAUDE.md` step 1 rewrite in outputs.
 5. Retire or move aside `~/.claude/things-sync.sh` so two scripts aren't writing the same queue file.
+
+### 2026-08-21 — Fixed a quoted-tilde bug in my own instructions
+
+Category: Lessons learned
+
+The dry-run command I gave Hunter was `python3 "~/Desktop/Hunter Wilson/..."`. Bash only expands a leading tilde when it is unquoted, so that resolves to a literal `~` directory and fails with `can't open file`. Same bug was in the setup doc's `cp` line. Both now use `"$HOME/..."`, which expands inside double quotes while still protecting the spaces in `Hunter Wilson` and `WORK AREAS`. Added a quoting note to the setup doc so it doesn't come back.
+
+When writing shell commands for paths with spaces under the home directory, `"$HOME/path with spaces"` is the only form that gets both halves right.

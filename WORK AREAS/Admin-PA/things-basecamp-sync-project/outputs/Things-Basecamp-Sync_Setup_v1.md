@@ -68,7 +68,7 @@ Tested against your real task titles:
 
 ```bash
 mkdir -p ~/.claude/bin
-cp "~/Desktop/Hunter Wilson/WORK AREAS/Admin-PA/things-basecamp-sync-project/outputs/things_basecamp_sync.py" ~/.claude/bin/
+cp "$HOME/Desktop/Hunter Wilson/WORK AREAS/Admin-PA/things-basecamp-sync-project/outputs/things_basecamp_sync.py" ~/.claude/bin/
 chmod +x ~/.claude/bin/things_basecamp_sync.py
 ```
 
@@ -80,6 +80,11 @@ chmod +x ~/.claude/bin/things_basecamp_sync.py
 ```
 
 If `projects list --json` isn't the right shape for your installed version, fix the `CMD_PROJECTS` / `CMD_TODOS` / `CMD_COMPLETE` constants at the top of the script. It prints the exact command it tried when one fails, so you'll see precisely what to change.
+
+> **Quoting note.** Use `"$HOME/..."`, not `"~/..."`. Bash only expands a tilde when it's
+> unquoted, so `python3 "~/Desktop/..."` looks for a directory literally named `~` and fails
+> with `can't open file`. `$HOME` expands inside double quotes and the quotes keep the spaces
+> in `Hunter Wilson` and `WORK AREAS` safe.
 
 **3. Dry run first. Do not skip this.**
 
