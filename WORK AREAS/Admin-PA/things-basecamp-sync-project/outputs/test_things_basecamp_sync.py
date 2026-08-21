@@ -197,6 +197,47 @@ def main():
     except SystemExit:
         check("raises on missing DB with a real message", True)
 
+    print("\n[7] Real naming conventions — Things project names vs Basecamp to-dos")
+    # Drawn from Things3-Setup_Guide_v1.md and TASKS.md. Things names a project
+    # as a noun; Basecamp phrases it as an action. Nothing here may land in
+    # "no match" -- a silent drop is the failure mode that makes the sync useless.
+    real_pairs = [
+        ("Growth Plan v2", "Ship Growth Plan v2 flow with Mark Brewer"),
+        ("RSG VSL", "Create a Video Sales Letter"),
+        ("A-Team Workshop", "A-Team Workshop"),
+        ("Middle Method Podcast Batch", "Prep for Middle Method re-recording"),
+        ("Triangle Model \u2014 NeoWorld", "Build Triangle Model for NeoWorld"),
+        ("June Lead-Gen Coaching Calls", "Outline June Lead Generator Calls"),
+        ("Rule of Life", "Hunter: Rule of Life"),
+        ("Shipping Team Gamification", "Gamify Shipping Team with Bonuses"),
+        ("NWU QR One-Pager", "Build NWU QR One-Pager"),
+        ("Brand Deals Review", "Review Brand Deals with Tanner Milson"),
+        ("Emotional Honesty with Emily", "Proactive Emotional Honesty with Emily"),
+        ("Basecamp Workspace with Emily", "Set up Basecamp workspace with Emily"),
+        ("Shipping Team Restructure", "Kick off Shipping Team Restructure"),
+    ]
+    dropped = [(t, b) for t, b in real_pairs if mod.score(t, b) < mod.REVIEW_THRESHOLD]
+    check(f"no real pair is silently dropped ({len(real_pairs)} pairs)",
+          not dropped, str(dropped))
+
+    print("\n[8] False positives — generic titles must not match")
+    for things_title, bc_title in [
+        ("Review", "Review Brand Deals with Tanner Milson"),
+        ("Call Mark", "Ship Growth Plan v2 flow with Mark Brewer"),
+        ("Email", "Email Laura to get refunded on Taki from RSG"),
+    ]:
+        sc = mod.score(things_title, bc_title)
+        check(f"{things_title!r} stays below review threshold ({sc:.2f})",
+              sc < mod.REVIEW_THRESHOLD)
+
+    print("\n[9] Near-identical to-dos must still separate cleanly")
+    right = mod.score("Outline Keeping First Time Guests (Engagement Pathway)",
+                      "Outline Keeping First Time Guests (Engagement Pathway) (1 hr)")
+    wrong = mod.score("Outline Keeping First Time Guests (Engagement Pathway)",
+                      "Send Keeping First Time Guests (Engagement Pathway) to team for editing")
+    check(f"gap between right and wrong target is decisive ({right:.2f} vs {wrong:.2f})",
+          right - wrong > 0.05)
+
     print()
     if FAILURES:
         print(f"{len(FAILURES)} FAILED: {FAILURES}")

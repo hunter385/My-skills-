@@ -106,3 +106,30 @@ Category: Progress
 Ran the harness in-session: 26/26 pass on Python 3.11. Then closed the version gap rather than leaving it as a warning — `ast.parse(feature_version=...)` confirms both files are valid syntax back to 3.8, and every stdlib call used landed in 3.7 or earlier (`subprocess.run(capture_output=)` 3.7, `sqlite3` URI mode 3.4, `isoformat(timespec=)` 3.6, `os.replace` 3.3). The `from __future__ import annotations` line is what keeps the `list[dict]` annotations legal that far back.
 
 macOS ships 3.9.x, so `/usr/bin/python3` is sufficient. No Homebrew Python, no pip, no dependencies. Replaced the vague "if it fails it's probably your Python version" line in the setup doc with that, so a failure on his machine now means a real bug worth reporting rather than an environment shrug.
+
+### 2026-08-21 — Matching would have silently done nothing; found it before Hunter ran it
+
+Category: Decision
+
+Found `Things3-Setup_Guide_v1.md` sitting on an unmerged branch and scored the matcher against Hunter's real Things project names. Result was bad: **2 of 13 auto-matched, 6 silently dropped.** The sync would have run clean, reported almost nothing, and looked like it was working.
+
+Root cause is structural, not a threshold tuning problem. Things names a project as a noun ("Growth Plan v2"); Basecamp phrases it as an action ("Ship Growth Plan v2 flow with Mark Brewer"). Whole-string similarity scores that pair at 0.51. No threshold change fixes that without also letting garbage through.
+
+Two additions:
+
+1. **Token containment** — if the Things title's words sit inside the Basecamp title, that counts even when the ratio is low. Damped by how much of the Basecamp title got covered, so a short title landing in a long one doesn't score a perfect match. Requires 2+ tokens and 60% containment before it applies.
+2. **An `ALIASES` table** for pairs sharing no words at all — `RSG VSL` / `Create a Video Sales Letter` is unbridgeable by any string method. Four seeded from real data. This is the honest answer: some pairs must be declared, not inferred.
+
+After: **8 auto, 5 queued, 0 dropped.** Safety held — the near-identical Keeping First Time Guests pair still separates by 0.24, and generic titles ("Review", "Email", "Call Mark") stay below 0.28. Locked all of it into the regression suite as sections 7–9 so it can't quietly regress.
+
+**Lesson worth keeping:** testing against invented examples proved the code worked and told me nothing about whether it would *do the job*. The synthetic fixtures I wrote used titles that matched too well because I wrote both sides. Hunter's real naming conventions were the actual test, and they were sitting in the repo on an unmerged branch the whole time. Look for the user's real data before trusting a green test suite.
+
+### 2026-08-21 — Three stale branches found; do not merge them
+
+Category: Context
+
+`claude/things3-areas-projects-setup-70n6o8`, `claude/task-list-8HWEF`, and `claude/tasks-endpoint-review-25DAE` are all cut from `ae34624 Initial commit` — ancient parallel forks, not newer work. They carry older versions of `CLAUDE.md`, `about-me.md`, and `TASKS.md`, so merging any of them now would revert current work.
+
+Checked whether they contradict the overdue list: they don't. None of the 10 overdue items is marked complete on any of them. Their completions (editing rounds, podcast briefs, Taki cancellation, Brian Woods email, finance report) are all already in the Done — June cycle archive. One minor discrepancy: `task-list-8HWEF` dates the finance report and Brian Woods email as Jun 3 where `TASKS.md` says Jun 11. Not material to overdue status.
+
+Worth salvaging from `things3-areas-projects-setup`: `WORK AREAS/Admin-PA/Things3-Setup_Guide_v1.md`, which documents the four Areas (RSG — Content, RSG — CEO, NeoWorld, Personal) and the project layout. It's the source of the naming conventions the matcher now handles. Not cherry-picked yet — Hunter's call, since he may have abandoned that branch deliberately.

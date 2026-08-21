@@ -79,6 +79,18 @@ THINGS_DB_GLOB = os.path.expanduser(
 # Prefixes Basecamp to-dos carry that Things titles won't, e.g. "Hunter: Rule of Life".
 STRIP_PREFIXES = ("hunter:", "hunter -", "hunter —", "hw:")
 
+# Pairs no string comparison can bridge, because the two systems use different
+# words for the same thing. Things names a project; Basecamp phrases an action.
+# Left side is the Things title, right side the Basecamp to-do. Both are matched
+# after normalization, so case and punctuation don't matter. Add to this as you
+# hit new ones -- an entry here scores a perfect match.
+ALIASES = {
+    "rsg vsl": "create a video sales letter",
+    "middle method podcast batch": "prep for middle method re recording",
+    "june lead gen coaching calls": "outline june lead generator calls",
+    "shipping team gamification": "gamify shipping team with bonuses",
+}
+
 
 # --------------------------------------------------------------------------
 # Things
@@ -239,13 +251,47 @@ def normalize(title: str) -> str:
     return " ".join(t.split())
 
 
+def containment(things_title: str, bc_title: str) -> float:
+    """
+    How much of the Things title is contained in the Basecamp title.
+
+    Things names things as nouns ("Growth Plan v2"); Basecamp phrases them as
+    actions ("Ship Growth Plan v2 flow with Mark Brewer"). Whole-string
+    similarity scores that pair at 0.51 and drops it on the floor, even though
+    one title clearly contains the other. Token containment catches it.
+
+    Damped by how much of the Basecamp title got covered, so a two-word Things
+    title landing inside a ten-word Basecamp to-do doesn't score a perfect match.
+    """
+    ta = normalize(things_title).split()
+    tb = normalize(bc_title).split()
+    if len(ta) < 2 or not tb:
+        return 0.0
+
+    remaining = list(tb)
+    matched = 0
+    for token in ta:
+        if token in remaining:
+            remaining.remove(token)
+            matched += 1
+
+    contained = matched / len(ta)
+    if contained < 0.6:
+        return 0.0
+    coverage = matched / len(tb)
+    return contained * (0.6 + 0.4 * coverage)
+
+
 def score(a: str, b: str) -> float:
     na, nb = normalize(a), normalize(b)
     if not na or not nb:
         return 0.0
     if na == nb:
         return 1.0
-    return difflib.SequenceMatcher(None, na, nb).ratio()
+    if ALIASES.get(na) == nb:
+        return 1.0
+    # Whichever signal is stronger wins. Neither can drag a pair down.
+    return max(difflib.SequenceMatcher(None, na, nb).ratio(), containment(a, b))
 
 
 def match(done: list[dict], todos: list[dict]) -> tuple[list, list, list]:

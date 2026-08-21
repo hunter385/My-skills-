@@ -49,6 +49,33 @@ Things 3 (local SQLite)
 - **Two candidates within 0.05 of each other** → queued, never guessed.
 - **Below 0.72** → treated as a Things-only task, left alone.
 
+### The naming problem, and how it's handled
+
+Things names a project as a noun. Basecamp phrases it as an action. That gap is wider than it looks:
+
+| Things | Basecamp |
+|---|---|
+| `Growth Plan v2` | `Ship Growth Plan v2 flow with Mark Brewer` |
+| `Brand Deals Review` | `Review Brand Deals with Tanner Milson` |
+| `RSG VSL` | `Create a Video Sales Letter` |
+
+Plain string similarity scores the first pair at **0.51** and drops it on the floor. Scored against
+your real names from `Things3-Setup_Guide_v1.md`, that approach auto-completed only 2 of 13 pairs and
+silently dropped 6 — which would have looked like the sync working while doing nothing.
+
+Two additions fix it:
+
+- **Token containment.** If your Things title's words sit inside the Basecamp title, that counts,
+  even when the whole-string ratio is low. Damped by how much of the Basecamp title got covered, so a
+  two-word Things title landing in a ten-word to-do doesn't score a perfect match.
+- **An alias table** for pairs no comparison can bridge — `RSG VSL` and `Create a Video Sales Letter`
+  share no words at all. Four are seeded in the `ALIASES` dict at the top of the script. Add to it
+  when you hit a new one.
+
+Result on your real names: **8 auto, 5 queued, 0 silently dropped.** The safety property held —
+`Outline Keeping First Time Guests` still beats the near-identical `Send Keeping First Time Guests…`
+by a 0.24 margin, and generic titles like `Review` or `Email` stay well below the review threshold.
+
 Tested against your real task titles:
 
 | Things title | Result |
