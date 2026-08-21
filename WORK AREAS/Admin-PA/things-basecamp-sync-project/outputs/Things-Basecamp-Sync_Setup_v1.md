@@ -85,8 +85,12 @@ trashed/heading/canceled exclusions, assignee filtering, the matching thresholds
 that `--apply` completes exactly the right ids and nothing else. It should end with
 `All checks passed.` and it never reads your real Things data or calls the real CLI.
 
-If this fails on your machine but passed on mine, the difference is your Python
-version — say so and I'll fix it.
+Python version is not a risk here. Both files parse clean as far back as 3.8, and
+every stdlib call used landed in 3.7 or earlier (`subprocess.run(capture_output=)`,
+`sqlite3` URI mode, `isoformat(timespec=)`, `os.replace`). macOS ships 3.9.x, so
+`/usr/bin/python3` is enough — no Homebrew Python, no pip installs, no dependencies.
+
+If it fails anyway, paste the traceback. That's a real bug, not an environment gap.
 
 **3. Confirm the Basecamp CLI still answers.**
 

@@ -98,3 +98,11 @@ What remains unverified is only what a simulation can't cover: whether his insta
 Category: Lessons learned
 
 Twice I told Hunter "I can't run this, only you can" — true, but not useful on its own. The better move when a dependency is out of reach is to simulate it and verify everything up to the boundary. That turned "verified logic on unverified plumbing" into a short, specific list of what's genuinely still unknown. Worth reaching for whenever the blocker is environmental rather than logical.
+
+### 2026-08-21 — Python compatibility verified, caveat removed
+
+Category: Progress
+
+Ran the harness in-session: 26/26 pass on Python 3.11. Then closed the version gap rather than leaving it as a warning — `ast.parse(feature_version=...)` confirms both files are valid syntax back to 3.8, and every stdlib call used landed in 3.7 or earlier (`subprocess.run(capture_output=)` 3.7, `sqlite3` URI mode 3.4, `isoformat(timespec=)` 3.6, `os.replace` 3.3). The `from __future__ import annotations` line is what keeps the `list[dict]` annotations legal that far back.
+
+macOS ships 3.9.x, so `/usr/bin/python3` is sufficient. No Homebrew Python, no pip, no dependencies. Replaced the vague "if it fails it's probably your Python version" line in the setup doc with that, so a failure on his machine now means a real bug worth reporting rather than an environment shrug.
