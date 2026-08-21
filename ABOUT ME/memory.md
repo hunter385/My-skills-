@@ -182,3 +182,30 @@ Category: Decision (system change)
 Hunter adopted HEIT (Hook → Explain → Illustrate → Teach) from the Martell Ultimate Content Playbook as the new default per-video structure for all RSG short-form, replacing HOOK → BUILD → PAYOFF → INVITATION. Full playbook (topic four-test, HEIT spine, voice/POV, cadence, metrics, 45-min workflow) translated into RSG voice and saved at `WORK AREAS/RSG/short-form-system-project/outputs/Short-Form-System_Playbook_v1.md`. New project folder created: `WORK AREAS/RSG/short-form-system-project/`. When building short-form going forward, default to HEIT and run the four topic tests first.
 
 **Open conflict:** the `/short-form-engine` skill SKILL.md still hardcodes HOOK → BUILD → PAYOFF → INVITATION and the five archetypes. This playbook overrides it on paper, but the skill will keep generating on the old spine until its SKILL.md is edited in Settings > Capabilities. Decision pending: rewrite the skill around HEIT, or keep it as an archetype-generator feeding HEIT scripts.
+
+### 2026-08-21 — Task sync run; task system had gone 10 weeks stale
+
+Category: System change
+
+Ran a task sync across every task surface in the workspace. `TASKS.md` had not been touched since 2026-06-11 and `_active-projects-index.md` since 2026-05-31, so all urgency labels were wrong. Rebuilt both.
+
+What the sync found:
+
+- **10 tasks overdue**, the worst by 78 days (Outline June Lead Generator Calls, was due Jun 4). Growth Plan v2 is 52 days past its Jun 30 date. Rule of Life and the 3rd Kid conversation are both 56 days over.
+- **NWU QR One-Pager** has sat on "waiting on Dillon" for 71 days. That's not waiting anymore.
+- **Three untracked open commitments** pulled out of project memory logs: the HEIT / `/short-form-engine` decision (open since Jun 25, still blocking short-form), the ambiguous A-Team Workshop status (work logged Jun 30 after it was ticked done Jun 14), and the unread 2026-07-01 System Review with 5 high-value findings.
+- **Duplicate tasks** across the local list and the Basecamp block — Rule of Life and the Emily emotional-honesty item were each tracked twice. Merged.
+- **Five NeoWorld projects** are ticked done in `TASKS.md` but their project memory logs contain nothing but the scaffolding entry. The 2026-06-13 System Review already flagged this exact gap ("project memory logs are dead while real work ships"). It hasn't been fixed.
+
+Sync limits worth knowing, because they'll recur every time:
+
+- **Basecamp is not an available connector** in this workspace. The "Assigned to Hunter" block in `TASKS.md` is a manual snapshot from 2026-05-31 and cannot be re-pulled. Any instruction that assumes Claude can write completions back to Basecamp (including the `things-completions.json` step in `CLAUDE.md`) has no mechanism behind it.
+- **Google Calendar** is connected at account level but not enabled in-chat, so `/tasks-with-calendar` cannot do the calendar half of its job.
+- **Notion** exposes only a folder-update tool in-session, so the 4 Notion-linked Content Tracking tasks stay unreadable.
+
+Two setup bugs found and flagged, not fixed (both need Hunter's call):
+
+1. **Filename case mismatch.** The PA plugin commands (`/tasks`, `/briefing`, `/eod`), the `tasks-with-calendar` skill, and the scheduled-task recipes all read `WORK AREAS/Admin-PA/tasks.md` lowercase. The real file is `TASKS.md`. Works on macOS, silently returns nothing anywhere case-sensitive.
+2. **Missing PA files.** `WORK AREAS/Admin-PA/captains-log/` and `output-log.md` were never created, so `/briefing` and `/eod` have no sources to read. PA setup is half-applied.
+
+Memory rotation checked: file is over 150 lines but every entry is Q2 or Q3 2026, so nothing is old enough to archive yet. First rotation will be due at the start of Q1 2027.
