@@ -199,7 +199,7 @@ What the sync found:
 
 Sync limits worth knowing, because they'll recur every time:
 
-- **Basecamp is not an available connector** in this workspace. The "Assigned to Hunter" block in `TASKS.md` is a manual snapshot from 2026-05-31 and cannot be re-pulled. Any instruction that assumes Claude can write completions back to Basecamp (including the `things-completions.json` step in `CLAUDE.md`) has no mechanism behind it.
+- **Basecamp is not an available *connector*** in this workspace, so remote sessions can't reach it. ⚠️ **Partially wrong as originally written — see the 2026-08-21 correction below.** There IS a mechanism: the official 37signals `basecamp` CLI, installed and authenticated on Hunter's Mac. The "Assigned to Hunter" block in `TASKS.md` is still a manual snapshot from 2026-05-31.
 - **Google Calendar** is connected at account level but not enabled in-chat, so `/tasks-with-calendar` cannot do the calendar half of its job.
 - **Notion** exposes only a folder-update tool in-session, so the 4 Notion-linked Content Tracking tasks stay unreadable.
 
@@ -229,3 +229,25 @@ Redated the seven live items against a cycle starting Mon Aug 24, marked **Propo
 **Flag raised, unresolved:** the RSG VSL is scoped as "following Taki's VSL process," but the Taki program was cancelled and refunded on Jun 1. Confirm the process is still in hand before that project starts, or it'll stall on a missing dependency.
 
 **Not done, needs Hunter's call:** `NeoWorld/june-lead-gen-coaching-project/` is now a dead project folder. Left in place rather than moved to `_archive/`, because rescoping it to the current month is more likely than archiving it.
+
+### 2026-08-21 — CORRECTION: Basecamp does have a mechanism. Three real bugs found instead.
+
+Category: System change
+
+Earlier today I logged that the `things-completions.json` step in `CLAUDE.md` "has no mechanism behind it." That was wrong, and it matters — future sessions would have read it and stopped looking.
+
+**What's actually there.** `.claude/settings.local.json` shows the official 37signals `basecamp` CLI installed at `~/.local/bin/basecamp` and authenticated, with `basecamp todos`, `basecamp todo`, `basecamp todolists`, `basecamp done`, `basecamp projects`, `basecamp people`, `basecamp message`, `basecamp search` all allowlisted. Also `~/.claude/things-sync.sh`, the Things SQLite path, and `~/bin/hunter-sync.sh` + a launchd plist that git-pushes this repo (that's what the "Auto-sync:" commits are). The pipeline was designed and mostly built. It just never worked.
+
+**Three stacked bugs, the first fatal on its own:**
+
+1. **Wrong status code.** The allowlisted Things query used `status = 1` for completed. Things 3 uses `0` incomplete, `2` canceled, **`3` completed** — there is no `1`. The query has returned zero rows every run since June. That's why `completions` has been `[]` in every committed version of the queue file.
+2. **Queue always written `synced: true`.** Step 1 only fires when `synced` is `false` and `completions` is non-empty. The gate was shut even if the query had worked.
+3. **Capability blindness.** Step 1 needs the CLI and the Mac filesystem. Remote sessions have neither and the wording never told them to notice — so they failed silently rather than saying "can't reach Basecamp from here."
+
+**The lesson worth keeping:** "the connector doesn't exist" is not the same as "the capability doesn't exist." Check `.claude/settings.local.json` before concluding Claude can't do something — the allowlist is a map of what Hunter has already wired up locally, and it's the best record of his real toolchain. I should have read it before making the claim.
+
+**Design decision made:** take the LLM out of the mechanical path. A script on the Mac reads Things, matches, and completes in Basecamp on an hourly timer. Claude only handles matches the script explicitly refuses to guess. Matching is deliberately conservative because Momentum Staff HQ and Emily // Hunter are shared projects — a wrong tick costs more than a missed one. Thresholds: ≥0.90 auto, 0.72–0.90 queued for review, two candidates within 0.05 never guessed.
+
+Built in `WORK AREAS/Admin-PA/things-basecamp-sync-project/`. Matching logic tested against Hunter's real task titles and handles the traps: `(45 min)` suffixes, the `Hunter:` prefix, and the near-identical "Outline / Send Keeping First Time Guests" pair. Untestable from here: the Things DB read and the CLI calls. Needs one dry run on the Mac.
+
+**Open, needs Hunter's decision:** the proposed `CLAUDE.md` step 1 rewrite in that project's outputs. Not applied — it changes every session's startup.
