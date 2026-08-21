@@ -157,3 +157,110 @@ Built `outputs/Task-Sync_Dry-Run_v1.command` instead. `.command` files are doubl
 Tested end-to-end in the container: all four stages run and degrade cleanly where the Mac-only pieces are absent. One false alarm worth recording — the push-back appeared to fail, but that was my own `| head -45` closing the pipe and killing the script early. Verified the staging works when the pipe stays open. Hardened it anyway: it now reports the current branch, pushes that branch rather than assuming main, and says "nothing new to commit" instead of failing silently.
 
 **The lesson:** check *how* the user is connected before prescribing the interface. Session origin was in `list_sessions` the whole time and would have saved four rounds. A phone can't run a terminal command no matter how correct the command is.
+
+### 2026-08-21 — Built the second direction: Basecamp → Things 3
+
+Category: Progress
+
+Hunter asked to sync his Basecamp tasks into Things 3 — the opposite of everything built so far. The
+brief said "one-directional by design," so that line is now retired and the project covers both ways.
+
+Mechanism is the Things URL scheme (`things:///json` via `open`), not a SQLite write. Things' database
+is read-only as far as this project is concerned; writing to it directly risks corruption and the URL
+scheme is the supported path. Adding tasks needs no auth token. Completing them does, which is why
+`--close-in-things` is opt-in rather than default.
+
+`outputs/basecamp_things_import.py`, 649 lines, stdlib only, dry run by default.
+
+### 2026-08-21 — Imported the matcher instead of copying it
+
+Category: Decision
+
+The import needs the same `normalize()`, `score()`, `containment()` and `ALIASES` the completion sync
+uses. Copying them would have been safer in the moment and wrong within a month: two matchers drifting
+apart means one direction thinks a pair matches while the other doesn't, and the visible symptom is a
+duplicate task in Things.
+
+So the import does `import things_basecamp_sync as core` and uses its functions and thresholds
+directly. Zero edits to the tested file — everything under `if __name__ == "__main__"`, so importing
+it runs nothing. Confirmed the original 26-check suite still passes untouched, which is the actual
+proof the reuse was free.
+
+The payoff showed up immediately in testing. `Ship Growth Plan v2 flow with Mark Brewer` scores 0.75
+against the Things project `Growth Plan v2` — so the import queues it for review, which is exactly
+what the completion sync does with the same pair. I'd written the test expecting an auto-link and the
+harness failed. The code was right and my expectation was wrong.
+
+### 2026-08-21 — Duplication is the failure mode here, so it gets three defenses
+
+Category: Decision
+
+In the completion direction the thing to fear was ticking off the wrong shared to-do. Going this way
+it's creating a second copy of every task on every run — a sync that does that is worse than no sync.
+
+Three layers, in order of trustworthiness: a `[bc:<id>]` marker written into the task's notes (certain
+— we wrote it); a link table at `WORK AREAS/Admin-PA/things-basecamp-links.json` mapping Basecamp id
+to Things uuid (survives a title edit); and the shared matcher, used only the first time a to-do is
+seen. Section 8 of the harness runs the full import twice and asserts the second pass creates nothing,
+then empties the link table and asserts the notes marker catches them anyway.
+
+The link table is the part with compounding value. Every pairing settled here is one the completion
+sync stops guessing at, so both directions should drift from fuzzy toward id-to-id over a few weeks.
+
+### 2026-08-21 — A review queue you can't clear is just a nag
+
+Category: Lessons learned
+
+First version queued ambiguous pairs and had no way to resolve them, so the same two items would have
+printed on every run forever. Added `--accept 204,206` (yes, same thing — record the link) and
+`--create-anyway 204` (no, different things — import it). The script prints both commands with the ids
+already filled in, so settling it is a copy-paste rather than a decision about syntax.
+
+Worth generalizing: any queue this system writes needs a defined way to empty it, designed at the same
+time as the queue. `things-completions.json` has the same shape of problem and currently relies on
+Claude noticing it.
+
+### 2026-08-21 — Faked `open` so the round trip is actually tested
+
+Category: Progress
+
+The previous harness proved the Things read and the Basecamp calls. This one had to prove a write into
+an app that doesn't exist in the container. Built a fake `open` on PATH that parses the `things:///`
+URL and applies it to the synthetic SQLite database the way Things would — inserting rows for `json`,
+setting status 3 for `update`.
+
+That makes the whole loop real: build the payload, "send" it, then re-read the database and resolve
+the uuids Things assigned by finding the marker in the notes. Without it, `resolve_new_uuids()` would
+have been the one function nothing tested, and it's the function the link table depends on.
+
+63 checks, all passing. Same trick as last time — when the dependency is out of reach, build it.
+
+### 2026-08-21 — Projected the first run against real titles before shipping
+
+Category: Progress
+
+Applying the lesson from the last session: scored the real Basecamp to-dos in `TASKS.md` against the
+real Things projects in `Things3-Setup_Guide_v1.md`. **7 create, 3 link, 2 queue, 0 wrong.**
+
+The three links are the ones that would have caused duplicates: `Hunter: Rule of Life` → `Rule of
+Life`, `Create a Video Sales Letter` → `RSG VSL` (alias table), `Proactive Emotional Honesty with
+Emily` → `Emotional Honesty with Emily` at 0.92. The seven creates are all real new work — to-dos
+sitting under projects he already has, not copies of the projects.
+
+One known rough edge, documented rather than solved: imported tasks land in the **Area**, not inside
+the matching Things project. "Film all tools in Loom for new Growth Plan" arrives in RSG — CEO rather
+than inside Growth Plan v2. Containment scores that pair at 0.46, nowhere near enough to file it
+automatically. Dragging it in once is permanent, since the marker holds the link.
+
+### 2026-08-21 — Next steps
+
+Category: Next steps
+
+1. Hunter creates a `basecamp` tag in Things — Things silently ignores tags that don't exist.
+2. Double-click `outputs/Task-Import_Dry-Run_v1.command` on the Mac. It also prints his real Area,
+   project and tag names, which is how we confirm `PROJECT_ROUTING` uses the right em dashes.
+3. Settle whatever it queues with `--accept` / `--create-anyway`.
+4. One `--apply` run, then add both scripts to `~/bin/hunter-sync.sh` — completions out first, then
+   imports in.
+5. Still unverified for both directions: whether his installed Basecamp CLI matches the documented
+   `projects list --json` / `todos list --in` shapes.

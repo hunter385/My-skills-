@@ -279,3 +279,52 @@ Two things to expect: it takes effect on the **next** session, since hooks load 
 `.claude/settings.json` is repo-shared, so this applies to remote sessions too, not just the Mac. Still unconfirmed: whether the CoWork desktop app honors `.claude/settings.json` hooks the same way Claude Code does. If a fresh session shows nothing even with a backdated task, that's the first thing to check.
 
 A reference copy stays at `WORK AREAS/Admin-PA/Session-Start-Hook_Script_v1.sh`. Both blobs are identical today — edit the one in `.claude/hooks/`, since that's the one that runs.
+
+### 2026-08-21 — Basecamp → Things 3 import built; the sync now runs both ways
+
+Category: System change
+
+Hunter asked to pull his Basecamp tasks into Things 3. The existing project only pushed completions
+the other way and its brief said "one-directional by design," so that constraint is now retired —
+`WORK AREAS/Admin-PA/things-basecamp-sync-project/` covers both directions.
+
+Mechanism is the Things URL scheme (`things:///json` driven by `open`), not a SQLite write. Adding
+tasks needs no auth token; completing them does, so closing a Things task when Basecamp finishes it
+is opt-in behind `--close-in-things`.
+
+**The reusable decision:** the new script imports the old one's matcher rather than copying it. Two
+matchers drifting apart would mean one direction thinks a pair matches while the other doesn't, and
+the symptom is a duplicate task. Worth applying anywhere this system grows a second thing that has to
+agree with a first — reuse the code, don't fork the logic. It paid off inside an hour: a pair scoring
+0.75 got queued by both directions identically, and my test expecting otherwise was the thing that
+was wrong.
+
+**A new shared artifact:** `WORK AREAS/Admin-PA/things-basecamp-links.json` maps Basecamp to-do id to
+Things task uuid. Both directions read it before falling back to string matching, so the guessing
+should shrink toward nothing as pairings accumulate.
+
+### 2026-08-21 — Standing rule: a queue needs a way to be emptied
+
+Category: Decision
+
+Built a review queue for ambiguous matches and shipped it with no way to resolve an entry — the same
+two items would have printed on every run forever. Fixed with `--accept` and `--create-anyway`, and
+the script now prints both commands with the ids pre-filled.
+
+Generalizing it, because this system writes several queues: **design the exit path at the same time
+as the queue.** `things-completions.json` has the same weakness today — it fills up and relies on
+Claude noticing it at session start, with no command that clears it.
+
+### 2026-08-21 — Confirmed the "build the environment you can't reach" pattern generalizes
+
+Category: Lessons learned
+
+Second session running where the blocker was environmental, not logical. Last time it was faking the
+Things database and the Basecamp CLI. This time it was faking macOS `open` — a script on PATH that
+parses the `things:///` URL and applies it to the synthetic database exactly as Things would.
+
+That turned the one genuinely untestable function (resolving the uuids Things assigns to newly created
+tasks, which the whole link table depends on) into a tested one. The pattern is now proven twice:
+when a dependency is out of reach, simulate it and verify everything up to the boundary, then state
+precisely what's left unknown. Both directions now ship with a short, specific list of unknowns rather
+than a vague "untested on the Mac."

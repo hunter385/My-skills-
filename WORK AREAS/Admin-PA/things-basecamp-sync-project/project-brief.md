@@ -34,3 +34,53 @@ Internal — Hunter only. Side effects are visible to his team, since Momentum S
 ## Status
 
 In progress — script written, untested. Cannot be tested from a remote session; needs one run on the Mac.
+
+---
+
+## Scope extension — 2026-08-21: the import direction
+
+Hunter asked for tasks to flow **from Basecamp into Things 3**. That's the opposite direction from
+everything above, and it changes one line of this brief: **"One-directional by design" no longer
+holds.** The project now covers both directions. Everything else in the brief still stands.
+
+### What the second direction does
+
+Reads open Basecamp to-dos assigned to Hunter and creates them in Things 3, routed to the matching
+Area, tagged `#basecamp`, with the Basecamp due date carried across as a Things deadline and a
+`when` date two days earlier.
+
+### Key constraints specific to this direction
+
+- **Things 3 can be written to, just not through SQLite.** The mechanism is the Things URL scheme
+  (`things:///json`), driven by `open`. Writing to the database directly is unsupported and would
+  risk corrupting it.
+- **Adding needs no auth token. Completing does.** `things:///update` requires a token from
+  Things → Settings → General. So closing a Things task when its Basecamp to-do is finished is
+  opt-in behind `--close-in-things`, off by default.
+- **Duplication is the failure mode, not a wrong match.** In the completion direction the danger was
+  ticking off the wrong shared to-do. Here it's creating a second copy of a task on every run.
+  Defended three ways: a `[bc:id]` marker in the task notes, a persistent link table, and the shared
+  matcher — used only on first sight.
+- **Default scope is to-dos assigned to Hunter.** Part 9 of the Things 3 guide says team work
+  belongs in Basecamp, not Things. Importing only his own to-dos keeps that boundary intact.
+  `--include-unassigned` and `--all-assignees` cross it deliberately.
+- Dry run is still the default. Nothing is created without `--apply`.
+
+### The link table
+
+`WORK AREAS/Admin-PA/things-basecamp-links.json` maps Basecamp to-do id → Things task uuid. Both
+directions read it before falling back to string matching. Every pairing the import settles is one
+the completion sync no longer has to guess at, so the fuzzy matching should shrink toward nothing.
+
+### Reference material
+
+- Script: `outputs/basecamp_things_import.py` (imports its matcher from `things_basecamp_sync.py`)
+- Harness: `outputs/test_basecamp_things_import.py` — 63 checks
+- Setup: `outputs/Basecamp-Things-Import_Setup_v1.md`
+- Runner: `outputs/Task-Import_Dry-Run_v1.command`
+- Things URL scheme: https://culturedcode.com/things/support/articles/2803573/
+
+### Status
+
+Written and verified against a simulated Mac. Same blocker as the other direction — needs one run on
+the real machine.
