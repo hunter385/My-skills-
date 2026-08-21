@@ -264,3 +264,22 @@ Category: Next steps
    imports in.
 5. Still unverified for both directions: whether his installed Basecamp CLI matches the documented
    `projects list --json` / `todos list --in` shapes.
+
+### 2026-08-21 — Collapsed the run into one double-click
+
+Category: Progress
+
+Hunter said "sync to things." Confirmed by testing rather than assuming that this session can't:
+Linux container, no macOS `open`, no Things database, no Basecamp CLI, and no Basecamp or Things
+connector in the MCP registry (only Asana, unconnected). Both ends are physically on the Mac.
+
+So the useful move was shortening his path, not explaining the blocker again. `Sync-To-Things_v1.command`
+does preflight → dry run → confirm → apply → push the result back, in one double-click. It hard-stops
+before the dry run if the Things database, the Basecamp CLI, or Basecamp auth is missing, so a broken
+environment can't half-run. Verified in-container that it refuses cleanly rather than continuing.
+
+The dry-run-then-confirm shape keeps the safety the project was built around while still being one
+action. Typing anything other than `yes` cancels.
+
+Supersedes `Task-Import_Dry-Run_v1.command` for normal use — that one stays for diagnostics, since it
+also dumps his real Area, project and tag names.
