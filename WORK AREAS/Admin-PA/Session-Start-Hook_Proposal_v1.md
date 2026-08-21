@@ -2,7 +2,11 @@
 
 **Verdict: the idea is worth keeping. The implementation isn't.**
 
-Nothing is installed. Both files here are inert until you wire them up — instructions at the bottom.
+> **INSTALLED 2026-08-21.** Live at `.claude/hooks/session-start.sh`, registered in
+> `.claude/settings.json`. It takes effect on the **next** session — hooks load at startup, so the
+> session that installed it isn't running it. The copy in this folder
+> (`Session-Start-Hook_Script_v1.sh`) is a reference backup; edit the one in `.claude/hooks/`, that's
+> the one that runs.
 
 ---
 
@@ -80,44 +84,44 @@ counts.
 
 ---
 
-## Install, if you want it
+## Verifying it works
 
-Two steps. Skip them and nothing changes.
+Pull, then run it by hand:
 
 ```bash
 cd "$HOME/Desktop/Hunter Wilson"
-mkdir -p .claude/hooks
-cp "WORK AREAS/Admin-PA/Session-Start-Hook_Script_v1.sh" .claude/hooks/session-start.sh
-chmod +x .claude/hooks/session-start.sh
-```
-
-Then create `.claude/settings.json` — or merge into it if it exists:
-
-```json
-{
-  "hooks": {
-    "SessionStart": [
-      {
-        "hooks": [
-          {
-            "type": "command",
-            "command": "$CLAUDE_PROJECT_DIR/.claude/hooks/session-start.sh"
-          }
-        ]
-      }
-    ]
-  }
-}
-```
-
-Test it before trusting it:
-
-```bash
+git pull origin main
 echo '{"source":"startup"}' | CLAUDE_PROJECT_DIR="$PWD" .claude/hooks/session-start.sh
 ```
 
-Expect silence today. To watch it fire, temporarily change a `Proposed:` date in `TASKS.md` to last
-week and run it again.
+**Expect silence.** Every date in `TASKS.md` is currently in the future and the sync stamp is today,
+so it has nothing to report. Silence is the hook working, not the hook broken.
+
+To watch it actually fire, run it against a backdated copy — this leaves your real file alone:
+
+```bash
+T=$(mktemp -d); mkdir -p "$T/WORK AREAS/Admin-PA"
+sed -e 's/Proposed: Wed Aug 26/Proposed: Wed Aug 12/' \
+    -e 's/_Last synced: 2026-08-21/_Last synced: 2026-07-15/' \
+    "WORK AREAS/Admin-PA/TASKS.md" > "$T/WORK AREAS/Admin-PA/TASKS.md"
+echo '{"source":"startup"}' | CLAUDE_PROJECT_DIR="$T" .claude/hooks/session-start.sh
+```
+
+That printed, when I ran it here:
+
+```
+TASKS.md: 1 task(s) past their date — worst is "Rebuild the GP Google Doc toolkits and send to
+Mark and Emily" at 9 days. TASKS.md was last synced 37 days ago — run a task sync. (15 open in
+total.) Mention this in one line, then wait for my request — do not dump the list.
+```
+
+Note the count: **15 open**, not the 22 raw `- [ ]` lines in the file. Future Ideas and the Done
+archive are correctly excluded.
+
+## Turning it off
+
+Delete the `hooks` block from `.claude/settings.json`, or rename the script. The hook file alone does
+nothing — registration is what activates it.
 
 **One caveat I can't clear from here:** whether a hook registered in `.claude/settings.json` runs in
 the CoWork desktop app the same way it does in Claude Code. If you install it and see nothing on a

@@ -265,3 +265,17 @@ Proposal and script in `WORK AREAS/Admin-PA/Session-Start-Hook_Proposal_v1.md` a
 **Standing rule for the other two abandoned branches:** `claude/task-list-8HWEF` and `claude/tasks-endpoint-review-25DAE` are cut from `ae34624 Initial commit` and carry `.claude/settings.local.json` with 55 allowlist entries against main's 91. Never cherry-pick their commits wholesale — take individual files, and check what else the commit touches first.
 
 **Pattern worth naming from this whole session:** three separate bugs in this system came from the same root — code or instructions written against the wrong environment, then failing silently. The Basecamp step, the Things status code, and this hook. When something in this setup "never seems to run," check first whether it was written for the Mac or for a container, and whether its failure path is loud or quiet.
+
+### 2026-08-21 — SessionStart hook installed
+
+Category: System change
+
+Installed the rewritten hook at `.claude/hooks/session-start.sh`, registered in a new `.claude/settings.json` (the repo had only `settings.local.json` before, so no merge was needed). Executable bit is tracked in git as `100755`, so it survives a clone.
+
+Behavior: silent unless a task in `TASKS.md` is past its date or the file is more than 14 days unsynced. When it does fire it prints one line naming the worst offender and the sync age, and instructs Claude to mention it briefly rather than dump the list. Parked and archived sections are excluded — verified by the count reading 15 open rather than the 22 raw checkbox lines in the file.
+
+Two things to expect: it takes effect on the **next** session, since hooks load at startup; and it prints nothing today, because every date in `TASKS.md` is currently in the future. Silence is correct behavior, not failure.
+
+`.claude/settings.json` is repo-shared, so this applies to remote sessions too, not just the Mac. Still unconfirmed: whether the CoWork desktop app honors `.claude/settings.json` hooks the same way Claude Code does. If a fresh session shows nothing even with a backdated task, that's the first thing to check.
+
+A reference copy stays at `WORK AREAS/Admin-PA/Session-Start-Hook_Script_v1.sh`. Both blobs are identical today — edit the one in `.claude/hooks/`, since that's the one that runs.
