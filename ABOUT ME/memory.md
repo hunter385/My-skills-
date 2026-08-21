@@ -328,3 +328,35 @@ tasks, which the whole link table depends on) into a tested one. The pattern is 
 when a dependency is out of reach, simulate it and verify everything up to the boundary, then state
 precisely what's left unknown. Both directions now ship with a short, specific list of unknowns rather
 than a vague "untested on the Mac."
+
+### 2026-08-21 — The sync work wasn't reaching the Mac; merged to main
+
+Category: System change
+
+Hunter asked where `Task-Import_Dry-Run_v1.command` was. It wasn't on his Mac — it lived only on
+`claude/basecamp-things-task-sync-87uv08`, and his Mac syncs `main`. Merged the branch to main with
+his approval (fast-forward, no conflicts). Both `.command` runners are on main at mode `100755`, so
+the executable bit survives the clone and they stay double-clickable.
+
+**A chicken-and-egg worth avoiding in future:** the runners exist so he doesn't have to type terminal
+commands, but a runner sitting on an unmerged branch can only be fetched with a terminal command.
+Anything built for him to *run on the Mac* has to land on `main`, or it may as well not exist.
+
+**Open question, unresolved:** his Mac's auto-sync last pushed `2026-07-01` — seven weeks ago. That
+isn't proof the pull side is broken, since those commits only appear when the Mac has local changes
+to push. But nothing has come from that machine in seven weeks, and two sessions of work now depend
+on it pulling. First thing to check next session.
+
+### 2026-08-21 — Correction: I diagnosed from a stale remote ref
+
+Category: Lessons learned
+
+Told Hunter "main has none of the sync work" and built a whole explanation on it. Wrong. `origin/main`
+had advanced on the server; my local remote-tracking ref was from container start, and the earlier
+`git fetch origin <branch>` I'd run updates only that branch, not `origin/main`. Main already had the
+completion sync and its runner.
+
+**Rule: `git fetch` the specific ref immediately before reasoning about what a remote branch contains.**
+A remote-tracking ref is a cached snapshot, not the remote. This is the same class of error as the
+three silent-failure bugs already logged in this project — reading state from the wrong place and
+trusting it. The correction was cheap here only because I re-checked before acting on it.
