@@ -72,7 +72,23 @@ cp "$HOME/Desktop/Hunter Wilson/WORK AREAS/Admin-PA/things-basecamp-sync-project
 chmod +x ~/.claude/bin/things_basecamp_sync.py
 ```
 
-**2. Confirm the Basecamp CLI still answers.**
+**2. Run the test harness first. It touches nothing real.**
+
+```bash
+cd "$HOME/Desktop/Hunter Wilson/WORK AREAS/Admin-PA/things-basecamp-sync-project/outputs"
+python3 test_things_basecamp_sync.py
+```
+
+This builds a throwaway Things database and a fake Basecamp CLI, then runs the real
+sync against them. 26 checks covering the status codes, the completion window, the
+trashed/heading/canceled exclusions, assignee filtering, the matching thresholds, and
+that `--apply` completes exactly the right ids and nothing else. It should end with
+`All checks passed.` and it never reads your real Things data or calls the real CLI.
+
+If this fails on your machine but passed on mine, the difference is your Python
+version — say so and I'll fix it.
+
+**3. Confirm the Basecamp CLI still answers.**
 
 ```bash
 ~/.local/bin/basecamp accounts
@@ -86,7 +102,7 @@ If `projects list --json` isn't the right shape for your installed version, fix 
 > with `can't open file`. `$HOME` expands inside double quotes and the quotes keep the spaces
 > in `Hunter Wilson` and `WORK AREAS` safe.
 
-**3. Dry run first. Do not skip this.**
+**4. Dry run first. Do not skip this.**
 
 ```bash
 python3 ~/.claude/bin/things_basecamp_sync.py --hours 336
@@ -94,13 +110,13 @@ python3 ~/.claude/bin/things_basecamp_sync.py --hours 336
 
 Two weeks of lookback, nothing written. Read every line. `WOULD COMPLETE` is what it intends to tick; `NEEDS A CALL` is what it's unsure about. If anything under `WOULD COMPLETE` looks wrong, tell me and I'll tighten the matching before you go live.
 
-**4. Go live once, by hand.**
+**5. Go live once, by hand.**
 
 ```bash
 python3 ~/.claude/bin/things_basecamp_sync.py --hours 336 --apply
 ```
 
-**5. Then put it on a timer.**
+**6. Then put it on a timer.**
 
 Save as `~/Library/LaunchAgents/com.hunter.things-basecamp-sync.plist`:
 

@@ -76,3 +76,25 @@ Category: Lessons learned
 The dry-run command I gave Hunter was `python3 "~/Desktop/Hunter Wilson/..."`. Bash only expands a leading tilde when it is unquoted, so that resolves to a literal `~` directory and fails with `can't open file`. Same bug was in the setup doc's `cp` line. Both now use `"$HOME/..."`, which expands inside double quotes while still protecting the spaces in `Hunter Wilson` and `WORK AREAS`. Added a quoting note to the setup doc so it doesn't come back.
 
 When writing shell commands for paths with spaces under the home directory, `"$HOME/path with spaces"` is the only form that gets both halves right.
+
+### 2026-08-21 — Plumbing verified against a synthetic environment
+
+Category: Progress
+
+Couldn't run the script against Hunter's Mac from a remote session, so built the environment instead: `outputs/test_things_basecamp_sync.py` creates a throwaway Things SQLite database and a fake `basecamp` CLI, then runs the real sync against them. 26 checks, all passing.
+
+What this actually proves, beyond reading the code:
+
+- The SQL is right. `status = 3` returns completed rows; `0` (open), `2` (canceled), trashed rows, `type = 2` headings, `----` separators, and null `stopDate` rows are all correctly excluded. The Core Data timestamp math works — a task completed 900h ago falls outside a 336h window, one completed 100h ago falls inside.
+- The CLI plumbing is right. Projects and to-dos parse across multiple projects, already-completed to-dos are skipped, and to-dos assigned to someone else are dropped while unassigned ones stay in play.
+- `--apply` completes exactly the confident ids and nothing else. The ambiguous "Hunter: Rule of Life" match was never touched.
+- Dry run genuinely writes nothing, and `synced` only flips to `true` after a real push.
+- A missing Things database fails loudly with a useful message rather than silently returning nothing — which was bug #3 in the original pipeline.
+
+What remains unverified is only what a simulation can't cover: whether his installed `basecamp` CLI uses the documented `projects list --json` / `todos list --in` / `todos complete` shapes, whether auth is still valid, and how his real Things titles compare to his real Basecamp titles. The harness is now step 2 of the setup doc so he can pre-flight on his own machine without touching live data.
+
+### 2026-08-21 — Lesson: build the environment when you can't reach it
+
+Category: Lessons learned
+
+Twice I told Hunter "I can't run this, only you can" — true, but not useful on its own. The better move when a dependency is out of reach is to simulate it and verify everything up to the boundary. That turned "verified logic on unverified plumbing" into a short, specific list of what's genuinely still unknown. Worth reaching for whenever the blocker is environmental rather than logical.
