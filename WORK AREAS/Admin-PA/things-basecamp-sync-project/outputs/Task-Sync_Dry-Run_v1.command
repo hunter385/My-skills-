@@ -52,10 +52,17 @@ OUT="$(pwd)/last-dry-run.txt"
 
 echo
 echo "Sending results back to Claude..."
+BRANCH="$(git -C "$REPO" rev-parse --abbrev-ref HEAD 2>/dev/null)"
+if [ "$BRANCH" != "main" ]; then
+  echo "NOTE: your checkout is on '$BRANCH', not main. Pushing that branch instead."
+fi
 git -C "$REPO" add "WORK AREAS/Admin-PA/things-basecamp-sync-project/outputs/last-dry-run.txt" \
-                   "WORK AREAS/Admin-PA/things-completions.json" 2>/dev/null
-git -C "$REPO" commit -q -m "Dry run output from $(hostname -s) $(date '+%Y-%m-%d %H:%M')" 2>&1 | tail -2
-git -C "$REPO" push origin main 2>&1 | tail -2
+                   "WORK AREAS/Admin-PA/things-completions.json"
+if git -C "$REPO" commit -q -m "Dry run output from $(hostname -s) $(date '+%Y-%m-%d %H:%M')"; then
+  git -C "$REPO" push origin "$BRANCH" 2>&1 | tail -2
+else
+  echo "Nothing new to commit — output unchanged since last run."
+fi
 
 echo
 echo "Pushed. Tell Claude 'the dry run is in' and it will read the output."

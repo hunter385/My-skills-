@@ -145,3 +145,15 @@ Brought `WORK AREAS/Admin-PA/Things3-Setup_Guide_v1.md` onto main from the aband
 The earlier version lines up with main's `about-me.md`: five short-form per week, bi-weekly coaching call prep alternating with Mark, protected read-and-shape block. That's the one that's true.
 
 Added a dated banner rather than editing his content: the structure holds, the dates ("Wednesday", "June 30", "End of June") don't, and the banner points at `TASKS.md` for live status. Also noted that renaming an Area or project here means checking the sync's `ALIASES` table — the guide and the matcher are now coupled.
+
+### 2026-08-21 — Built a double-clickable runner; Hunter is on iOS
+
+Category: Lessons learned
+
+Confirmed via `list_sessions` that this session's origin is **iOS** and every other session is cloud or bridge, all disconnected. `ListAgents` returns nothing. There is no shell on Hunter's Mac reachable from here, and — more to the point — he has been on his phone this whole time. I spent four exchanges handing him terminal commands he had no way to run.
+
+Built `outputs/Task-Sync_Dry-Run_v1.command` instead. `.command` files are double-clickable in Finder, so when he's next at the Mac it's one action, no typing. It pulls, probes the Basecamp CLI (`--version`, `accounts`, `projects list --json`), runs the harness, runs the dry run, tees everything to `last-dry-run.txt`, and commits that back — so the result returns through git rather than copy-paste. Files arriving via `git pull` aren't Gatekeeper-quarantined, so double-click works without a security prompt.
+
+Tested end-to-end in the container: all four stages run and degrade cleanly where the Mac-only pieces are absent. One false alarm worth recording — the push-back appeared to fail, but that was my own `| head -45` closing the pipe and killing the script early. Verified the staging works when the pipe stays open. Hardened it anyway: it now reports the current branch, pushes that branch rather than assuming main, and says "nothing new to commit" instead of failing silently.
+
+**The lesson:** check *how* the user is connected before prescribing the interface. Session origin was in `list_sessions` the whole time and would have saved four rounds. A phone can't run a terminal command no matter how correct the command is.
