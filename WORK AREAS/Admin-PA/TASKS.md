@@ -4,50 +4,68 @@ Standalone action items not tied to a full project session. Updated by Claude ea
 
 Format: `- [ ] Task description | Context | Due`
 
-_Last synced: 2026-08-21 — overdue math recalculated against today. Previous sync: 2026-06-11 (10 weeks stale)._
+_Last synced: 2026-08-21 (Friday). Dead items cleared, live items redated. Previous sync: 2026-06-11._
 
 ---
 
-## 🔴 Overdue
+## 🔴 Live and overdue — dates proposed, confirm or change
 
-Everything here was open at the last sync and had a due date that has now passed. None of these have been confirmed done — they need a decision: do it, redate it, or kill it.
+Seven of the ten overdue items are still real work. They didn't expire, they just lost their dates. Proposed dates below assume a cycle starting Mon Aug 24.
 
-- [ ] Outline June Lead Generator Calls | NeoWorld | Was due Jun 4 — **78 days overdue**
-- [ ] Film all tools in Loom for new Growth Plan | Momentum Staff HQ | Was due Jun 15 — **67 days overdue**
-- [ ] Rebuild the GP Google Doc toolkits and send to Mark and Emily | Momentum Staff HQ | Was due Jun 17 — **65 days overdue**
-- [ ] Update the GP cue sheet template in coaching call cue sheet | Momentum Staff HQ | Was due Jun 17 — **65 days overdue**
-- [ ] New Rule of Life (Practicing the Way) | Personal · Emily // Hunter | Was due Jun 26 — **56 days overdue**
-- [ ] 3rd Kid: Second Conversation | Emily // Hunter | Was due Jun 26 — **56 days overdue**
-- [ ] Ship Growth Plan v2 flow with Mark Brewer | RSG | Was due Jun 30 — **52 days overdue**
-- [ ] Edit Healthy Volunteer Culture and assets (45 min) | Content Tracking | Was due Jul 1 — **51 days overdue**
-- [ ] Outline Keeping First Time Guests (Engagement Pathway) (1 hr) | Content Tracking | Was due Jul 8 — **44 days overdue**
-- [ ] Send Keeping First Time Guests (Engagement Pathway) to team for editing | Content Tracking | Was due Jul 28 — **24 days overdue**
+### Growth Plan v2 — the big one (52 days over, Mark is waiting)
 
-## 🟡 Open — no hard date
+These four are one chain, in dependency order. Nothing ships until the toolkits are rebuilt.
 
-- [ ] Film RSG VSL for YouTube | RSG | This cycle (carried since Jun 11, never dated)
-- [ ] Create a Video Sales Letter | Momentum Staff HQ | No date — likely the same item as the RSG VSL above; merge or kill one
-- [ ] Curriculum + workshop items (4 Notion-linked tasks) | Content Tracking | No date — Notion links not readable from here
+- [ ] Rebuild the GP Google Doc toolkits and send to Mark and Emily | RSG · Momentum Staff HQ | **Proposed: Wed Aug 26**
+- [ ] Update the GP cue sheet template in coaching call cue sheet | RSG · Momentum Staff HQ | **Proposed: Fri Aug 28**
+- [ ] Film all tools in Loom for new Growth Plan | RSG · Momentum Staff HQ | **Proposed: Fri Sep 4**
+- [ ] Ship Growth Plan v2 flow with Mark Brewer | RSG | **Proposed: Fri Sep 11**
 
-## ⏸ Waiting on someone
+### Content Tracking — also a chain
 
-- [ ] Build NWU QR One-Pager | NeoWorld | Waiting on Dillon since Jun 11 — **71 days with no movement**, chase or reassign
+- [ ] Edit Healthy Volunteer Culture and assets (45 min) | Content Tracking | **Proposed: Mon Aug 31**
+- [ ] Outline Keeping First Time Guests (Engagement Pathway) (1 hr) | Content Tracking | **Proposed: Fri Sep 11**
+- [ ] Send Keeping First Time Guests to team for editing | Content Tracking | **Proposed: Fri Sep 18** — blocked until the outline is done
 
-## 🆕 Surfaced this sync
+### Personal — overdue twice now
 
-Open commitments found in project memory logs that were never tracked as tasks.
+- [ ] 3rd Kid: Second Conversation | Emily // Hunter | **Proposed: this weekend, Aug 22–23** — needs a slot, not a deadline
+- [ ] New Rule of Life (Practicing the Way) | Personal · Emily // Hunter | **Proposed: Fri Sep 4** for a first draft
 
-- [ ] Decide the HEIT / `/short-form-engine` conflict — rewrite the skill around HEIT, or keep it as an archetype generator feeding HEIT scripts | RSG | Open since Jun 25, blocks all short-form output
-- [ ] Confirm whether the A-Team Workshop work logged Jun 30 (How Builder, coaching-call sequencing, framework menu) is a second workshop or an extension of the one marked done Jun 14 | RSG | No date
-- [ ] Read and action the 2026-07-01 System Review — 5 high-value findings, still marked unread | Admin | No date
+## 🟡 Live — decisions, not tasks
+
+Each of these is one call you make in under ten minutes. All three are blocking something.
+
+- [ ] Decide the HEIT / `/short-form-engine` conflict — rewrite the skill around HEIT, or keep it as an archetype generator feeding HEIT scripts | RSG | **Proposed: Mon Aug 24** — blocks every short-form video until settled
+- [ ] NWU QR One-Pager — 71 days waiting on Dillon. Chase him or take it back | NeoWorld | **Proposed: Mon Aug 24**
+- [ ] Is the A-Team Workshop work logged Jun 30 a second workshop or an extension of the one closed Jun 14? | RSG | **Proposed: Mon Aug 24**
+- [ ] Read and action the 2026-07-01 System Review — 5 high-value findings, still unread | Admin | **Proposed: Fri Aug 28**
+
+## 🟢 Live — no date needed yet
+
+- [ ] Film RSG VSL for YouTube | RSG | This cycle — ⚠️ scoped as "following Taki's VSL process," but the Taki program was cancelled and refunded Jun 1. Confirm you still have the process before starting.
+- [ ] Re-pull the 4 Notion-linked Curriculum + workshop items from Content Tracking so they have real names | Content Tracking | This cycle — replaces the old placeholder entry
+
+---
+
+## ⚰️ Cleared 2026-08-21 — dead
+
+Not deleted, recorded. Each with the reason it's dead.
+
+- [x] ~~Outline June Lead Generator Calls~~ | NeoWorld | **Dead: the month expired.** Due Jun 4, cleared Aug 21. NeoWorld runs monthly cycles — this was two cycles ago. If lead-gen calls still matter, that's a fresh task for the current month, not a resurrection of this one.
+- [x] ~~Create a Video Sales Letter~~ | Momentum Staff HQ | **Dead: duplicate.** Same deliverable as "Film RSG VSL for YouTube," tracked twice across the local list and the Basecamp snapshot. Kept the RSG one.
+- [x] ~~Curriculum + workshop items (4 Notion-linked tasks)~~ | Content Tracking | **Dead: unworkable placeholder.** No names, no dates, no readable Notion links. A task you can't act on isn't a task. Replaced with the re-pull action above.
 
 ---
 
 ## 📋 Basecamp — Assigned to Hunter
 
-⚠️ **This block is a stale snapshot, not a live sync.** Last pulled from Basecamp on 2026-05-31 — nearly 12 weeks ago. Basecamp is not available as a connector in this workspace, so it can't be re-pulled automatically. Everything below either moved to the sections above or is listed here for reference only. Re-pull manually before trusting it.
+⚠️ **Stale snapshot, not a live sync.** Last pulled 2026-05-31 — 12 weeks ago. Basecamp is not an available connector in this workspace, so it can't be re-pulled automatically. Everything actionable from that pull has moved into the sections above. Re-pull manually before trusting this block.
 
 ### Future Ideas (not this cycle)
+
+Parked deliberately, so not overdue and not cleared.
+
 - [ ] Hunter's Nutrition — address food habits | Emily // Hunter
 - [ ] Hunter Slowing Down — build margin practices | Emily // Hunter
 - [ ] Dillon + Holly Church Convo | Emily // Hunter
@@ -60,7 +78,7 @@ Open commitments found in project memory logs that were never tracked as tasks.
 
 ## ✅ Done — June cycle (archive)
 
-Kept for the record. Duplicates across the old local and Basecamp lists are noted inline.
+Kept for the record. Duplicates across the old local and Basecamp lists noted inline.
 
 **RSG**
 - [x] Complete editing rounds with Dad, Mark, and Emily on A-Team Workshop | Done 2026-06-01
@@ -93,10 +111,10 @@ Kept for the record. Duplicates across the old local and Basecamp lists are note
 
 What this sync could and couldn't reach:
 
-- **Basecamp:** not connected. The assigned-tasks block above is a 12-week-old snapshot. No live pull possible.
+- **Basecamp:** not connected. The assigned-tasks block is a 12-week-old manual snapshot. No live pull possible, and no way to write completions back.
 - **`things-completions.json`:** `synced: true`, `completions: []`. Nothing queued to push.
-- **Notion:** connected, but only a folder-update tool is exposed in this session — the 4 Notion-linked Content Tracking items can't be read.
+- **Notion:** connected, but only a folder-update tool is exposed in-session, so the Notion-linked Content Tracking items can't be read.
 - **Google Calendar:** connected at account level but not enabled in this chat, so no calendar cross-check. `/tasks-with-calendar` will fail the same way until it's toggled on.
 - **Deduped:** "New Rule of Life" merged with Basecamp "Hunter: Rule of Life" (same item, same Jun 26 date). "Emotional honesty practice with Emily" merged with "Proactive Emotional Honesty with Emily."
-- **Filename mismatch:** the PA plugin commands (`/tasks`, `/briefing`, `/eod`), the `tasks-with-calendar` skill, and the scheduled-task recipes all read `WORK AREAS/Admin-PA/tasks.md` (lowercase). This file is `TASKS.md`. That works on macOS and breaks anywhere case-sensitive. Pick one name.
+- **Filename mismatch:** the PA plugin commands (`/tasks`, `/briefing`, `/eod`), the `tasks-with-calendar` skill, and the scheduled-task recipes all read `WORK AREAS/Admin-PA/tasks.md` (lowercase). This file is `TASKS.md`. Works on macOS, silently returns nothing anywhere case-sensitive. Pick one name.
 - **Missing PA files:** `captains-log/` and `output-log.md` don't exist, so `/briefing` and `/eod` have nothing to read.

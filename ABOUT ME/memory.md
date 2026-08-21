@@ -209,3 +209,23 @@ Two setup bugs found and flagged, not fixed (both need Hunter's call):
 2. **Missing PA files.** `WORK AREAS/Admin-PA/captains-log/` and `output-log.md` were never created, so `/briefing` and `/eod` have no sources to read. PA setup is half-applied.
 
 Memory rotation checked: file is over 150 lines but every entry is Q2 or Q3 2026, so nothing is old enough to archive yet. First rotation will be due at the start of Q1 2027.
+
+### 2026-08-21 — Dead tasks cleared; only 3 of 10 overdue items were actually dead
+
+Category: Decision
+
+Hunter said clear the dead ones. Worked through all ten overdue items. Three were dead, seven were live work that had just lost its date.
+
+**Cleared as dead** (recorded in `TASKS.md`, not deleted):
+
+1. **Outline June Lead Generator Calls** — the month expired. NeoWorld runs monthly cycles, so a June deliverable in August is two cycles gone. If lead-gen calls still matter it's a fresh task, not a resurrection.
+2. **Create a Video Sales Letter** (Basecamp) — duplicate of "Film RSG VSL for YouTube." Kept the RSG one.
+3. **Curriculum + workshop items (4 Notion-linked tasks)** — a placeholder with no names, no dates, and unreadable links. A task you can't act on isn't a task. Replaced with a re-pull action.
+
+**The useful principle from this:** almost nothing on that list had genuinely expired. Time-boxed items die when their window closes (the June calls). Duplicates and unworkable placeholders were never alive. Everything else — the Growth Plan v2 chain, the Content Tracking chain, Rule of Life, the 3rd Kid conversation — was real work that looked dead only because it had been undated for ten weeks. Staleness is not death. Default to redating, not killing.
+
+Redated the seven live items against a cycle starting Mon Aug 24, marked **Proposed** so Hunter confirms rather than inherits dates he never set. Sequenced the two dependency chains in order: GP toolkits → cue sheet → Loom films → ship with Mark; Healthy Volunteer Culture → Keeping First Time Guests outline → send to team.
+
+**Flag raised, unresolved:** the RSG VSL is scoped as "following Taki's VSL process," but the Taki program was cancelled and refunded on Jun 1. Confirm the process is still in hand before that project starts, or it'll stall on a missing dependency.
+
+**Not done, needs Hunter's call:** `NeoWorld/june-lead-gen-coaching-project/` is now a dead project folder. Left in place rather than moved to `_archive/`, because rescoping it to the current month is more likely than archiving it.
