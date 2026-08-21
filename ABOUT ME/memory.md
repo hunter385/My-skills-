@@ -251,3 +251,17 @@ Earlier today I logged that the `things-completions.json` step in `CLAUDE.md` "h
 Built in `WORK AREAS/Admin-PA/things-basecamp-sync-project/`. Matching logic tested against Hunter's real task titles and handles the traps: `(45 min)` suffixes, the `Hunter:` prefix, and the near-identical "Outline / Send Keeping First Time Guests" pair. Untestable from here: the Things DB read and the CLI calls. Needs one dry run on the Mac.
 
 **Open, needs Hunter's decision:** the proposed `CLAUDE.md` step 1 rewrite in that project's outputs. Not applied — it changes every session's startup.
+
+### 2026-08-21 — SessionStart hook salvaged as a staleness alarm, not a report
+
+Category: System change
+
+Checked the SessionStart hook on the abandoned `claude/tasks-endpoint-review-25DAE` branch. Ran it. It hardcoded `/home/user/My-skills-/...` — a remote container path — so on the Mac it warned to stderr and exited 0. It had only ever worked in remote sessions. It also emitted `{"type":"user","content":...}`, which isn't part of the documented SessionStart contract, and dumping the full task list every startup fights the "no wall of text" rule while duplicating `/morning` and `/briefing`.
+
+Kept the one good idea: **a hook is deterministic where `CLAUDE.md` is advisory.** The task list rotted for ten weeks precisely because nothing forced the staleness into view — instructions the model may or may not act on aren't a control. Rewrote it as a one-line alarm that stays silent unless a task is past its date or the file is over two weeks unsynced, uses `$CLAUDE_PROJECT_DIR` so it's portable, writes plain stdout, and tells Claude to mention it in one line rather than dump the list. Parked and archived sections excluded from the counts.
+
+Proposal and script in `WORK AREAS/Admin-PA/Session-Start-Hook_Proposal_v1.md` and `_Script_v1.sh`. **Nothing installed** — both inert until registered in `.claude/settings.json`, which is Hunter's call since it changes every session start.
+
+**Standing rule for the other two abandoned branches:** `claude/task-list-8HWEF` and `claude/tasks-endpoint-review-25DAE` are cut from `ae34624 Initial commit` and carry `.claude/settings.local.json` with 55 allowlist entries against main's 91. Never cherry-pick their commits wholesale — take individual files, and check what else the commit touches first.
+
+**Pattern worth naming from this whole session:** three separate bugs in this system came from the same root — code or instructions written against the wrong environment, then failing silently. The Basecamp step, the Things status code, and this hook. When something in this setup "never seems to run," check first whether it was written for the Mac or for a container, and whether its failure path is loud or quiet.
